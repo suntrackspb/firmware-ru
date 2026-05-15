@@ -1,0 +1,9 @@
+{
+  "version": "2.7.23.5e2ca8a-RU",
+  "targets": [
+    {
+      "board": "tlora-c6",
+      "platform": "esp32c6"
+    }
+  ]
+}
