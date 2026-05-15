@@ -1,0 +1,201 @@
+name: Build RU Firmware (Кириллица)
+
+on:
+  workflow_dispatch:
+    inputs:
+      base_version:
+        description: 'Official git tag to build from (e.g. v2.7.21.fc6c89a)'
+        required: true
+        type: string
+      channel:
+        description: 'Release channel for firmware-list-RU.json'
+        required: true
+        default: 'alpha'
+        type: choice
+        options:
+          - stable
+          - alpha
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-ru-${{ github.event.inputs.base_version }}
+  cancel-in-progress: true
+
+jobs:
+  # ─── Generate build matrix ────────────────────────────────────────────────────
+  setup:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.gen-matrix.outputs.matrix }}
+      version: ${{ steps.version.outputs.version }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.base_version }}
+          submodules: recursive
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: pip
+          cache-dependency-path: .github/actions/**
+
+      - run: pip install -U platformio
+
+      - name: Generate release-level build matrix
+        id: gen-matrix
+        run: |
+          TARGETS=$(./bin/generate_ci_matrix.py all)
+          echo "matrix=$TARGETS" >> $GITHUB_OUTPUT
+          echo "### Build targets" >> $GITHUB_STEP_SUMMARY
+          echo '```json' >> $GITHUB_STEP_SUMMARY
+          echo "$TARGETS" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - name: Get version string
+        id: version
+        run: echo "version=$(./bin/buildinfo.py long)" >> $GITHUB_OUTPUT
+        env:
+          BUILD_LOCATION: local
+
+  # ─── Build each board with -D OLED_RU=1 ─────────────────────────────────────
+  build:
+    needs: setup
+    strategy:
+      fail-fast: false
+      matrix:
+        build: ${{ fromJson(needs.setup.outputs.matrix) }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.base_version }}
+          submodules: recursive
+
+      - name: Inject -D OLED_RU=1 into global build flags
+        run: |
+          sed -i '/^build_flags/a\\t-D OLED_RU=1' platformio.ini
+          echo "Patched platformio.ini:"
+          grep -A5 '^build_flags' platformio.ini | head -10
+
+      - name: Build ${{ matrix.build.board }} (${{ matrix.build.platform }})
+        uses: meshtastic/gh-action-firmware@main
+        with:
+          pio_platform: ${{ matrix.build.platform }}
+          pio_env: ${{ matrix.build.board }}
+          pio_target: build
+
+      - name: Download Unified OTA firmware (esp32 / esp32s3)
+        if: matrix.build.platform == 'esp32' || matrix.build.platform == 'esp32s3'
+        working-directory: release
+        env:
+          PIO_PLATFORM: ${{ matrix.build.platform }}
+        run: |
+          curl -fsSL -o "mt-${PIO_PLATFORM}-ota.bin" \
+            "https://github.com/meshtastic/esp32-unified-ota/releases/latest/download/mt-${PIO_PLATFORM}-ota.bin"
+
+      - name: Download BLE-Only OTA firmware (esp32c3 / esp32c6)
+        if: matrix.build.platform == 'esp32c3' || matrix.build.platform == 'esp32c6'
+        working-directory: release
+        run: |
+          curl -fsSL -o bleota-c3.bin \
+            "https://github.com/meshtastic/firmware-ota/releases/latest/download/firmware-c3.bin"
+
+      - name: Add OTA file to manifest
+        if: >
+          matrix.build.platform == 'esp32' || matrix.build.platform == 'esp32s3' ||
+          matrix.build.platform == 'esp32c3' || matrix.build.platform == 'esp32c6'
+        working-directory: release
+        env:
+          PIO_PLATFORM: ${{ matrix.build.platform }}
+        run: |
+          if [[ "$PIO_PLATFORM" == "esp32" || "$PIO_PLATFORM" == "esp32s3" ]]; then
+            OTA_FILE="mt-${PIO_PLATFORM}-ota.bin"
+          else
+            OTA_FILE="bleota-c3.bin"
+          fi
+          [[ ! -f "$OTA_FILE" ]] && exit 0
+          OTA_MD5=$(md5sum "$OTA_FILE" | cut -d' ' -f1)
+          OTA_SIZE=$(stat -c%s "$OTA_FILE")
+          for manifest in firmware-*.mt.json; do
+            [[ -f "$manifest" ]] || continue
+            jq --arg name "$OTA_FILE" --arg md5 "$OTA_MD5" --argjson bytes "$OTA_SIZE" --arg part "app1" \
+              'if .files | map(select(.name == $name)) | length == 0
+               then .files += [{"name": $name, "md5": $md5, "bytes": $bytes, "part_name": $part}]
+               else . end' \
+              "$manifest" > "${manifest}.tmp" && mv "${manifest}.tmp" "$manifest"
+          done
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ru-firmware-${{ matrix.build.platform }}-${{ matrix.build.board }}-${{ needs.setup.outputs.version }}
+          overwrite: true
+          path: |
+            release/*.mt.json
+            release/*.bin
+            release/*.uf2
+            release/*.hex
+
+  # ─── Rename, generate manifests, deploy to gh-pages ─────────────────────────
+  publish:
+    needs: [setup, build]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.base_version }}
+
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages-out
+          fetch-depth: 0
+        continue-on-error: true
+
+      - name: Create gh-pages dir if it doesn't exist yet
+        run: |
+          if [ ! -d gh-pages-out ]; then
+            mkdir gh-pages-out
+            cd gh-pages-out
+            git init
+            git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+            git checkout --orphan gh-pages
+          fi
+
+      - name: Download all build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: ru-firmware-*-${{ needs.setup.outputs.version }}
+          path: ./artifacts
+          merge-multiple: true
+
+      - name: List artifacts
+        run: find ./artifacts -type f | sort
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate RU manifests and stage files
+        run: |
+          python3 bin/generate_ru_manifests.py \
+            --version "${{ needs.setup.outputs.version }}" \
+            --channel "${{ inputs.channel }}" \
+            --artifacts-dir ./artifacts \
+            --output-dir ./gh-pages-out
+
+      - name: Commit and push to gh-pages
+        working-directory: gh-pages-out
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+          git commit -m "RU firmware ${{ inputs.base_version }} (${{ inputs.channel }})"
+          git push origin gh-pages
