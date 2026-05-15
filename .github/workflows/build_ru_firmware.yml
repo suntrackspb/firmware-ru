@@ -66,9 +66,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        build:
-          - board: tlora-c6
-            platform: esp32c6
+        build: ${{ fromJson(needs.setup.outputs.matrix) }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
