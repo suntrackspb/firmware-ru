@@ -1,0 +1,92 @@
+{
+  "version": "2.7.23.5e2ca8a-RU",
+  "build_epoch": 1778803200,
+  "platformioTarget": "heltec_capsule_sensor_v3",
+  "mcu": "esp32s3",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-heltec_capsule_sensor_v3-2.7.23.5e2ca8a.elf",
+      "md5": "5e19879d0256512c24e068f422f146f7",
+      "bytes": 21696416
+    },
+    {
+      "name": "firmware-heltec_capsule_sensor_v3-2.7.23.5e2ca8a-RU.bin",
+      "md5": "287ae758da9c59e938287c7b3723cfc6",
+      "bytes": 1911584,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-heltec_capsule_sensor_v3-2.7.23.5e2ca8a-RU.factory.bin",
+      "md5": "5999a6a9a209c34dd2d26243e1523655",
+      "bytes": 1977120
+    },
+    {
+      "name": "littlefs-heltec_capsule_sensor_v3-2.7.23.5e2ca8a-RU.bin",
+      "md5": "973c2d538f2e238169cf75bca838fb9c",
+      "bytes": 1572864,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "architecture": "esp32-s3",
+  "displayName": "heltec_capsule_sensor_v3",
+  "activelySupported": false
+}

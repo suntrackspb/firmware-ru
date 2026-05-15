@@ -1,0 +1,35 @@
+{
+  "version": "2.7.23.5e2ca8a-RU",
+  "build_epoch": 1778803200,
+  "platformioTarget": "feather_diy",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-feather_diy-2.7.23.5e2ca8a.elf",
+      "md5": "fc88070dad1de8a73d521ef99e7b089c",
+      "bytes": 1332288
+    },
+    {
+      "name": "firmware-feather_diy-2.7.23.5e2ca8a.hex",
+      "md5": "1778e3954da223fb4e6fed8a523daf9d",
+      "bytes": 2030050
+    },
+    {
+      "name": "firmware-feather_diy-2.7.23.5e2ca8a-RU.uf2",
+      "md5": "d1b5b68f69a20af4a56a8fbb11f6d3e2",
+      "bytes": 1443840
+    },
+    {
+      "name": "firmware-feather_diy-2.7.23.5e2ca8a-ota.zip",
+      "md5": "c491102a34a3a187e3c8c2ee3388a17a",
+      "bytes": 722668
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "feather_diy",
+  "activelySupported": false
+}
