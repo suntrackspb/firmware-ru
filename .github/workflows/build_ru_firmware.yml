@@ -146,7 +146,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ inputs.base_version }}
+          ref: ${{ github.sha }}
 
       - name: Checkout gh-pages branch
         uses: actions/checkout@v4
