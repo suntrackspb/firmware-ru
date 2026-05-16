@@ -80,6 +80,17 @@ jobs:
           echo "Patched platformio.ini:"
           grep -A5 '^build_flags' platformio.ini | head -10
 
+      - name: Fix esp32c6 framework mirror (deleted upstream release)
+        if: matrix.build.platform == 'esp32c6'
+        run: |
+          INI="arch/esp32/esp32c6.ini"
+          MIRROR="https://github.com/vidplace7/platform-espressif32/releases/download/meshtastic-esp32c6/framework-arduinoespressif32-all-release_v5.1-124d64e.zip"
+          if [ -f "$INI" ] && ! grep -q "platform_packages" "$INI"; then
+            sed -i "/^platform =/{n;s|$|\nplatform_packages =\n\tframework-arduinoespressif32 @ $MIRROR|}" "$INI" || \
+            echo -e "\nplatform_packages =\n\tframework-arduinoespressif32 @ $MIRROR" >> "$INI"
+            echo "Patched $INI with vidplace7 mirror"
+          fi
+
       - name: Build ${{ matrix.build.board }} (${{ matrix.build.platform }})
         uses: meshtastic/gh-action-firmware@main
         with:
