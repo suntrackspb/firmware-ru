@@ -153,6 +153,7 @@ jobs:
   # ─── Rename, generate manifests, deploy to gh-pages ─────────────────────────
   publish:
     needs: [setup, build]
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
