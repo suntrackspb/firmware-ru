@@ -1,0 +1,35 @@
+{
+  "version": "2.7.22.01bd4cf-RU",
+  "build_epoch": 1779062400,
+  "platformioTarget": "t-echo-inkhud",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-t-echo-inkhud-2.7.22.01bd4cf.elf",
+      "md5": "1c1cdf5939d4bdf5aa047aafa1cb9caf",
+      "bytes": 1286588
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.7.22.01bd4cf.hex",
+      "md5": "241759a9c62090dddf1694b02ae0dc8b",
+      "bytes": 1893466
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.7.22.01bd4cf-RU.uf2",
+      "md5": "65ea41b3ad07b7cace893b1fdfa49522",
+      "bytes": 1346560
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.7.22.01bd4cf-ota.zip",
+      "md5": "b42bc6a4bb7dc01e597c1ec6ab08e847",
+      "bytes": 674125
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "t-echo-inkhud",
+  "activelySupported": false
+}

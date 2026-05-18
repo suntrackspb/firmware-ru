@@ -1,0 +1,90 @@
+{
+  "version": "2.7.22.01bd4cf-RU",
+  "build_epoch": 1779062400,
+  "platformioTarget": "m5stack-core",
+  "mcu": "esp32",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-m5stack-core-2.7.22.01bd4cf.elf",
+      "md5": "7602f83b3969c6d032595dbae568e4ed",
+      "bytes": 20015444
+    },
+    {
+      "name": "firmware-m5stack-core-2.7.22.01bd4cf-RU.bin",
+      "md5": "3904713f7b28be13d50a8d1c8866fd88",
+      "bytes": 2165072,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-m5stack-core-2.7.22.01bd4cf-RU.factory.bin",
+      "md5": "ca6eac5aab1c03f626a2aa82d91e8d4e",
+      "bytes": 2230608
+    },
+    {
+      "name": "littlefs-m5stack-core-2.7.22.01bd4cf-RU.bin",
+      "md5": "46bc1dea93cdaba349931db1bb365c6f",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 42,
+  "hwModelSlug": "M5STACK",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "M5 Stack",
+  "supportLevel": 3,
+  "tags": [
+    "M5Stack"
+  ]
+}
