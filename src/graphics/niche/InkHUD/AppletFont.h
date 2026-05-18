@@ -98,4 +98,24 @@ class AppletFont
 #define FREESANS_9PT_WIN1253 InkHUD::AppletFont(FreeSans9pt_Win1253, InkHUD::AppletFont::WINDOWS_1253, -2, -1)
 #define FREESANS_6PT_WIN1253 InkHUD::AppletFont(FreeSans6pt_Win1253, InkHUD::AppletFont::WINDOWS_1253, -1, -2)
 
+// Language-aware aliases — resolve to the correct encoding based on build flags.
+// Use these in nicheGraphics.h instead of hardcoded WIN1252 variants.
+#if defined(OLED_RU) || defined(OLED_UA)
+#define FREESANS_12PT_LANG FREESANS_12PT_WIN1251
+#define FREESANS_9PT_LANG  FREESANS_9PT_WIN1251
+#define FREESANS_6PT_LANG  FREESANS_6PT_WIN1251
+#elif defined(OLED_GR)
+#define FREESANS_12PT_LANG FREESANS_12PT_WIN1253
+#define FREESANS_9PT_LANG  FREESANS_9PT_WIN1253
+#define FREESANS_6PT_LANG  FREESANS_6PT_WIN1253
+#elif defined(OLED_PL) || defined(OLED_CS)
+#define FREESANS_12PT_LANG FREESANS_12PT_WIN1250
+#define FREESANS_9PT_LANG  FREESANS_9PT_WIN1250
+#define FREESANS_6PT_LANG  FREESANS_6PT_WIN1250
+#else
+#define FREESANS_12PT_LANG FREESANS_12PT_WIN1252
+#define FREESANS_9PT_LANG  FREESANS_9PT_WIN1252
+#define FREESANS_6PT_LANG  FREESANS_6PT_WIN1252
+#endif
+
 #endif
