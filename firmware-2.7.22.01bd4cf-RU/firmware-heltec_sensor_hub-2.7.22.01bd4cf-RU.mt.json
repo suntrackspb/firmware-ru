@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec_sensor_hub-2.7.22.01bd4cf.elf",
-      "md5": "70a1e7b5fe8f2cdbb752a2c6df60b680",
+      "md5": "35b81527edcf8ccf3566a33f9033ca88",
       "bytes": 21854144
     },
     {
       "name": "firmware-heltec_sensor_hub-2.7.22.01bd4cf-RU.bin",
-      "md5": "ab5fad1a73a367b1dde79748e1062aeb",
+      "md5": "22b2f15de7b9a9984ee5a74099202401",
       "bytes": 1915488,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec_sensor_hub-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "2770a653a4a5afec6b905432f8039345",
+      "md5": "60d0e7d510242b827ef51b07e0cd0118",
       "bytes": 1981024
     },
     {
       "name": "littlefs-heltec_sensor_hub-2.7.22.01bd4cf-RU.bin",
-      "md5": "1fe45d069147b5dcfb71387188206fb4",
+      "md5": "3264e844c41991403f12ecc5a02da63f",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

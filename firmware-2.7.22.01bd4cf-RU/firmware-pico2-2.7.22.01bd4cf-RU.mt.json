@@ -7,18 +7,18 @@
   "files": [
     {
       "name": "firmware-pico2-2.7.22.01bd4cf.elf",
-      "md5": "ecdc982d070833434f62c5076f5f1678",
+      "md5": "0ffdcb53e17d8b7d5ac86a6181f2e97c",
       "bytes": 10061484
     },
     {
       "name": "firmware-pico2-2.7.22.01bd4cf.bin",
-      "md5": "4096cb7170418adffb7a74b05294b9b1",
+      "md5": "98abc528ecb0c35b88f5acb3f681a54d",
       "bytes": 969068,
       "part_name": "app0"
     },
     {
       "name": "firmware-pico2-2.7.22.01bd4cf-RU.uf2",
-      "md5": "fd5b3d64fdbd2cf1f2da4b03f253d730",
+      "md5": "f0fb27bc7d7334232fa6506e64dd3559",
       "bytes": 1938432
     }
   ],

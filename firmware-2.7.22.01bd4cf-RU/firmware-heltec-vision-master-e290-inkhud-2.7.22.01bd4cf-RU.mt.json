@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-vision-master-e290-inkhud-2.7.22.01bd4cf.elf",
-      "md5": "c68681176a85827924fccf71de949bec",
+      "md5": "a7a1898f934b92961865291f7ec4607f",
       "bytes": 22623880
     },
     {
       "name": "firmware-heltec-vision-master-e290-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "95e1d58fce11b5fa3294c821c86ab8c4",
-      "bytes": 2068576,
+      "md5": "149f7a7e0afa36fc617c31bdf773ffd2",
+      "bytes": 2069008,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-e290-inkhud-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "dcfef13c8b7588d4faa72eaf4f97fa63",
-      "bytes": 2134112
+      "md5": "e08ad4610e1274564f2f720870dbe233",
+      "bytes": 2134544
     },
     {
       "name": "littlefs-heltec-vision-master-e290-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "1c38c82cfde6d174edcb8e6b83e447d7",
+      "md5": "14b9f5314132775a664bace9fba963fa",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

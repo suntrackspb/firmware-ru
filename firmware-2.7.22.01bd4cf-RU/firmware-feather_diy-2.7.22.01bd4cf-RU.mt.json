@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-feather_diy-2.7.22.01bd4cf.elf",
-      "md5": "29c65143484346cc209cadafc44c4a62",
+      "md5": "8456e34217890b87b16fb0a9d0318124",
       "bytes": 1328544
     },
     {
       "name": "firmware-feather_diy-2.7.22.01bd4cf.hex",
-      "md5": "f645b9000a42710066192aaef9124164",
+      "md5": "42bad497905ba647afe12342ae1bc179",
       "bytes": 2011772
     },
     {
       "name": "firmware-feather_diy-2.7.22.01bd4cf-RU.uf2",
-      "md5": "b353b056f1d3bf1c97da2f4a4627a48c",
+      "md5": "0a4a46a9e7159922ec7f7a693474539a",
       "bytes": 1430528
     },
     {
       "name": "firmware-feather_diy-2.7.22.01bd4cf-ota.zip",
-      "md5": "53f04229cf2899dcfc4bc37f59b156c1",
-      "bytes": 716168
+      "md5": "2e2fd5b9f11b4d1902dd7b706b010238",
+      "bytes": 716169
     }
   ],
   "has_mui": false,

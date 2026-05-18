@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.7.22.01bd4cf.elf",
-      "md5": "96d3523c7308c6be1f4c2cba3f2a3ebb",
+      "md5": "e75248b17aa3c7341d3b330170c9064a",
       "bytes": 22387396
     },
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "8905141ce58d4496a5a22999c8277cbe",
-      "bytes": 2066880,
+      "md5": "fd5e39f4a643b62738323644ce6bbcad",
+      "bytes": 2067104,
       "part_name": "app0"
     },
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "fb0155c6b517ce1227b197303077662e",
-      "bytes": 2132416
+      "md5": "da2ab51812a13ea32647468a345dfe95",
+      "bytes": 2132640
     },
     {
       "name": "littlefs-mini-epaper-s3-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "2890826f119f73603eb54c123a4ec9b9",
+      "md5": "fcddc132b1c369e5bd2f83dff73c3e12",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

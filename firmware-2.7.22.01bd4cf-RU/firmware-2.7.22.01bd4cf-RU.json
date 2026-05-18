@@ -78,10 +78,6 @@
       "platform": "nrf52840"
     },
     {
-      "board": "heltec-mesh-solar-oled",
-      "platform": "nrf52840"
-    },
-    {
       "board": "heltec-mesh-solar-tft",
       "platform": "nrf52840"
     },
@@ -95,10 +91,6 @@
     },
     {
       "board": "heltec-v4-tft",
-      "platform": "esp32s3"
-    },
-    {
-      "board": "heltec-vision-master-e213",
       "platform": "esp32s3"
     },
     {

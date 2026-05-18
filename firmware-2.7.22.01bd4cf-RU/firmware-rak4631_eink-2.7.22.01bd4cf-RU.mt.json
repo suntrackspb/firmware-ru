@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-rak4631_eink-2.7.22.01bd4cf.elf",
-      "md5": "1737aaf91b6175abaeb820b196e2e422",
+      "md5": "28f014b9b57d130f6dd12942917ce63e",
       "bytes": 1407276
     },
     {
       "name": "firmware-rak4631_eink-2.7.22.01bd4cf-RU.hex",
-      "md5": "3c59e45a68881bbbb9a66c5ce850dd8a",
+      "md5": "8b938333f1a25a7abb3e0106f97ef519",
       "bytes": 2053802
     },
     {
       "name": "firmware-rak4631_eink-2.7.22.01bd4cf-RU.uf2",
-      "md5": "c2e588467c5ae6ec1e48b299111770f3",
+      "md5": "c5319da1f55bf7e3c41aaeffa8a447d4",
       "bytes": 1460736
     },
     {
       "name": "firmware-rak4631_eink-2.7.22.01bd4cf-ota.zip",
-      "md5": "9b5ec8d431cda7b8ee4cd66499b86c94",
+      "md5": "3e174b9c2b1b42ec4af3ca73181da90d",
       "bytes": 731119
     }
   ],

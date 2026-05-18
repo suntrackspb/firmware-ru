@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-rak2560-2.7.22.01bd4cf.elf",
-      "md5": "24cc9861f97b9afd279f08893e749761",
+      "md5": "94ec44fd870b13e46a35d66a58bb32dd",
       "bytes": 1446412
     },
     {
       "name": "firmware-rak2560-2.7.22.01bd4cf.hex",
-      "md5": "247539665f97c28b9c3701a67e518f3d",
+      "md5": "6c25eb29098a57e74f999b2e829155ac",
       "bytes": 2046581
     },
     {
       "name": "firmware-rak2560-2.7.22.01bd4cf-RU.uf2",
-      "md5": "7c29053a61607be8e65fc692643e50e6",
+      "md5": "648d8af38c2df8fd1790306674e9ed58",
       "bytes": 1455616
     },
     {
       "name": "firmware-rak2560-2.7.22.01bd4cf-ota.zip",
-      "md5": "b1346c64fbeb0f93496ab3497f1ba316",
+      "md5": "71550d64e39633f2c9dac641c5202236",
       "bytes": 728525
     }
   ],

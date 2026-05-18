@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tracksenger-2.7.22.01bd4cf.elf",
-      "md5": "f53d37c6b4b82ae90a10ace6aff418e2",
+      "md5": "909846c8d91d42a125ea5278befe1a8c",
       "bytes": 23051008
     },
     {
       "name": "firmware-tracksenger-2.7.22.01bd4cf-RU.bin",
-      "md5": "cc34de85df61e639c7d4c8a45c67d2bb",
+      "md5": "c351d2242f6cce91a7c886eb2da35a8c",
       "bytes": 2177808,
       "part_name": "app0"
     },
     {
       "name": "firmware-tracksenger-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "333a03b88b8ca296b820a089f32de567",
+      "md5": "e87b763ecefd09af7752fe97d2f7c930",
       "bytes": 2243344
     },
     {
       "name": "littlefs-tracksenger-2.7.22.01bd4cf-RU.bin",
-      "md5": "0983c0cf4aa4e74a5689a9c359723d26",
+      "md5": "0f76e14051df7ea0c06694b9f65c872c",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

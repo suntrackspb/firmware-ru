@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-t-echo-2.7.22.01bd4cf.elf",
-      "md5": "91a046032ae8df9c3d6fd321e21571e2",
+      "md5": "ef28fa82626158a96cf5ea452bc9f334",
       "bytes": 1408896
     },
     {
       "name": "firmware-t-echo-2.7.22.01bd4cf.hex",
-      "md5": "d82c47229e238b091b55c51931b78211",
+      "md5": "e77475990b57713758b10f70e384ea48",
       "bytes": 2054477
     },
     {
       "name": "firmware-t-echo-2.7.22.01bd4cf-RU.uf2",
-      "md5": "0f389d60ae12bb9932eaeb1f7ea71326",
+      "md5": "ef9401ac5beb51e2c6973c59ac829cd8",
       "bytes": 1461248
     },
     {
       "name": "firmware-t-echo-2.7.22.01bd4cf-ota.zip",
-      "md5": "d3d09d19935d2bdad6ba4a61432a9f63",
-      "bytes": 731322
+      "md5": "e09e1a4b46ed8b17b58ebaf2d49e4668",
+      "bytes": 731323
     }
   ],
   "has_mui": false,

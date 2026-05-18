@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.7.22.01bd4cf.elf",
-      "md5": "9a0a3173c4e585ef426c6415408999bd",
+      "md5": "bf7c5d8ae74b87338cb380434dd9077e",
       "bytes": 22626368
     },
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "87e310a556912fb0c12dd827d0e60a80",
-      "bytes": 2070720,
+      "md5": "ac3d87cd5c6ed3c5f2bd2f90f7de8184",
+      "bytes": 2071136,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "2b0bee4e216f2bc0c659df04460c6fc5",
-      "bytes": 2136256
+      "md5": "0fa4380b06ccb3ce26bee14a39bebef1",
+      "bytes": 2136672
     },
     {
       "name": "littlefs-heltec-vision-master-e213-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "ba1c451f8154111c41aaa97a6c46e71f",
+      "md5": "8ba45816058b9b2071fdbc3c58d5bcb9",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

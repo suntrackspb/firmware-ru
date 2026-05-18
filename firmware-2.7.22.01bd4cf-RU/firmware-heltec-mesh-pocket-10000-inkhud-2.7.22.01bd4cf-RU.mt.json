@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.7.22.01bd4cf.elf",
-      "md5": "a285e5897e6b45400f980bce683a9ce5",
+      "md5": "3beadf905a4ed71352737b45762b8e0c",
       "bytes": 1204436
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.7.22.01bd4cf.hex",
-      "md5": "a64d63f40360b7c605f731c108f67b2a",
-      "bytes": 1795276
+      "md5": "65f56e49931b28fff9ab84260c1d4397",
+      "bytes": 1797661
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.7.22.01bd4cf-RU.uf2",
-      "md5": "cc5fd003392ccd60a29ce6a398507d9d",
-      "bytes": 1276928
+      "md5": "15721c71a837008c68cf5da3a575967f",
+      "bytes": 1278464
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.7.22.01bd4cf-ota.zip",
-      "md5": "7c6fa899b2d044d24962eb06cd0b1af5",
-      "bytes": 639321
+      "md5": "646ff5610d90834f7ad592e9b4120236",
+      "bytes": 640168
     }
   ],
   "has_mui": false,

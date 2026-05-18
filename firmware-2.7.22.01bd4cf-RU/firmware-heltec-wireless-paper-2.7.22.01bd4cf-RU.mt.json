@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-wireless-paper-2.7.22.01bd4cf.elf",
-      "md5": "0876459bff800492221d8cbb2a2d2277",
+      "md5": "d2fb4c84973a4b855e57df1e1f9b2a18",
       "bytes": 22271592
     },
     {
       "name": "firmware-heltec-wireless-paper-2.7.22.01bd4cf-RU.bin",
-      "md5": "1f2ed7997ce28359ab2963f88b38e2c7",
+      "md5": "9826e02b1a0244ffe30b15b8f678c6e1",
       "bytes": 2110976,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wireless-paper-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "58476be7cd17ffc92fca142505291a68",
+      "md5": "c8fbdb7141ee7ee2dfca2d301672fac6",
       "bytes": 2176512
     },
     {
       "name": "littlefs-heltec-wireless-paper-2.7.22.01bd4cf-RU.bin",
-      "md5": "2a0cb6cc90d17f0a75eef4863004bda8",
+      "md5": "64737c1e9accbac7a02487ba13e0fa09",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

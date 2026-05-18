@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-r1-neo-2.7.22.01bd4cf.elf",
-      "md5": "a541b0b67aae285e3ad6eccf2c0e84ec",
+      "md5": "f9db09457129119cef075d7a85e19a64",
       "bytes": 1085064
     },
     {
       "name": "firmware-r1-neo-2.7.22.01bd4cf.hex",
-      "md5": "b939fa89643bcb3caaa8637128faa46e",
+      "md5": "41e8f8bf069e4b2a05cd2f9aee5c684b",
       "bytes": 1607376
     },
     {
       "name": "firmware-r1-neo-2.7.22.01bd4cf-RU.uf2",
-      "md5": "3c24cf6a42eccbacc619d0df23602e81",
+      "md5": "c6091aa6143445c16df44a77a64eb535",
       "bytes": 1143296
     },
     {
       "name": "firmware-r1-neo-2.7.22.01bd4cf-ota.zip",
-      "md5": "cc02cf6767daeb0f8be65b8fbb9b42b6",
+      "md5": "ddfee0c2fcc321be35baf7604eff5ad4",
       "bytes": 572367
     }
   ],

@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-nano-g1-explorer-2.7.22.01bd4cf.elf",
-      "md5": "3e702bccea8c60602874614a15b1782f",
+      "md5": "f6396b6fb4ecf04c081ee56a57bc6c9f",
       "bytes": 19918108
     },
     {
       "name": "firmware-nano-g1-explorer-2.7.22.01bd4cf-RU.bin",
-      "md5": "16dea2389d5834cb012319858bfa4beb",
+      "md5": "a8775450a870683f211abaf1b070c8c1",
       "bytes": 2146176,
       "part_name": "app0"
     },
     {
       "name": "firmware-nano-g1-explorer-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "f90b0864531294084c60db44f51038ee",
+      "md5": "27cd0cba50617f6fc4137b7523faab5e",
       "bytes": 2211712
     },
     {
       "name": "littlefs-nano-g1-explorer-2.7.22.01bd4cf-RU.bin",
-      "md5": "00b3f6f4b49d8a5b7e4ade094db2fb0b",
+      "md5": "d9142fb9fcfb38c5ef36f2304ffc43cf",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-seeed_solar_node-2.7.22.01bd4cf.elf",
-      "md5": "6d5eb9d873259dd71fd8b2c61c00ffe5",
+      "md5": "44e532519463910e08b27a03d4c31ffc",
       "bytes": 1329604
     },
     {
       "name": "firmware-seeed_solar_node-2.7.22.01bd4cf.hex",
-      "md5": "53d178ae056f4c00ab11096ce68449ff",
+      "md5": "851a479a9d068b1f4bbb04371ecd1c04",
       "bytes": 2015552
     },
     {
       "name": "firmware-seeed_solar_node-2.7.22.01bd4cf-RU.uf2",
-      "md5": "f9d67030328e8c2e8e36f983bb8a7b4e",
+      "md5": "eca354ada491280ea6457ce381bd09b9",
       "bytes": 1433600
     },
     {
       "name": "firmware-seeed_solar_node-2.7.22.01bd4cf-ota.zip",
-      "md5": "dd378c9ff704110faad0f326e9f58807",
+      "md5": "ecaee9e372d911bbeead05ab0bcf1165",
       "bytes": 717543
     }
   ],

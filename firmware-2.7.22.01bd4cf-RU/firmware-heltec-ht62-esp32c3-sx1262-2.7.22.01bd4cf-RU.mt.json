@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-ht62-esp32c3-sx1262-2.7.22.01bd4cf.elf",
-      "md5": "513d497528b4620ff687507c48f2b244",
+      "md5": "05c83ba25578c491bbbe6340e7e235ee",
       "bytes": 19138616
     },
     {
       "name": "firmware-heltec-ht62-esp32c3-sx1262-2.7.22.01bd4cf-RU.bin",
-      "md5": "aad64195a2e8cf9f218e2ebea0f9927c",
+      "md5": "36b688a011e3902e30cae5467797b5de",
       "bytes": 2103680,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-ht62-esp32c3-sx1262-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "33e7d8dbb095fbfdaae3cc81e3599f71",
+      "md5": "5111dfde686765203629cc2d766cbad7",
       "bytes": 2169216
     },
     {
       "name": "littlefs-heltec-ht62-esp32c3-sx1262-2.7.22.01bd4cf-RU.bin",
-      "md5": "968bc3d4ba3dc52ef2f3de6e5240c03c",
+      "md5": "954031d846efe748650de61221e4a312",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tbeam-s3-core-2.7.22.01bd4cf.elf",
-      "md5": "ff60e5740ff81f9a22d65a5730e47cf1",
+      "md5": "610a59caf12503193a7059adfc133779",
       "bytes": 22947748
     },
     {
       "name": "firmware-tbeam-s3-core-2.7.22.01bd4cf-RU.bin",
-      "md5": "78273d7d130439205164a8f480e0ba62",
+      "md5": "729bad8fb8883b92283df754fde97e46",
       "bytes": 2202592,
       "part_name": "app0"
     },
     {
       "name": "firmware-tbeam-s3-core-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "4e18a8dde1a1af10dbfae00942060d29",
+      "md5": "c449f35ee9a9b886faf65aaed9026712",
       "bytes": 2268128
     },
     {
       "name": "littlefs-tbeam-s3-core-2.7.22.01bd4cf-RU.bin",
-      "md5": "e86c09fa672b16790b10b7186fb1d1a8",
+      "md5": "835d4483f126be98ba9e973a8a5d8fd6",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

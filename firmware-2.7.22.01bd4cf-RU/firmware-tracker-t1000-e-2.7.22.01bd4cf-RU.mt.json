@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-tracker-t1000-e-2.7.22.01bd4cf.elf",
-      "md5": "9d8f366cd5f629fc09bb0ed38e7509a5",
+      "md5": "dc02bb489fc5120053288d3cda317889",
       "bytes": 957232
     },
     {
       "name": "firmware-tracker-t1000-e-2.7.22.01bd4cf.hex",
-      "md5": "f5e27e360d2d68f41615c99889205505",
+      "md5": "cd31ce61f8f5a790186e0f563d2a5ea6",
       "bytes": 1345217
     },
     {
       "name": "firmware-tracker-t1000-e-2.7.22.01bd4cf-RU.uf2",
-      "md5": "1b52407e542c2648e6a3ebe4c3d9ae82",
+      "md5": "43a348ef9b0566546a464bf220fa3275",
       "bytes": 956928
     },
     {
       "name": "firmware-tracker-t1000-e-2.7.22.01bd4cf-ota.zip",
-      "md5": "3b3c382cf53601230034e1c2fba723ef",
+      "md5": "c42a63b47db1a57806b3d8cf304b5102",
       "bytes": 479221
     }
   ],

@@ -23,7 +23,7 @@
     },
     {
       "name": "littlefs-picomputer-s3-2.7.22.01bd4cf-RU.bin",
-      "md5": "9f5b924a22f311fcbbdf52afaf8c94a7",
+      "md5": "727acbb79a1fcc5a2950de3ed51cb2be",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
