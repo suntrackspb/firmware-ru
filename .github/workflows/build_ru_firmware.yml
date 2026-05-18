@@ -76,8 +76,7 @@ jobs:
 
       - name: Apply RU InkHUD e-ink font patches
         run: |
-          git fetch origin develop
-          git checkout origin/develop -- bin/patch_ru_sources.py
+          curl -fsSL "https://raw.githubusercontent.com/${{ github.repository }}/develop/bin/patch_ru_sources.py" -o bin/patch_ru_sources.py
           python3 bin/patch_ru_sources.py
 
       - name: Inject -D OLED_RU=1 into global build flags
