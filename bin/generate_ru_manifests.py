@@ -123,6 +123,7 @@ new_entry = {
     'title': f'Meshtastic Firmware {base_version} (Кириллица / Cyrillic)',
     'release_notes': 'Поддержка кириллицы на экране устройства (-D OLED_RU=1). '
                      'Меню остаётся на английском, входящие сообщения отображаются на русском.',
+    'targets': [t['board'] for t in targets],
 }
 
 channel_list = [e for e in firmware_list['releases'][channel_key] if e.get('id') != new_entry['id']]
