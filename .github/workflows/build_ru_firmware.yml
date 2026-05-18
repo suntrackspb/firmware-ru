@@ -74,6 +74,12 @@ jobs:
           ref: ${{ inputs.base_version }}
           submodules: recursive
 
+      - name: Apply RU InkHUD e-ink font patches
+        run: |
+          git fetch origin develop
+          git checkout origin/develop -- bin/patch_ru_sources.py
+          python3 bin/patch_ru_sources.py
+
       - name: Inject -D OLED_RU=1 into global build flags
         run: |
           sed -i '/^build_flags/a\\t-D OLED_RU=1' platformio.ini
