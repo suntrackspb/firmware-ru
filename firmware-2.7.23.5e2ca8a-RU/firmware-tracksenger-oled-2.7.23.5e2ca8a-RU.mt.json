@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "tracksenger-oled",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tracksenger-oled-2.7.23.5e2ca8a.elf",
-      "md5": "e90f7c53073a05bfe22a5909ef7cbb96",
+      "md5": "8adc913cd79231654d4731a74d739541",
       "bytes": 22740012
     },
     {
       "name": "firmware-tracksenger-oled-2.7.23.5e2ca8a-RU.bin",
-      "md5": "8260cf09177434835767c96c2efa83a4",
+      "md5": "50b1ab570d6adf3fa14fec3952b33a31",
       "bytes": 2136640,
       "part_name": "app0"
     },
     {
       "name": "firmware-tracksenger-oled-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "b7289126d9ffcbcef698adfe6540796e",
+      "md5": "fa87726980f4117934e037a42915c58b",
       "bytes": 2202176
     },
     {
       "name": "littlefs-tracksenger-oled-2.7.23.5e2ca8a-RU.bin",
-      "md5": "34f61d36074165ccb91ae71e9c94deed",
+      "md5": "9db8a6e1cb50f5212e8238375e30927a",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

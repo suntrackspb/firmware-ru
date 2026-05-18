@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "heltec-wireless-paper-inkhud",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-wireless-paper-inkhud-2.7.23.5e2ca8a.elf",
-      "md5": "51dbd35a416577b97e1e468237b45ba0",
+      "md5": "a0b29d2e16bd1d7a232199dfbb0f77de",
       "bytes": 22105388
     },
     {
       "name": "firmware-heltec-wireless-paper-inkhud-2.7.23.5e2ca8a-RU.bin",
-      "md5": "77fa182b1c623bf1a77e30d112c9324b",
-      "bytes": 2052944,
+      "md5": "a7340e9dac4962a3661354573ddad03c",
+      "bytes": 2053360,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wireless-paper-inkhud-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "5b2d54c1018697bf4dacb2bf835708f8",
-      "bytes": 2118480
+      "md5": "be70d61cd07c0b6c523ad46daa55d9e1",
+      "bytes": 2118896
     },
     {
       "name": "littlefs-heltec-wireless-paper-inkhud-2.7.23.5e2ca8a-RU.bin",
-      "md5": "7530387b02b8388340a7b560ec9dc332",
+      "md5": "fc8d8f8c7b254c4f0618d1a4c65b543e",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

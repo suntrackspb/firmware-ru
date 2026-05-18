@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "tlora-t3s3-epaper",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tlora-t3s3-epaper-2.7.23.5e2ca8a.elf",
-      "md5": "26407990043fc5f18aea9da8bb75878e",
+      "md5": "4f34194fd3166b2a13ea330dcae3f9d4",
       "bytes": 23460652
     },
     {
       "name": "firmware-tlora-t3s3-epaper-2.7.23.5e2ca8a-RU.bin",
-      "md5": "627cc6711cd9f36dbe244fc0fed76756",
+      "md5": "b0d0de0a1c0f1c547d511b9afda37a22",
       "bytes": 2300848,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-t3s3-epaper-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "b840cdf1a1edf2e00074ac0f264d70ca",
+      "md5": "63530809c7136b082b1da334e8f56b1a",
       "bytes": 2366384
     },
     {
       "name": "littlefs-tlora-t3s3-epaper-2.7.23.5e2ca8a-RU.bin",
-      "md5": "20c33e3356f1dc06a0011a3970c2dd99",
+      "md5": "6d65aacdddec10d327cc641d0eab4c37",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

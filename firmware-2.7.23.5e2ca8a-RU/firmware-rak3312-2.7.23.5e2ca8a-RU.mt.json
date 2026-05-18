@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "rak3312",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak3312-2.7.23.5e2ca8a.elf",
-      "md5": "79a488913334abaaeabe7348efdcfe65",
+      "md5": "a2f0a3b8c7cc7cb215eb4c7811f5a079",
       "bytes": 22334616
     },
     {
       "name": "firmware-rak3312-2.7.23.5e2ca8a-RU.bin",
-      "md5": "10073808ff02f0e012d53943096267db",
+      "md5": "a178e46c187e0ca0ecb6a7b2a27e8b73",
       "bytes": 2108624,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak3312-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "6fb9ea3c43ef6baa59b89de4a36d4054",
+      "md5": "5a082eadabb1e73b77f7f1a032024ade",
       "bytes": 2174160
     },
     {
       "name": "littlefs-rak3312-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2499e5cd0964f00eba2be542f6db06b8",
+      "md5": "113d1032e8fa90cfa29c846cb4ec5f41",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

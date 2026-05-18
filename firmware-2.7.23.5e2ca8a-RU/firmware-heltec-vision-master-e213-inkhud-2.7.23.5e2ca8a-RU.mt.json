@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "heltec-vision-master-e213-inkhud",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.7.23.5e2ca8a.elf",
-      "md5": "68f86c347beb7d341f9b10b6bda32cdd",
+      "md5": "20a8cab4ab893c0a353e52410a23b383",
       "bytes": 22660428
     },
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.7.23.5e2ca8a-RU.bin",
-      "md5": "c1cd63a3a8b75756267686ad35e48b61",
-      "bytes": 2088464,
+      "md5": "cfa61d601be3f5ccc4427c6c4c539842",
+      "bytes": 2088896,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-e213-inkhud-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "0d375d8eb0b77498d32c062b86d3276f",
-      "bytes": 2154000
+      "md5": "d3cf851696b55fa29731cf4eb17e94ae",
+      "bytes": 2154432
     },
     {
       "name": "littlefs-heltec-vision-master-e213-inkhud-2.7.23.5e2ca8a-RU.bin",
-      "md5": "6c8e8b9520dd1e5ad38f51bc6a91aef6",
+      "md5": "7ecf559c99193d82dc9cd736fa6209ba",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

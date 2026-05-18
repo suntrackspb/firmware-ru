@@ -1,24 +1,24 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "rp2040-lora",
   "mcu": "rp2040",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rp2040-lora-2.7.23.5e2ca8a.elf",
-      "md5": "b3096ddc8af95161f726fe86ceec3ba9",
+      "md5": "718a9b7c6407eb66681af8812e59ef3d",
       "bytes": 10034252
     },
     {
       "name": "firmware-rp2040-lora-2.7.23.5e2ca8a.bin",
-      "md5": "cd978cc4bc7528e7c8f907f0be474566",
+      "md5": "d5b282feda2fe03b82d63a18e6c48583",
       "bytes": 982060,
       "part_name": "app0"
     },
     {
       "name": "firmware-rp2040-lora-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "10b9a65b84292edbfb93060fe4bdb9e1",
+      "md5": "4dc7cec55a065c78702f8a51adba873a",
       "bytes": 1964544
     }
   ],

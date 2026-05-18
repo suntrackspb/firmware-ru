@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "heltec-wireless-paper",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-wireless-paper-2.7.23.5e2ca8a.elf",
-      "md5": "523d09da7475198e734563287ea89936",
+      "md5": "87306e1e9ffb3e9dd8988afb9fa77fe7",
       "bytes": 22281664
     },
     {
       "name": "firmware-heltec-wireless-paper-2.7.23.5e2ca8a-RU.bin",
-      "md5": "4dc78980227a7f37fe413ea5de0a4803",
+      "md5": "85bdd41dd8ed8f9738d540cfb120dbf1",
       "bytes": 2117952,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wireless-paper-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "56cf95e7cde1c833410a87e07b73f4cf",
+      "md5": "6abb1064731ffa7007624b29717a2323",
       "bytes": 2183488
     },
     {
       "name": "littlefs-heltec-wireless-paper-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2d737fce078bf412c4bd3804b79836c2",
+      "md5": "e63bfdb7698c8ddeb939bde2e569f470",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

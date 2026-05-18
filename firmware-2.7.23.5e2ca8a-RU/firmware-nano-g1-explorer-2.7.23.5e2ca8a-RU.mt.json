@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "nano-g1-explorer",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-nano-g1-explorer-2.7.23.5e2ca8a.elf",
-      "md5": "94794c8d5fef8e291c601ba53d60275a",
+      "md5": "8e973c41020b07e40c63be6813ce1b86",
       "bytes": 19913680
     },
     {
       "name": "firmware-nano-g1-explorer-2.7.23.5e2ca8a-RU.bin",
-      "md5": "a548ff90707afed46a973cd1ade28874",
+      "md5": "9abaaa6763efb77f8bf25720222e50c5",
       "bytes": 2151248,
       "part_name": "app0"
     },
     {
       "name": "firmware-nano-g1-explorer-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "e4f4af13a38a87c56b6e43b0e553b079",
+      "md5": "034c4154fdb3bf8a874fae0d50cb3bd3",
       "bytes": 2216784
     },
     {
       "name": "littlefs-nano-g1-explorer-2.7.23.5e2ca8a-RU.bin",
-      "md5": "1413aa48caba281761f980383fd9ca16",
+      "md5": "b699be53c15e21e0b01dff55ebb14ba1",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

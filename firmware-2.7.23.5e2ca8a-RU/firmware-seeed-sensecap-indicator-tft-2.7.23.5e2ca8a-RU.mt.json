@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "seeed-sensecap-indicator-tft",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-seeed-sensecap-indicator-tft-2.7.23.5e2ca8a.elf",
-      "md5": "0db8bd779779cbd7ee41422711861038",
+      "md5": "4384036285a30bd82734ca708e9a296a",
       "bytes": 24403772
     },
     {
       "name": "firmware-seeed-sensecap-indicator-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2833f808f01bccd0abc9c2fa0a89b302",
+      "md5": "a1e1dbccc97fb0c5ee529b2e7f396fc4",
       "bytes": 3486752,
       "part_name": "app0"
     },
     {
       "name": "firmware-seeed-sensecap-indicator-tft-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "1d65ce4c697aeb7e411a4c9922b9cea3",
+      "md5": "7f56fed28c658e1cab22f5f1b0ce4108",
       "bytes": 3552288
     },
     {
       "name": "littlefs-seeed-sensecap-indicator-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "b06c61f30af3f88ac53636fe781b0d89",
+      "md5": "34bd302068525fb912d4094f1fcf33b6",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

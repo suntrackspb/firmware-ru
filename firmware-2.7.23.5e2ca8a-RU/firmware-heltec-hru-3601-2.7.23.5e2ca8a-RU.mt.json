@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "heltec-hru-3601",
   "mcu": "esp32c3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-hru-3601-2.7.23.5e2ca8a.elf",
-      "md5": "963fcc1b086b35b8ba2c89049601d667",
+      "md5": "eaf0ff968e0acde6224361f858fdc026",
       "bytes": 19277976
     },
     {
       "name": "firmware-heltec-hru-3601-2.7.23.5e2ca8a-RU.bin",
-      "md5": "7231b2d1606a9004ac5061f8668b88f6",
+      "md5": "877e3deed2166a384d6dd27d70a71f7e",
       "bytes": 2108432,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-hru-3601-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "b3a57ccfabb64d625c9957b75742f91a",
+      "md5": "07a976caf9dbe72f7e10f05ead8a5b79",
       "bytes": 2173968
     },
     {
       "name": "littlefs-heltec-hru-3601-2.7.23.5e2ca8a-RU.bin",
-      "md5": "dea9c08e3c8731bd0d198d43cae31cf0",
+      "md5": "341e61b43080dc450650a3f838a6d311",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "CDEBYTE_EoRa-S3",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.7.23.5e2ca8a.elf",
-      "md5": "9f0c7ad300d62c095e07b1b652b478b9",
+      "md5": "a23a7a78df7b8e62c34c692f70c7955d",
       "bytes": 23057700
     },
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "772b5a2f02914eac0bc1f409150a24d4",
+      "md5": "ebd7fbd56098957a9cbcb092e00111ed",
       "bytes": 2173712,
       "part_name": "app0"
     },
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "192adcae8c5165476102873b932cc418",
+      "md5": "86ead50eab391e2349eb2a4a7f625f74",
       "bytes": 2239248
     },
     {
       "name": "littlefs-CDEBYTE_EoRa-S3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "40734549ec506d4882266d2885454e1f",
+      "md5": "b704eb41025fd63114709b51dca3627c",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

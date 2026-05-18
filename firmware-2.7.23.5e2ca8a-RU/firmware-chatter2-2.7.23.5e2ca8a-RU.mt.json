@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "chatter2",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-chatter2-2.7.23.5e2ca8a.elf",
-      "md5": "550263ac6b41b0a4885400e54bd71d63",
+      "md5": "66d1e785345350d9e266fe71cdfef974",
       "bytes": 20144708
     },
     {
       "name": "firmware-chatter2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "3fa1b78ed4dc4f715c9cc00c85065597",
+      "md5": "160a3758d624fac35d299765f9331a4d",
       "bytes": 2195184,
       "part_name": "app0"
     },
     {
       "name": "firmware-chatter2-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "9954a468baf8e27311b2b0ecf2ccab70",
+      "md5": "6c3df9533b85ff14f7f586203e9895ba",
       "bytes": 2260720
     },
     {
       "name": "littlefs-chatter2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "76b364409ad6fdb2fc9fe0e8edf09fb4",
+      "md5": "e60ccf713b197105727324c921bc1c6b",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

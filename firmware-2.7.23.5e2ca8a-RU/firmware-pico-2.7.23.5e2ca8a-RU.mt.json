@@ -1,24 +1,24 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "pico",
   "mcu": "rp2040",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-pico-2.7.23.5e2ca8a.elf",
-      "md5": "cfb5e7d377586b3a5b481bae212ed98d",
+      "md5": "89c0b96e00ac120159072a38fb7c7912",
       "bytes": 10042604
     },
     {
       "name": "firmware-pico-2.7.23.5e2ca8a.bin",
-      "md5": "2834de3f265a6d0e16433bdf6d321b82",
+      "md5": "41fe0a954012fd0e46cf367d346bfd6d",
       "bytes": 983924,
       "part_name": "app0"
     },
     {
       "name": "firmware-pico-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "2113585dba80810fd22317130cd4318d",
+      "md5": "d4c74977dc1df4c8d7cfa37389f62074",
       "bytes": 1968128
     }
   ],

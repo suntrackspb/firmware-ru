@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "rak4631_eink",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak4631_eink-2.7.23.5e2ca8a.elf",
-      "md5": "fe52eadb6d4c664bd4e5b955347569b3",
+      "md5": "9e29d48b88422b2e637bdfc6437cfc8e",
       "bytes": 1410932
     },
     {
       "name": "firmware-rak4631_eink-2.7.23.5e2ca8a-RU.hex",
-      "md5": "889dbd04c838651b3bcf3e0fe81107eb",
+      "md5": "23129bf0bdc0d861f0c1e7a14fce67ca",
       "bytes": 2072276
     },
     {
       "name": "firmware-rak4631_eink-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "6e6c83a276bcc38b173fa1515610f735",
+      "md5": "03124e3999c2791f79f78fb90fe16c94",
       "bytes": 1473536
     },
     {
       "name": "firmware-rak4631_eink-2.7.23.5e2ca8a-ota.zip",
-      "md5": "eaf9376cdfcbe479d1402ecb7e5fa4da",
+      "md5": "b7b2bbdcf224b1d21b923497e67b2ea9",
       "bytes": 737690
     }
   ],

@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "m5stack-cores3",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-m5stack-cores3-2.7.23.5e2ca8a.elf",
-      "md5": "f3ffee539b60a87de72ce9b96f5f2f3d",
+      "md5": "d9c021b22142eaf374186849a7b58bea",
       "bytes": 22284560
     },
     {
       "name": "firmware-m5stack-cores3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "66fce1d9338cddea1add940d5ad840c8",
+      "md5": "02e093cd0f0187d57180bd300198d232",
       "bytes": 2125952,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-cores3-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "929932335abcdc5028a9beeee46b1ead",
+      "md5": "650d488ef38a02f48ee55e0ab4478356",
       "bytes": 2191488
     },
     {
       "name": "littlefs-m5stack-cores3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "6a95d78c77cc12b5941d6af212d4e4d6",
+      "md5": "a116e6dbf6918fef57dc60cdfba74bf8",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

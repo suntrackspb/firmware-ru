@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "seeed_xiao_nrf52840_kit",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-seeed_xiao_nrf52840_kit-2.7.23.5e2ca8a.elf",
-      "md5": "6caf6d39e72185f1200f5ba8b7d5ca47",
+      "md5": "cb669730cbe1a58ce45b7f061d5e9344",
       "bytes": 1395932
     },
     {
       "name": "firmware-seeed_xiao_nrf52840_kit-2.7.23.5e2ca8a.hex",
-      "md5": "82bf5720beb4f0718f2851a775e08572",
+      "md5": "52877a210e8e9c8f528c18ff1282244f",
       "bytes": 2026315
     },
     {
       "name": "firmware-seeed_xiao_nrf52840_kit-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "18e106d394fa015cb9f6ad3b89743d73",
+      "md5": "99a3c0bf8f873ac761efc37f812cfdf7",
       "bytes": 1440768
     },
     {
       "name": "firmware-seeed_xiao_nrf52840_kit-2.7.23.5e2ca8a-ota.zip",
-      "md5": "a67cb58a161f92512eb77f4cf9ecc16f",
+      "md5": "ba98403e18954958f39fe817d14b3620",
       "bytes": 721413
     }
   ],

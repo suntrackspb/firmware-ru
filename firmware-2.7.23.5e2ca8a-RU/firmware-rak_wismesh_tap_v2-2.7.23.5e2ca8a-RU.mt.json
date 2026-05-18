@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "rak_wismesh_tap_v2",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak_wismesh_tap_v2-2.7.23.5e2ca8a.elf",
-      "md5": "f909ba460f1fdcd9799cea1663a061f3",
+      "md5": "d174de10dba2bbc6c7c4a0cf20242fe3",
       "bytes": 22584068
     },
     {
       "name": "firmware-rak_wismesh_tap_v2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "10d24667a467d01e609392f0567a0ba9",
+      "md5": "a97fd2a637e4d6ba1ac8cdc8d1851fd5",
       "bytes": 2144336,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak_wismesh_tap_v2-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "22d3f67641742f5bd03ea45487176070",
+      "md5": "025eeace78780504db7afe5cffede74d",
       "bytes": 2209872
     },
     {
       "name": "littlefs-rak_wismesh_tap_v2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "d612bae6429ff8f0bcb58d6555894130",
+      "md5": "b4ce7881a6c9614051ee7ba571422758",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

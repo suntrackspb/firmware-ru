@@ -1,24 +1,24 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "pico2",
   "mcu": "rp2350",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-pico2-2.7.23.5e2ca8a.elf",
-      "md5": "7f8e02eb1540f732346241da485038de",
+      "md5": "9505f025401aa35908da36e37dde53ca",
       "bytes": 10070460
     },
     {
       "name": "firmware-pico2-2.7.23.5e2ca8a.bin",
-      "md5": "6d1c5377d5bb39b4afd5bb66c322c8d1",
+      "md5": "0c0910b0bd03fe2d996ba6ac425009e7",
       "bytes": 974812,
       "part_name": "app0"
     },
     {
       "name": "firmware-pico2-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "4cb6cf818549db3aab53a6fb6d58cafd",
+      "md5": "95c225d895566432850443282283349f",
       "bytes": 1949696
     }
   ],

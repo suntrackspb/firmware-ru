@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "rak4631",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak4631-2.7.23.5e2ca8a.elf",
-      "md5": "614be959a07a5f3503f3d2f9dc39835c",
+      "md5": "4066474e198b1e931dc7f81c321786d5",
       "bytes": 1450260
     },
     {
       "name": "firmware-rak4631-2.7.23.5e2ca8a-RU.hex",
-      "md5": "7994ca665c1a5e05f1824ffb6fb2f754",
+      "md5": "1402f44de5ccec5956b53f3d6f671c56",
       "bytes": 2128592
     },
     {
       "name": "firmware-rak4631-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "c840278d0448b2faad91629c76f024a4",
+      "md5": "9135535f6bac73805deef54b2b3b3cb6",
       "bytes": 1513984
     },
     {
       "name": "firmware-rak4631-2.7.23.5e2ca8a-ota.zip",
-      "md5": "dd3eb10942c83aff59947b65becec798",
+      "md5": "a17034b71646351973355717ed4c4aa7",
       "bytes": 757681
     }
   ],

@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "heltec-wireless-tracker-v2",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-wireless-tracker-v2-2.7.23.5e2ca8a.elf",
-      "md5": "754f5f7ffff73faa858e3f984858f60f",
+      "md5": "3b99080fa2d71c5123693f51c81328b7",
       "bytes": 23143796
     },
     {
       "name": "firmware-heltec-wireless-tracker-v2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "8eeaf934e9bd68a2bb83a151e326848c",
+      "md5": "315648b15601879acf16fa74aaade5c6",
       "bytes": 2193328,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wireless-tracker-v2-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "cc28db4f21622933500f471099268fcd",
+      "md5": "00bd744aeb81ef4c02ac354ecb7008b8",
       "bytes": 2258864
     },
     {
       "name": "littlefs-heltec-wireless-tracker-v2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "a23ff1322fa88cd602798f41a1e548e4",
+      "md5": "fa484fd12e0cd903b3f0f1852e7a9454",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "heltec-vision-master-t190",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-vision-master-t190-2.7.23.5e2ca8a.elf",
-      "md5": "591a9bd091435367b35efc06f0f67207",
+      "md5": "730f0c5c3db679828dcf202cd57a1bdb",
       "bytes": 22820824
     },
     {
       "name": "firmware-heltec-vision-master-t190-2.7.23.5e2ca8a-RU.bin",
-      "md5": "170e0fc0a3e6a4cfea4b2057da817ce6",
+      "md5": "f7710d386cd7ea1efa8f7916dc311986",
       "bytes": 2145024,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-t190-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "db2a62dc8d6261d9d38cdf31f0b90dd1",
+      "md5": "7c0d5a8a0e4de10366ca5921676c0cc9",
       "bytes": 2210560
     },
     {
       "name": "littlefs-heltec-vision-master-t190-2.7.23.5e2ca8a-RU.bin",
-      "md5": "9fdb141cb100ec7758e6a36633446226",
+      "md5": "d3dae19aa54eb1292b92cfd49cc8884e",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

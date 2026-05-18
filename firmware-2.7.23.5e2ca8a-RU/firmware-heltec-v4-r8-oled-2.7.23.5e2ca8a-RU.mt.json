@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "heltec-v4-r8-oled",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-v4-r8-oled-2.7.23.5e2ca8a.elf",
-      "md5": "da52138f3e13995d4a3f42b1c194263f",
+      "md5": "3b06a79b92e92928caefc9d561dd7595",
       "bytes": 22355680
     },
     {
       "name": "firmware-heltec-v4-r8-oled-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2b45c7d26c88e8788799e7c3cbd3e3ff",
+      "md5": "3f091a63d606fe71aebb8fe1e884f086",
       "bytes": 2123232,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-v4-r8-oled-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "f33751a5b3b26ab2e8691f4387c0f63f",
+      "md5": "64152a69518266e3f64b589a92266dd2",
       "bytes": 2188768
     },
     {
       "name": "littlefs-heltec-v4-r8-oled-2.7.23.5e2ca8a-RU.bin",
-      "md5": "1961fc0b03f4bdbf985a2d859ab66526",
+      "md5": "7b4b3b70308b0b5ecfb2ebc9e92e3ff2",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

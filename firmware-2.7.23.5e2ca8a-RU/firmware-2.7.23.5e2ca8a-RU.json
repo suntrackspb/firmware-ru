@@ -286,10 +286,6 @@
       "platform": "nrf52840"
     },
     {
-      "board": "rak4631_nomadstar_meteor_pro",
-      "platform": "nrf52840"
-    },
-    {
       "board": "rak_wismesh_tap_v2",
       "platform": "esp32s3"
     },
@@ -340,10 +336,6 @@
     {
       "board": "seeed_xiao_nrf52840_kit",
       "platform": "nrf52840"
-    },
-    {
-      "board": "station-g1",
-      "platform": "esp32"
     },
     {
       "board": "station-g2",

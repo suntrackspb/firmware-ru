@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "rak2560",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak2560-2.7.23.5e2ca8a.elf",
-      "md5": "7185ab508257abe37008773a3a7cc8e5",
+      "md5": "1a3be15a62fedf65d05961f71913331a",
       "bytes": 1450188
     },
     {
       "name": "firmware-rak2560-2.7.23.5e2ca8a.hex",
-      "md5": "77befa0532aa529600294a273a2dac28",
+      "md5": "6b79d8338f10a25b0e49b8459dcfd83e",
       "bytes": 2065682
     },
     {
       "name": "firmware-rak2560-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "0db4cb80cd465027e9e2f304db39c898",
+      "md5": "b31cf81b8024262c1477e115aed6e2cd",
       "bytes": 1468928
     },
     {
       "name": "firmware-rak2560-2.7.23.5e2ca8a-ota.zip",
-      "md5": "8a8183bea86bf6b006a1ab2b7c06cd7a",
+      "md5": "0d45a5dd8d1e49233d9ca39e825275ac",
       "bytes": 735313
     }
   ],

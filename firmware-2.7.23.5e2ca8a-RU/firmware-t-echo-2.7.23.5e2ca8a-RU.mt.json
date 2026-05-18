@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "t-echo",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t-echo-2.7.23.5e2ca8a.elf",
-      "md5": "2a4e77d01090f52aa8343f9b5ac066ea",
+      "md5": "e7e696ec187a439c4dd2f40acf3403cb",
       "bytes": 1412612
     },
     {
       "name": "firmware-t-echo-2.7.23.5e2ca8a.hex",
-      "md5": "73075454e6f9ce07d9479e0590bd794e",
+      "md5": "945cf2ec84f7a2e49cf4a0ad3956c5cc",
       "bytes": 2072681
     },
     {
       "name": "firmware-t-echo-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "acdf26e4adf683b2c1b0fbb359844ce6",
+      "md5": "fb4dcbcb5c3fc4303d5872522f77ca01",
       "bytes": 1474048
     },
     {
       "name": "firmware-t-echo-2.7.23.5e2ca8a-ota.zip",
-      "md5": "89b53ce419589cf3335412acec269373",
+      "md5": "4e48862450d0e16b2de2d5ffeb89ca2f",
       "bytes": 737799
     }
   ],
