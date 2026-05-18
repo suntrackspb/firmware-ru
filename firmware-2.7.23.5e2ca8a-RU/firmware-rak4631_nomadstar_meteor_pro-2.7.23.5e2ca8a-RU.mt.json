@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1778803200,
+  "build_epoch": 1779062400,
   "platformioTarget": "rak4631_nomadstar_meteor_pro",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak4631_nomadstar_meteor_pro-2.7.23.5e2ca8a.elf",
-      "md5": "7680aebb5135254525404ed7a70bbbd0",
+      "md5": "7592a57bb16175c494c577856914b345",
       "bytes": 1400576
     },
     {
       "name": "firmware-rak4631_nomadstar_meteor_pro-2.7.23.5e2ca8a-RU.hex",
-      "md5": "11a73c218a8accebdece3c96335f8ec5",
+      "md5": "621aea9bb67ae04f12c66873ae10eb7a",
       "bytes": 2039741
     },
     {
       "name": "firmware-rak4631_nomadstar_meteor_pro-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "e9613152095f4ba9eb599e4aa8fa4b7d",
+      "md5": "60d77c5300e30457248f2340a9956c3c",
       "bytes": 1450496
     },
     {
       "name": "firmware-rak4631_nomadstar_meteor_pro-2.7.23.5e2ca8a-ota.zip",
-      "md5": "59b3bad7115133afd897c33cad70a253",
-      "bytes": 726218
+      "md5": "aea420eb6bbc1dc83cc642760e94803c",
+      "bytes": 726219
     }
   ],
   "has_mui": false,
