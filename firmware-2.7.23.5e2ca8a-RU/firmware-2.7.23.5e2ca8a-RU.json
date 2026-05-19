@@ -242,6 +242,10 @@
       "platform": "esp32"
     },
     {
+      "board": "radiomaster_900_bandit_micro",
+      "platform": "esp32"
+    },
+    {
       "board": "radiomaster_900_bandit_nano",
       "platform": "esp32"
     },
