@@ -470,6 +470,10 @@
       "platform": "esp32s3"
     },
     {
+      "board": "tracksenger-oled",
+      "platform": "esp32s3"
+    },
+    {
       "board": "unphone",
       "platform": "esp32s3"
     },
