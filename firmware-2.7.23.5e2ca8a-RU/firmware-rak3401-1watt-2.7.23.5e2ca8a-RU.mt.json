@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-rak3401-1watt-2.7.23.5e2ca8a.elf",
-      "md5": "be32f3f8d3680bd1918fbfeb313ae6e3",
+      "md5": "c9218a6e0df2ee7d49ddfa0df87551d7",
       "bytes": 1400324
     },
     {
       "name": "firmware-rak3401-1watt-2.7.23.5e2ca8a.hex",
-      "md5": "8c721ef09441a3c3d34a801880d4c52c",
+      "md5": "8d4e0428fc9bbd5efd1abd802bcad80b",
       "bytes": 2044450
     },
     {
       "name": "firmware-rak3401-1watt-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "3ab0b6e56a69702b6a713ff758ec7232",
+      "md5": "de3107ea504a04d588ac03b7ffd3c8db",
       "bytes": 1454080
     },
     {
       "name": "firmware-rak3401-1watt-2.7.23.5e2ca8a-ota.zip",
-      "md5": "531d994c51f4e80c6502ec12d525f9a5",
+      "md5": "ad7dd686841d1ff333a6c7f25bf67b60",
       "bytes": 727801
     }
   ],

@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tracksenger-lcd-2.7.23.5e2ca8a.elf",
-      "md5": "0ad3ba395f1b1b1989d079ae6bddb7c5",
+      "md5": "a30adff48449be6e952c47809a883642",
       "bytes": 23069472
     },
     {
       "name": "firmware-tracksenger-lcd-2.7.23.5e2ca8a-RU.bin",
-      "md5": "3cb8946c4b27ef624854c8e028b15a86",
+      "md5": "e34262778592d4c7c9c401b316d41c2c",
       "bytes": 2188768,
       "part_name": "app0"
     },
     {
       "name": "firmware-tracksenger-lcd-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "89ce0bc24ff9892792f81792873d17a0",
+      "md5": "302833a8fc75b12199fb7c04870873fd",
       "bytes": 2254304
     },
     {
       "name": "littlefs-tracksenger-lcd-2.7.23.5e2ca8a-RU.bin",
-      "md5": "bde3e867f7adb2e6e09ffcdba38371e3",
+      "md5": "ec0de43a340d8096ff65424bc0772fcc",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

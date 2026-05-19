@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-rak_wismeshtag-2.7.23.5e2ca8a.elf",
-      "md5": "888743a152f903567509a1a1338ca19e",
+      "md5": "36c9e6d6ecfdf8bf42e2828245821b1d",
       "bytes": 1088048
     },
     {
       "name": "firmware-rak_wismeshtag-2.7.23.5e2ca8a.hex",
-      "md5": "3b67c34652124088445afd55d8114f8f",
+      "md5": "0812acd8a3fde48e8cdcbc7966cfd1ac",
       "bytes": 1620103
     },
     {
       "name": "firmware-rak_wismeshtag-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "fa8a4392746e86b4532d07d5de558c6b",
+      "md5": "17319a709b2d3e049afc8b8c81bab02a",
       "bytes": 1152000
     },
     {
       "name": "firmware-rak_wismeshtag-2.7.23.5e2ca8a-ota.zip",
-      "md5": "54d2b2d76ff457a75cc568b2c804a657",
-      "bytes": 576939
+      "md5": "20f2ad6d1511b5d28c132e6f120c9ecc",
+      "bytes": 576938
     }
   ],
   "has_mui": false,

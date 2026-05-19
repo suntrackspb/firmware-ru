@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-feather_diy-2.7.23.5e2ca8a.elf",
-      "md5": "8162b01488bf2d5457bb16ffc019d27c",
+      "md5": "f79000e47908799d4bcabe5f57e972cc",
       "bytes": 1332288
     },
     {
       "name": "firmware-feather_diy-2.7.23.5e2ca8a.hex",
-      "md5": "25b36f14413ea11a3bed26a1d8c6f372",
+      "md5": "a19ec926b9fd0bb6ccf7340d36e04d09",
       "bytes": 2030050
     },
     {
       "name": "firmware-feather_diy-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "215750b47f2e62fc2c2c13f60dd27c78",
+      "md5": "8b6b8a637f0051a084539728b635eef4",
       "bytes": 1443840
     },
     {
       "name": "firmware-feather_diy-2.7.23.5e2ca8a-ota.zip",
-      "md5": "658463d468701a8427e46b6f767a17d8",
+      "md5": "f88bcafdefafd6b7850bc5a030459c6c",
       "bytes": 722669
     }
   ],

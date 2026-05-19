@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-m5stack-cardputer-adv-2.7.23.5e2ca8a.elf",
-      "md5": "d2a0218d83798699abefd19954f1025a",
+      "md5": "d5bd2f1d2b1a42a11478d2f4df1a3df3",
       "bytes": 22842828
     },
     {
       "name": "firmware-m5stack-cardputer-adv-2.7.23.5e2ca8a-RU.bin",
-      "md5": "7394db26ccb414b2953f7e64c30cb70b",
+      "md5": "4d2744c3b57f940e8683af44cd92776f",
       "bytes": 2225968,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-cardputer-adv-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "6db66bdc4a3dc0573b75cbdae83be364",
+      "md5": "20fd2ac05a0a5ff63fcdce3f5560654e",
       "bytes": 2291504
     },
     {
       "name": "littlefs-m5stack-cardputer-adv-2.7.23.5e2ca8a-RU.bin",
-      "md5": "22e576bbbbffb781e7dce064dda5a5aa",
+      "md5": "4ce9f9150fb6222c841863ebbc3c3f21",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

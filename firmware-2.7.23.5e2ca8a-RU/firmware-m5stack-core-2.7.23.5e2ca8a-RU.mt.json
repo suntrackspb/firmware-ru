@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-m5stack-core-2.7.23.5e2ca8a.elf",
-      "md5": "60d474ce4880383cd972897f6ad58b88",
+      "md5": "e57325d19f4d116e51f6c59212584ffe",
       "bytes": 20018980
     },
     {
       "name": "firmware-m5stack-core-2.7.23.5e2ca8a-RU.bin",
-      "md5": "438143e8465e4d639e2d3534c7e266c2",
+      "md5": "44646a441db9b457f03cee8f8286d54d",
       "bytes": 2175984,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-core-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "2ebbf63e3cecea1afd4565bc4deadc97",
+      "md5": "215442755463b5b758869187a0fbb57a",
       "bytes": 2241520
     },
     {
       "name": "littlefs-m5stack-core-2.7.23.5e2ca8a-RU.bin",
-      "md5": "199dca46816975fad622faf70d350cad",
+      "md5": "c9575a872cdfa0a8009442dde5c31f29",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

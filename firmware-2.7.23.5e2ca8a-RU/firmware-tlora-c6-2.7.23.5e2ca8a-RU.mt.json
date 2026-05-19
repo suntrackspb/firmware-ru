@@ -23,7 +23,7 @@
     },
     {
       "name": "littlefs-tlora-c6-2.7.23.5e2ca8a-RU.bin",
-      "md5": "93645bfd8e222a3507d82a3a7d089eee",
+      "md5": "9b838ae4616e606840ef1b32a1b76f4e",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

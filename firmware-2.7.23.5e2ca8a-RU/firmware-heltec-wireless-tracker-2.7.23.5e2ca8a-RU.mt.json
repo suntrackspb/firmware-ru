@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-wireless-tracker-2.7.23.5e2ca8a.elf",
-      "md5": "f473ef30e8c55738bd03ff2cf3cc5ad1",
+      "md5": "cdf8ab103a047928e60b64f31d490913",
       "bytes": 23143220
     },
     {
       "name": "firmware-heltec-wireless-tracker-2.7.23.5e2ca8a-RU.bin",
-      "md5": "33d30c32978306ea806cbc3eba67d052",
+      "md5": "a4cef4f98ce687c39e343febf0c789d9",
       "bytes": 2192432,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wireless-tracker-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "0afcd9ca8d18474a3c59b3d7f5b60bb3",
+      "md5": "6449c7d88ac2a4c48e924fc79f948942",
       "bytes": 2257968
     },
     {
       "name": "littlefs-heltec-wireless-tracker-2.7.23.5e2ca8a-RU.bin",
-      "md5": "37783823a275a36d0ce886dce61e9239",
+      "md5": "ba70cbdb4a37a0c19895a880149b1bdd",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

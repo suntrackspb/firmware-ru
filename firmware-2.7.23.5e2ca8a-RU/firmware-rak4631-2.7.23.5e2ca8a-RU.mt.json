@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-rak4631-2.7.23.5e2ca8a.elf",
-      "md5": "8fdcb460c11d6fc7f2408ecaab8f9872",
+      "md5": "30237fea755763d898ab3717fcf87b0a",
       "bytes": 1450260
     },
     {
       "name": "firmware-rak4631-2.7.23.5e2ca8a-RU.hex",
-      "md5": "ea9c951d425ddc8ae5dc6cd60b2f3dd2",
+      "md5": "55d2c5f3b879041996e7642d2532332b",
       "bytes": 2128592
     },
     {
       "name": "firmware-rak4631-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "faebdfd1ec51051d34e9e103a19a9726",
+      "md5": "c822597a54773e2fb8beab6e2f5e88cd",
       "bytes": 1513984
     },
     {
       "name": "firmware-rak4631-2.7.23.5e2ca8a-ota.zip",
-      "md5": "78fff814a24f353da592afc478ca30d3",
-      "bytes": 757681
+      "md5": "f452cc365e491d0fc304106d1427627f",
+      "bytes": 757680
     }
   ],
   "has_mui": false,

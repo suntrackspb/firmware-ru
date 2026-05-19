@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-t-beam-1w-2.7.23.5e2ca8a.elf",
-      "md5": "e797c903704414a5e6672e6800356f2f",
+      "md5": "40c9dc9bd0c2df5db1f00ebd0f2d597e",
       "bytes": 23054352
     },
     {
       "name": "firmware-t-beam-1w-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2b72d3bdb617fbd1c56ff45a14cf30cf",
+      "md5": "f3a8e95ce9ff4bc5e7917b097c75857b",
       "bytes": 2168608,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-beam-1w-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "776ae7c0f90a2305d0f6058663707a39",
+      "md5": "b513477865a6d7ce4d5f6be381968360",
       "bytes": 2234144
     },
     {
       "name": "littlefs-t-beam-1w-2.7.23.5e2ca8a-RU.bin",
-      "md5": "8cfd8445855e45fd249f31fbea30b1dc",
+      "md5": "4165d495148553a4d033b86a3247baec",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-unphone-2.7.23.5e2ca8a.elf",
-      "md5": "628f0b7e583f88d67b3ce35ba36cbccf",
+      "md5": "29efb3abe12c8212968ac44bc4e9e821",
       "bytes": 22823576
     },
     {
       "name": "firmware-unphone-2.7.23.5e2ca8a-RU.bin",
-      "md5": "c3f97c01456408663e2d46472808ecf1",
+      "md5": "45388fb3af18e792f71e933a62021ada",
       "bytes": 2143248,
       "part_name": "app0"
     },
     {
       "name": "firmware-unphone-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "31ef3e0a5b143bcc646507775989270c",
+      "md5": "2269583799ce9192234665ad56af315a",
       "bytes": 2208784
     },
     {
       "name": "littlefs-unphone-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2353dee57e49da97d2cf9aa6c3e506d6",
+      "md5": "5d4355dc3905f6b7e6a3dfabe58b47e7",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

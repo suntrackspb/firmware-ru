@@ -23,7 +23,7 @@
     },
     {
       "name": "littlefs-tbeam-s3-core-2.7.23.5e2ca8a-RU.bin",
-      "md5": "19b11f0ce8c03ff5c78b733cf2107f47",
+      "md5": "03a9ffab1c7a3d9e5bd0e4accadafb49",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-heltec-mesh-node-t096-2.7.23.5e2ca8a.elf",
-      "md5": "43442a9513ccebcbb1acbe976ad693ad",
+      "md5": "f890f8f51238df87df9f0f6b7ede6a72",
       "bytes": 1409088
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.7.23.5e2ca8a.hex",
-      "md5": "6987e80a1d432ce061ab359739e23ca2",
+      "md5": "fd7860bcc80237a86a38ea3332d1a85c",
       "bytes": 2071712
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "6b329af277b58a9f04f1b46ede40b10c",
+      "md5": "7994b0e55d8c27ed15c4ddaf35034c0c",
       "bytes": 1473536
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.7.23.5e2ca8a-ota.zip",
-      "md5": "c9ca81857d74f7c1bbfd46df9ca62a65",
+      "md5": "e10010ef52de9b05a6847391fc6bf4cc",
       "bytes": 737541
     }
   ],

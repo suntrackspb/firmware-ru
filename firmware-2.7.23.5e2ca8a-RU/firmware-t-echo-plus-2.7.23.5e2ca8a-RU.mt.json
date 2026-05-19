@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-t-echo-plus-2.7.23.5e2ca8a.elf",
-      "md5": "c24bf627622eddac0e38a217f00c512e",
+      "md5": "4055abc9aba2b3e84c1d159bb3bcb4e3",
       "bytes": 1410376
     },
     {
       "name": "firmware-t-echo-plus-2.7.23.5e2ca8a.hex",
-      "md5": "d1f84418c98ab4fa46b9994163c16d14",
+      "md5": "89b84cae6190608bf41e280dbbd03934",
       "bytes": 2065886
     },
     {
       "name": "firmware-t-echo-plus-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "59c04d4d0680ad132e4e205fc520f0a6",
+      "md5": "235fc3c302f5b9ab22c2e6e22c855789",
       "bytes": 1468928
     },
     {
       "name": "firmware-t-echo-plus-2.7.23.5e2ca8a-ota.zip",
-      "md5": "5a67f99480877ada82e957dc164ebc66",
+      "md5": "a8450b9c4181cee01d4bc5cac0fa187b",
       "bytes": 735413
     }
   ],

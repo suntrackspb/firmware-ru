@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tracksenger-oled-2.7.23.5e2ca8a.elf",
-      "md5": "53b83bbffbf33ee04574a19fb89bdc53",
+      "md5": "458f5f4c5de649f52894e16a98010ad0",
       "bytes": 22740012
     },
     {
       "name": "firmware-tracksenger-oled-2.7.23.5e2ca8a-RU.bin",
-      "md5": "6e289074df9f99d4b81fdd31a52cb4f9",
+      "md5": "cd6cf1dd75bade834aa69595a797c998",
       "bytes": 2136640,
       "part_name": "app0"
     },
     {
       "name": "firmware-tracksenger-oled-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "7b418feb06583f472d9cabc5a77cc666",
+      "md5": "b943213aa1b9f4589f3bfc06a50a39f0",
       "bytes": 2202176
     },
     {
       "name": "littlefs-tracksenger-oled-2.7.23.5e2ca8a-RU.bin",
-      "md5": "9148f0115701692028947722305db767",
+      "md5": "3f813a2eaff840f382981a572986a2a7",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

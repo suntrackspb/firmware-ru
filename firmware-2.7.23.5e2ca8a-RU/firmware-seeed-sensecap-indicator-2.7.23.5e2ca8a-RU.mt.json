@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-seeed-sensecap-indicator-2.7.23.5e2ca8a.elf",
-      "md5": "afe697c174459c2407425d958cea1066",
+      "md5": "e4150cc0ea538868b093961e09f3aaa4",
       "bytes": 22290900
     },
     {
       "name": "firmware-seeed-sensecap-indicator-2.7.23.5e2ca8a-RU.bin",
-      "md5": "35e12fe010ccb13f14cfa8076e552306",
+      "md5": "a029b8a37e1434671e7090eb840f61e0",
       "bytes": 2162384,
       "part_name": "app0"
     },
     {
       "name": "firmware-seeed-sensecap-indicator-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "c390c6880dd4be73f5c98ec820a769fe",
+      "md5": "fab2cdb42377a1aecdc29df0d6ddc72c",
       "bytes": 2227920
     },
     {
       "name": "littlefs-seeed-sensecap-indicator-2.7.23.5e2ca8a-RU.bin",
-      "md5": "14e0d90082ed0987054811daadcd35cd",
+      "md5": "b345417cd5d398a6c8f368919b7e26f3",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

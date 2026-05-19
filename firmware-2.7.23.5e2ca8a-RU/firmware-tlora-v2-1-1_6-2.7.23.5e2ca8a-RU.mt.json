@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tlora-v2-1-1_6-2.7.23.5e2ca8a.elf",
-      "md5": "0aa54c930f35aa9226f59cef5067ddbd",
+      "md5": "4bede0dd9659800bd109a25525854652",
       "bytes": 19864640
     },
     {
       "name": "firmware-tlora-v2-1-1_6-2.7.23.5e2ca8a-RU.bin",
-      "md5": "1a38a5a5b8d2ca9384dae975ffd5c2ea",
+      "md5": "9f67433f10af10b8a6bbc853fdc4f998",
       "bytes": 2125376,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-v2-1-1_6-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "3f469c75c657cb2f74c245b1898b7d61",
+      "md5": "7482207b71b79d629a0f531b4a248f59",
       "bytes": 2190912
     },
     {
       "name": "littlefs-tlora-v2-1-1_6-2.7.23.5e2ca8a-RU.bin",
-      "md5": "38c97a1eccc45ec37890a7bdbbb1f978",
+      "md5": "15159aa9d26cdfc698c5b5f5f0702acf",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

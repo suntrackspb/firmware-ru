@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-seeed-xiao-s3-2.7.23.5e2ca8a.elf",
-      "md5": "67a671d416904c9c813da4ed92295860",
+      "md5": "ae7a9e43f5850f81b2e2a5e9a5e134c8",
       "bytes": 22811804
     },
     {
       "name": "firmware-seeed-xiao-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "64f51167c3ecd3f3eff2960c0aab260b",
+      "md5": "341115d013dbb5c5336152b30693c3dd",
       "bytes": 2139248,
       "part_name": "app0"
     },
     {
       "name": "firmware-seeed-xiao-s3-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "2d1dabd2858a356850a88d404d1eee77",
+      "md5": "59d07dbd4cc6fd0a333e8a741b9e1bcd",
       "bytes": 2204784
     },
     {
       "name": "littlefs-seeed-xiao-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "bb79b7c3128adf3146527d5833e0f1cf",
+      "md5": "6085abc59d77a5d611ba03ef1408ec55",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-t-eth-elite-2.7.23.5e2ca8a.elf",
-      "md5": "a69cd5b8cc37dc750056eb01a36e980a",
+      "md5": "e5a9ebdf62bfd252123a85117b02b785",
       "bytes": 23180184
     },
     {
       "name": "firmware-t-eth-elite-2.7.23.5e2ca8a-RU.bin",
-      "md5": "93c41b99ec5e133ce6ec709af713962b",
+      "md5": "29f5586a441a0f2dd04d902d5daf6c5b",
       "bytes": 2309728,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-eth-elite-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "fc591c26b0526dc2a30f93588899f862",
+      "md5": "b0466076036491d07c32be7e3685d55d",
       "bytes": 2375264
     },
     {
       "name": "littlefs-t-eth-elite-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2212e0b96127c83d4b70a0102aab6a3f",
+      "md5": "4623284ecc70df2e4824bec133f78455",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

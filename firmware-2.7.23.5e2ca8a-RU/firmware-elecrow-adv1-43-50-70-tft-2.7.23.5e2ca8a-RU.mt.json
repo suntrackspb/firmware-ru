@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.7.23.5e2ca8a.elf",
-      "md5": "ca97530caed8b1958e8a36068e05b0ff",
+      "md5": "3e5377ae688e85f96cb66d0054d75a5f",
       "bytes": 23409168
     },
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "8a312d0546c36ae2c4fc0be1d27d6013",
+      "md5": "e03b63c331568db97b770812be725d35",
       "bytes": 3218112,
       "part_name": "app0"
     },
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "503f71318fff9449d1d51e7080876689",
+      "md5": "434cbfb4060a5259ea7e284651210e23",
       "bytes": 3283648
     },
     {
       "name": "littlefs-elecrow-adv1-43-50-70-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "03d6b50555d5bf9392f9e009dd982b36",
+      "md5": "2ce6987eb1e777cdeea38ba6f3347cca",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

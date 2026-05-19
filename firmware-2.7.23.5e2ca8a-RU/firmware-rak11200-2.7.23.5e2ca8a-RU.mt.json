@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-rak11200-2.7.23.5e2ca8a.elf",
-      "md5": "4bbe1e84bb0b83cc315bc4e44663ef4e",
+      "md5": "68c30d29f3b8993b6bf4929428bf88e1",
       "bytes": 17734200
     },
     {
       "name": "firmware-rak11200-2.7.23.5e2ca8a-RU.bin",
-      "md5": "753e59aee494df3b3fa52f6586090df8",
+      "md5": "e678ea5d10394c495870601b018fe336",
       "bytes": 1823840,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak11200-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "685179bce799f7952551073326ebdc00",
+      "md5": "7a909980d6212fb4689360efdf925a54",
       "bytes": 1889376
     },
     {
       "name": "littlefs-rak11200-2.7.23.5e2ca8a-RU.bin",
-      "md5": "6af085294b7820b1f15266ed0d4a4481",
+      "md5": "eae7878ef2ee88865da8574551f904f8",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

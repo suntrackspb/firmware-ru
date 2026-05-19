@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-wio-tracker-wm1110-2.7.23.5e2ca8a.elf",
-      "md5": "ed4bcc4e6ebe6ff3f66fafb38124410a",
+      "md5": "9fd1bc7d197512d348befbcf6e1bcea8",
       "bytes": 1331408
     },
     {
       "name": "firmware-wio-tracker-wm1110-2.7.23.5e2ca8a.hex",
-      "md5": "4df69e374267517d8f9c77c66e5fc36b",
+      "md5": "247f2caf81fb4f1f33a050a43f450ca4",
       "bytes": 2017405
     },
     {
       "name": "firmware-wio-tracker-wm1110-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "f6b85d217b73ecd8bf7d6137c3762cfa",
+      "md5": "45ee39c4af211d6bdd8fa71fc13904e7",
       "bytes": 1434624
     },
     {
       "name": "firmware-wio-tracker-wm1110-2.7.23.5e2ca8a-ota.zip",
-      "md5": "bd8892da4de4d96eb6d4ba5d087bfd4e",
-      "bytes": 718214
+      "md5": "d7e58d2e6ea72fdfe5b9bf1324879a96",
+      "bytes": 718215
     }
   ],
   "has_mui": false,

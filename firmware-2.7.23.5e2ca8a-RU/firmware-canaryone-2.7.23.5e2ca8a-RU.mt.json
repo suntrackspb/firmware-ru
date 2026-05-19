@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-canaryone-2.7.23.5e2ca8a.elf",
-      "md5": "23bbd5e8b56beb4e0a0215eaa5b4aa13",
+      "md5": "0070eccfe302b6b75763d9c2b9d58d19",
       "bytes": 1329912
     },
     {
       "name": "firmware-canaryone-2.7.23.5e2ca8a.hex",
-      "md5": "a519224afc513648f614fc86c85653b9",
+      "md5": "6e43218a0139fa4c661dacb6ced40f43",
       "bytes": 1976410
     },
     {
       "name": "firmware-canaryone-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "a1986f9de8025dbaed469c179034fb43",
+      "md5": "9aa247a8fe161b9cad2865e0cb1f1716",
       "bytes": 1405440
     },
     {
       "name": "firmware-canaryone-2.7.23.5e2ca8a-ota.zip",
-      "md5": "2bd72ff41583bc199d225e8a1085ba23",
+      "md5": "244a538f32b32a8286dc5252a6c4406c",
       "bytes": 703585
     }
   ],

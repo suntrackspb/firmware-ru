@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-picomputer-s3-tft-2.7.23.5e2ca8a.elf",
-      "md5": "925453b6130742e2e3269bd6f3846bad",
+      "md5": "a79d4eca73979090a454c89f15571a9d",
       "bytes": 24640208
     },
     {
       "name": "firmware-picomputer-s3-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "09b714b07a86d5bf2352070dffad2ce6",
+      "md5": "3bda9466bb8478c49c3712d02e73fe5b",
       "bytes": 3441856,
       "part_name": "app0"
     },
     {
       "name": "firmware-picomputer-s3-tft-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "5a11990f550041d5b8b8b6141bd3a883",
+      "md5": "aaee8f5f6ee848e37685d741b8ba006e",
       "bytes": 3507392
     },
     {
       "name": "littlefs-picomputer-s3-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "9494dd34e401f8b00cac4b9ac726e3bf",
+      "md5": "37cd8b9e49ba202de7b48e63f5618b25",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

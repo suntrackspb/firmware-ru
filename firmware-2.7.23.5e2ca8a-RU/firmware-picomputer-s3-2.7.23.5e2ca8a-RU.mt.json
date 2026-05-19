@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-picomputer-s3-2.7.23.5e2ca8a.elf",
-      "md5": "7cd789ac4858b9b1d57193451bd44366",
+      "md5": "4f9114de710faaa50b4ba00ee0d684f2",
       "bytes": 23125656
     },
     {
       "name": "firmware-picomputer-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "964b021bbc5428f8ab72d327d49fc07b",
+      "md5": "bf3eee21cc607ec26d9260997318ca54",
       "bytes": 2184736,
       "part_name": "app0"
     },
     {
       "name": "firmware-picomputer-s3-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "50233d92d98b6690e78a5d6e5df7c867",
+      "md5": "4b0c786055645dfb30615e15fdac6d20",
       "bytes": 2250272
     },
     {
       "name": "littlefs-picomputer-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "eea95e5cbf69c5189b3f81e3bbdeb32d",
+      "md5": "46176e907c6e3dfdaf18e017abb2c5c9",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

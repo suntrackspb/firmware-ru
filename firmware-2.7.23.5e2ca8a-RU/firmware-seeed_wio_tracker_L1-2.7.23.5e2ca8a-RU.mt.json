@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-seeed_wio_tracker_L1-2.7.23.5e2ca8a.elf",
-      "md5": "c561aa5a6c436b9201d5fd44286856d1",
+      "md5": "83cf5dca881cf9d33efb56c8de52494b",
       "bytes": 1404572
     },
     {
       "name": "firmware-seeed_wio_tracker_L1-2.7.23.5e2ca8a.hex",
-      "md5": "b5b18018e7109fec14a26bdf9567fad2",
+      "md5": "aa58f0aa54432643ec34f33293deb046",
       "bytes": 2043881
     },
     {
       "name": "firmware-seeed_wio_tracker_L1-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "7bd3bd4249179a4bc4832f91a45aa6bd",
+      "md5": "e3b5c43905618452e9b5c689625e967b",
       "bytes": 1453568
     },
     {
       "name": "firmware-seeed_wio_tracker_L1-2.7.23.5e2ca8a-ota.zip",
-      "md5": "e84a424d16dbde11278531e77d7ab028",
+      "md5": "7a8dd7fc06c61639c5758e5314c64ae3",
       "bytes": 727643
     }
   ],

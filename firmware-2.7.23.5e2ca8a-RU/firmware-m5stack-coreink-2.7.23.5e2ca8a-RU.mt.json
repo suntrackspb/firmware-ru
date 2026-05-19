@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-m5stack-coreink-2.7.23.5e2ca8a.elf",
-      "md5": "5d739f260fdbbca10fd35087e461347c",
+      "md5": "8d9b03b992027cdcb0cdf2f212212291",
       "bytes": 19900512
     },
     {
       "name": "firmware-m5stack-coreink-2.7.23.5e2ca8a-RU.bin",
-      "md5": "e3336dcb2649b5c6c771f97f0e8d7198",
+      "md5": "042e8d11fb85f27a443c2b33d95f9436",
       "bytes": 2140240,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-coreink-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "76b3b1c0fde00d7fb5ade9a41fc9c770",
+      "md5": "98fb101fa80260791ad0bfbcdefdbfc5",
       "bytes": 2205776
     },
     {
       "name": "littlefs-m5stack-coreink-2.7.23.5e2ca8a-RU.bin",
-      "md5": "27af5bedca643dc8b33f86faf7b2db85",
+      "md5": "e93a8f4d98504af7eb7a358a0ea1a2dc",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
