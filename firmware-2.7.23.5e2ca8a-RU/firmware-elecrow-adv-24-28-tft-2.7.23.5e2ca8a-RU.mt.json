@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "elecrow-adv-24-28-tft",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-elecrow-adv-24-28-tft-2.7.23.5e2ca8a.elf",
-      "md5": "2e4038caf5acd8b9914921fec44dad97",
+      "md5": "dd79bb83e7f055cdef2a2f0823c1ee2d",
       "bytes": 23330172
     },
     {
       "name": "firmware-elecrow-adv-24-28-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "46341919bfa6782c773f213d011f4773",
+      "md5": "4d5e4076c495c854c65408a0cd042a14",
       "bytes": 3204048,
       "part_name": "app0"
     },
     {
       "name": "firmware-elecrow-adv-24-28-tft-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "fc364a8226f301a11dc4a47af580053d",
+      "md5": "d6a5abf28321c839ae009d1dcbccfaf4",
       "bytes": 3269584
     },
     {
       "name": "littlefs-elecrow-adv-24-28-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "b3a6fbc508ae6d56488ead9f37e5d529",
+      "md5": "955c501fc83ccf7b24dc63057e1de3aa",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "unphone",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-unphone-2.7.23.5e2ca8a.elf",
-      "md5": "19e457df6f5331c4a94bd094f91a52b8",
+      "md5": "35e7df4d5f91a139851864b51f84fe0a",
       "bytes": 22823576
     },
     {
       "name": "firmware-unphone-2.7.23.5e2ca8a-RU.bin",
-      "md5": "f3838e62336a3895ead0644df2f29246",
+      "md5": "9dca235f626d3a0d772c838fd9824d0d",
       "bytes": 2143248,
       "part_name": "app0"
     },
     {
       "name": "firmware-unphone-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "a6d6a9c9e3df9bced33d37cc23192f7e",
+      "md5": "0eab914ff16893c449cb60e23413dfa3",
       "bytes": 2208784
     },
     {
       "name": "littlefs-unphone-2.7.23.5e2ca8a-RU.bin",
-      "md5": "43a3c907cd70e122fd430b19c013d6a2",
+      "md5": "22e65e838a53e038eb4e309f98229c2e",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

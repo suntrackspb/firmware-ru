@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tlora-v3-3-0-tcxo",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tlora-v3-3-0-tcxo-2.7.23.5e2ca8a.elf",
-      "md5": "5da57e44e5ac2a743eba598e3c433f4a",
+      "md5": "b12261f3d331716f31f0fc1ca1611fac",
       "bytes": 19872580
     },
     {
       "name": "firmware-tlora-v3-3-0-tcxo-2.7.23.5e2ca8a-RU.bin",
-      "md5": "83282d2ac04885bbab5a08cc4a77f574",
+      "md5": "5e3c918a7d9619f8ade5d94624b50c1f",
       "bytes": 2129152,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-v3-3-0-tcxo-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "b66ad4f70bbee4277aeb506a5f6ac30f",
+      "md5": "5e586c7aa2db519a6fdfbd3a3c3101a2",
       "bytes": 2194688
     },
     {
       "name": "littlefs-tlora-v3-3-0-tcxo-2.7.23.5e2ca8a-RU.bin",
-      "md5": "56afb3cf93294bbfe57745483a301b36",
+      "md5": "b8585ed4535d8371250a5b319a9ac71b",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

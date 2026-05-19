@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "seeed-xiao-s3",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-seeed-xiao-s3-2.7.23.5e2ca8a.elf",
-      "md5": "4b6449c3328b31413c6b1f2f6b84c4be",
+      "md5": "89c5b1528094b2d1074df9d88576b229",
       "bytes": 22811804
     },
     {
       "name": "firmware-seeed-xiao-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "25a01fde2d5722d3d490967c4b6a91a8",
+      "md5": "87fea183827de781b9a6f446c12d67cd",
       "bytes": 2139248,
       "part_name": "app0"
     },
     {
       "name": "firmware-seeed-xiao-s3-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "3cf18b87ab96a206de838eca152621d2",
+      "md5": "d27f3bf30cee25a573f1297e6050786d",
       "bytes": 2204784
     },
     {
       "name": "littlefs-seeed-xiao-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "e0453af3b50cc6d99f18c930a4af728b",
+      "md5": "89ba9bfb036f776542dc0b50fef18393",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

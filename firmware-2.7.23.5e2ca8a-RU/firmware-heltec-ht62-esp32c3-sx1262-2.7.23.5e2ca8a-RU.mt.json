@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-ht62-esp32c3-sx1262",
   "mcu": "esp32c3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-ht62-esp32c3-sx1262-2.7.23.5e2ca8a.elf",
-      "md5": "a3d8ab42403298fa367219fc8fdee359",
+      "md5": "e337dc9ee9a216ce90ffd16376d58db6",
       "bytes": 19149880
     },
     {
       "name": "firmware-heltec-ht62-esp32c3-sx1262-2.7.23.5e2ca8a-RU.bin",
-      "md5": "756b896e6f1976a84e871b3f788e454f",
-      "bytes": 2110816,
+      "md5": "0ede30ac7c7629e01cd9348da0d2a6bd",
+      "bytes": 2110832,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-ht62-esp32c3-sx1262-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "e2489c9b3a18317aa45c83b0124995a2",
-      "bytes": 2176352
+      "md5": "ada5d6a2de9092a8f5dfb094480dcc6c",
+      "bytes": 2176368
     },
     {
       "name": "littlefs-heltec-ht62-esp32c3-sx1262-2.7.23.5e2ca8a-RU.bin",
-      "md5": "fc80adb69b851706bbf4e83f2f5102f6",
+      "md5": "9952b88520523b875b5610c24168b29b",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

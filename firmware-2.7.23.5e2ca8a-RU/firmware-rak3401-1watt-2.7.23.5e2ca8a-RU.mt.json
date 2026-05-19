@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "rak3401-1watt",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak3401-1watt-2.7.23.5e2ca8a.elf",
-      "md5": "51608854cd8745392a44860987a90306",
+      "md5": "dab52ca629f55684b032b9555aee1074",
       "bytes": 1400324
     },
     {
       "name": "firmware-rak3401-1watt-2.7.23.5e2ca8a.hex",
-      "md5": "0391eba2a4eae6e55260360e4539e787",
+      "md5": "fcef70b0e047e3c033f0081ace728081",
       "bytes": 2044450
     },
     {
       "name": "firmware-rak3401-1watt-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "abd47aeb41eb048831248e18a528fa48",
+      "md5": "dd95f7cddbaad3e5e6ef56c26394d014",
       "bytes": 1454080
     },
     {
       "name": "firmware-rak3401-1watt-2.7.23.5e2ca8a-ota.zip",
-      "md5": "71ca5447356987077c8f85ab0fd3ba66",
+      "md5": "eb27633a11db6ef4e8d09e65dfe4c1b4",
       "bytes": 727801
     }
   ],

@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "nano-g2-ultra",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-nano-g2-ultra-2.7.23.5e2ca8a.elf",
-      "md5": "7a8b21d97c31e175f5ac67ef6ddd125f",
+      "md5": "791b27c09ccca30bafd8023adb87b7ac",
       "bytes": 1401632
     },
     {
       "name": "firmware-nano-g2-ultra-2.7.23.5e2ca8a.hex",
-      "md5": "2c409c1a255b39662a29aed449141227",
+      "md5": "7efb09a8608b51385dac21cc8605f103",
       "bytes": 2040670
     },
     {
       "name": "firmware-nano-g2-ultra-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "88e0465d3cb98ce920dd3436e26bd51e",
+      "md5": "9b04809a992747b01cb0f7baf1c6c6c4",
       "bytes": 1451008
     },
     {
       "name": "firmware-nano-g2-ultra-2.7.23.5e2ca8a-ota.zip",
-      "md5": "6a503c977fa80b142d818c10a8fb8190",
-      "bytes": 726456
+      "md5": "b9a3cba31e60db253489d9faf3dc256c",
+      "bytes": 726457
     }
   ],
   "has_mui": false,

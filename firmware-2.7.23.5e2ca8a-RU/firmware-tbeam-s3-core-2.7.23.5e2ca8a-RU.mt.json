@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tbeam-s3-core",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tbeam-s3-core-2.7.23.5e2ca8a.elf",
-      "md5": "e092b2256872c29d9436897b9ef60cec",
+      "md5": "62b416eaaa4b6b71d5a73c80ff7a521b",
       "bytes": 22964152
     },
     {
       "name": "firmware-tbeam-s3-core-2.7.23.5e2ca8a-RU.bin",
-      "md5": "72283a8e0730c79407ab9d535ee40185",
+      "md5": "f1f5d12f76bf7f58c14d3e5664121674",
       "bytes": 2211744,
       "part_name": "app0"
     },
     {
       "name": "firmware-tbeam-s3-core-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "cc958afa5e2656aae4d01d2c71375cd9",
+      "md5": "0b8314eed0c9573775bf50d9a51bc6d5",
       "bytes": 2277280
     },
     {
       "name": "littlefs-tbeam-s3-core-2.7.23.5e2ca8a-RU.bin",
-      "md5": "e92f635f6923ac312d7e878168482634",
+      "md5": "a29290519ea0d6b680495aecedbdf36b",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

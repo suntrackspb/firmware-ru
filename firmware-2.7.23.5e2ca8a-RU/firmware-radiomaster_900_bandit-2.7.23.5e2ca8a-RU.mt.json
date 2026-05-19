@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "radiomaster_900_bandit",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-radiomaster_900_bandit-2.7.23.5e2ca8a.elf",
-      "md5": "303843e8897daa8cf089e2137c10eda5",
+      "md5": "f9076643a258ba258d3c5296b5f84985",
       "bytes": 20022840
     },
     {
       "name": "firmware-radiomaster_900_bandit-2.7.23.5e2ca8a-RU.bin",
-      "md5": "8a1c24b6e81268fe48b4abc416b76ef6",
+      "md5": "e2fdb4d2c0f76ad53a49ae05baa6f428",
       "bytes": 2097120,
       "part_name": "app0"
     },
     {
       "name": "firmware-radiomaster_900_bandit-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "7d23194aaa9cefb05550fb5c98e616f7",
+      "md5": "4a2d1d4bf7a1f9452493bd4ccf1a1345",
       "bytes": 2162656
     },
     {
       "name": "littlefs-radiomaster_900_bandit-2.7.23.5e2ca8a-RU.bin",
-      "md5": "c249802b3e7643e5d098fd25809152bc",
+      "md5": "39ef41089cd14fe250a75d4f70f27b18",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

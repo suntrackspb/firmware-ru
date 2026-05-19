@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec_capsule_sensor_v3",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.7.23.5e2ca8a.elf",
-      "md5": "9d6709785b93bd27d49bebf1b26fb369",
+      "md5": "4594f4ff9663797fc8349c23049f5e3f",
       "bytes": 21696416
     },
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "61b307dfd471a916de8ed15a157ff57c",
+      "md5": "1f8a105ffa18d9c90f35ab8ad72f5953",
       "bytes": 1911584,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "c32a63a849e2734bc530406ba3e9d985",
+      "md5": "874b5b390bdb62470ca890f03436307f",
       "bytes": 1977120
     },
     {
       "name": "littlefs-heltec_capsule_sensor_v3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "933f7adba32f75711b944272e1605bb4",
+      "md5": "b07dc130210bf6f440ef50dad3e51923",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

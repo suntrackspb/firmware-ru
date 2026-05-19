@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "muzi-base",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-muzi-base-2.7.23.5e2ca8a.elf",
-      "md5": "bb129c1e41e38fd2cc810bbeaaff6a29",
+      "md5": "86383e2be42dcd09c1b476e50479cc58",
       "bytes": 1416372
     },
     {
       "name": "firmware-muzi-base-2.7.23.5e2ca8a.hex",
-      "md5": "4e2c184ac08b863f0e1480a5ff0b3f19",
+      "md5": "95caefd4d80c407819245a709202804a",
       "bytes": 2088190
     },
     {
       "name": "firmware-muzi-base-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "8fde247c740dddfa1e02ff674d3545aa",
+      "md5": "00822ad3555fc1352c5a531d5a2f6c38",
       "bytes": 1484800
     },
     {
       "name": "firmware-muzi-base-2.7.23.5e2ca8a-ota.zip",
-      "md5": "b131ebaa3efc96d4210179f661cab2ad",
+      "md5": "1b7fd362c3cd24e181ca6ad52c1da9a5",
       "bytes": 743329
     }
   ],

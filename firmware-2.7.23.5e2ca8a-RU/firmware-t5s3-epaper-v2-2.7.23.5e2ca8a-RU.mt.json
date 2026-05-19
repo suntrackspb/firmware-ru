@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "t5s3-epaper-v2",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t5s3-epaper-v2-2.7.23.5e2ca8a.elf",
-      "md5": "5201f4aa0e973c2726665f9f7e9a506f",
+      "md5": "debb06ed97abfed0f326caaba46f3a37",
       "bytes": 22539064
     },
     {
       "name": "firmware-t5s3-epaper-v2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "26215765817e7480835f11518cf965f8",
+      "md5": "bf3130b341d54ddcde84fef06369fb23",
       "bytes": 2192304,
       "part_name": "app0"
     },
     {
       "name": "firmware-t5s3-epaper-v2-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "b72e860074a3fee803da0603095b89da",
+      "md5": "ac034bfd995adabdecc656210f9d6bbf",
       "bytes": 2257840
     },
     {
       "name": "littlefs-t5s3-epaper-v2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "21ced1e514427725548d9581db5cacb6",
+      "md5": "bcba7fe2d9f724f78b0c592ffd0873aa",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

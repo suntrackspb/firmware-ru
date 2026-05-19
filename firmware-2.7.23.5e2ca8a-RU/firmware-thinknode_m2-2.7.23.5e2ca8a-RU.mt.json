@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "thinknode_m2",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-thinknode_m2-2.7.23.5e2ca8a.elf",
-      "md5": "8b4e5259c2e4ad3effa409c1bdd97596",
+      "md5": "2d86def3d360f7a2db5b75f49ad5b78b",
       "bytes": 22127448
     },
     {
       "name": "firmware-thinknode_m2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "b78b4049aa8428afd695cfe33a2089ea",
+      "md5": "e10379d4add88da970d87726ebeb85dc",
       "bytes": 2065504,
       "part_name": "app0"
     },
     {
       "name": "firmware-thinknode_m2-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "a3f77b935b88d7ea0f066327e3186de7",
+      "md5": "865bb313cdb892f4a73e6d377fc2f18e",
       "bytes": 2131040
     },
     {
       "name": "littlefs-thinknode_m2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "e8c53a9a85fd7025e358b4f5f3ac8f11",
+      "md5": "cd4a4d55290a59715427d33a21ee452c",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

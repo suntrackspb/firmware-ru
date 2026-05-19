@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "r1-neo",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-r1-neo-2.7.23.5e2ca8a.elf",
-      "md5": "626795b8a670d338fcf62f96512696e4",
+      "md5": "5adca2b5c15a56044742ea86f5217c96",
       "bytes": 1088884
     },
     {
       "name": "firmware-r1-neo-2.7.23.5e2ca8a.hex",
-      "md5": "50be7a65af14863c90da16426b92bf81",
+      "md5": "207bb253a2e792296e6279cbb32785ea",
       "bytes": 1625368
     },
     {
       "name": "firmware-r1-neo-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "b0729c920be09731690d7394258f89b3",
+      "md5": "8f51655a1bc2624b77fa6c13c69f3cad",
       "bytes": 1156096
     },
     {
       "name": "firmware-r1-neo-2.7.23.5e2ca8a-ota.zip",
-      "md5": "4475bcf8d6825366f174f4b7a2c528b5",
+      "md5": "75cf85587e65c89c585645b70f62a5e2",
       "bytes": 578763
     }
   ],

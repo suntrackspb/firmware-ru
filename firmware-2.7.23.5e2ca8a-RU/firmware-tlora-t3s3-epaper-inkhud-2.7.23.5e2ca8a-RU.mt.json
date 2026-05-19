@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tlora-t3s3-epaper-inkhud",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.23.5e2ca8a.elf",
-      "md5": "9b330f31880e89948a7d4a6df93beb22",
+      "md5": "882b0c1c7179786ce8a64317267ea766",
       "bytes": 23276796
     },
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2dfb74a046c5c5bfab28ca1b9893a54d",
+      "md5": "7d3963bf6f5645f57cfee12f4e2f0e8c",
       "bytes": 2236768,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "c56051fb8789749b4997c30f1ff0a0d4",
+      "md5": "575ff36bc8cdab4614242616083f78bc",
       "bytes": 2302304
     },
     {
       "name": "littlefs-tlora-t3s3-epaper-inkhud-2.7.23.5e2ca8a-RU.bin",
-      "md5": "b49a3c147b9caca5624d47c5e003454f",
+      "md5": "7d994465cd8828058b5c83e26633fca0",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

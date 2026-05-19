@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "rak11200",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak11200-2.7.23.5e2ca8a.elf",
-      "md5": "561a7bf016685d37df6c1715c8cb00c3",
+      "md5": "797be9edb46c01025a86c67f24b4653e",
       "bytes": 17734200
     },
     {
       "name": "firmware-rak11200-2.7.23.5e2ca8a-RU.bin",
-      "md5": "e16ad4932f78667a649d5e9d27c7f14c",
+      "md5": "5658a649393d6306d44335d914b5ed47",
       "bytes": 1823840,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak11200-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "0b8700c54e1e2f76c22256076cfe20fd",
+      "md5": "8fc3c4adac6ac2a124a9ade1d1294bf4",
       "bytes": 1889376
     },
     {
       "name": "littlefs-rak11200-2.7.23.5e2ca8a-RU.bin",
-      "md5": "470e0471f4164e2f82c410d68f5f203c",
+      "md5": "9ae65b780c73ed6f4501640345651724",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

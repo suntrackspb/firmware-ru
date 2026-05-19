@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "nrf52_promicro_diy_tcxo",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-nrf52_promicro_diy_tcxo-2.7.23.5e2ca8a.elf",
-      "md5": "e61e4ee54e9d5d5d0c77cd73b674c8cf",
+      "md5": "a56d7d7692744ec06fe40c3e8e178fba",
       "bytes": 1440416
     },
     {
       "name": "firmware-nrf52_promicro_diy_tcxo-2.7.23.5e2ca8a.hex",
-      "md5": "e27e6c51d5a04d110f61638d40ef060c",
+      "md5": "e8f20a1183b65047fbcbd7d5a3982526",
       "bytes": 2191752
     },
     {
       "name": "firmware-nrf52_promicro_diy_tcxo-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "ce3ef7d9f5802775bd4a57d9fd0ca72a",
+      "md5": "3fbb49ebccead94391ef6b6075214602",
       "bytes": 1558528
     },
     {
       "name": "firmware-nrf52_promicro_diy_tcxo-2.7.23.5e2ca8a-ota.zip",
-      "md5": "dcadcb85a3a79f6205ce9217cb90d6dd",
+      "md5": "437e12f33ae3541e747befe13a1c20cc",
       "bytes": 780229
     }
   ],

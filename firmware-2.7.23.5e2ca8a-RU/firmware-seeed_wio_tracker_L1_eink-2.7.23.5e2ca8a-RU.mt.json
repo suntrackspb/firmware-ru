@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "seeed_wio_tracker_L1_eink",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-2.7.23.5e2ca8a.elf",
-      "md5": "8359109053d7d3968a6134751e95e758",
+      "md5": "4ed60dd1762ca40b692278c457791578",
       "bytes": 1410628
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-2.7.23.5e2ca8a.hex",
-      "md5": "94ac6f47d5dd8b3e5f778b9ebb86c896",
+      "md5": "2e2c8a5dc7481fe76f10fd667f571ad7",
       "bytes": 2063665
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "7db8f8eda808bae074551744d279b735",
+      "md5": "7d72d8dcf96712d744a2b07ae83621c4",
       "bytes": 1467392
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-2.7.23.5e2ca8a-ota.zip",
-      "md5": "3a25784e01096eb4cf1530b44df984e2",
+      "md5": "d5e6af532fad4f2d438aa153171329db",
       "bytes": 734705
     }
   ],

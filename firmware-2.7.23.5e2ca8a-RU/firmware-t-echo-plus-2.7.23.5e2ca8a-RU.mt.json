@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "t-echo-plus",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t-echo-plus-2.7.23.5e2ca8a.elf",
-      "md5": "4459c51c4809234ac349657048745f4c",
+      "md5": "f3b4ad0a1e5a5339d6bd40260ec63c18",
       "bytes": 1410376
     },
     {
       "name": "firmware-t-echo-plus-2.7.23.5e2ca8a.hex",
-      "md5": "c4d0d969507546fd1c6f56dbf3a81a1c",
+      "md5": "32738ea9300dda881355c71e69b66626",
       "bytes": 2065886
     },
     {
       "name": "firmware-t-echo-plus-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "f3dcdff2162d1d15fff8403e0e46040e",
+      "md5": "feba6fad42dfa5c9b764f88c49e54a1c",
       "bytes": 1468928
     },
     {
       "name": "firmware-t-echo-plus-2.7.23.5e2ca8a-ota.zip",
-      "md5": "7caf9fd75cc22910bc839f6d5a5138d8",
+      "md5": "ff797679258dd1fd5685f227675af72d",
       "bytes": 735413
     }
   ],

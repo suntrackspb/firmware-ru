@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "t-watch-s3",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t-watch-s3-2.7.23.5e2ca8a.elf",
-      "md5": "eac4aa87b923e860162a421b920d0fc2",
+      "md5": "6146be57c0fc8ca307e9e3e39fe6c3ad",
       "bytes": 22799296
     },
     {
       "name": "firmware-t-watch-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "d99cf0f35e6e0ff675e73e32d3584726",
+      "md5": "7204b1d6a4ae6f68962b38fcb42aa3d5",
       "bytes": 2251344,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-watch-s3-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "eca0de72650a4a3b27d6c551d47e4cb0",
+      "md5": "59c6c932f0d250dbbe3a4a1d310a393b",
       "bytes": 2316880
     },
     {
       "name": "littlefs-t-watch-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "60df3b73accd41581ea36eee6de003bb",
+      "md5": "9f63441f9e331dfebd70d592c416e6a5",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

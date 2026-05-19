@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "thinknode_m4",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-thinknode_m4-2.7.23.5e2ca8a.elf",
-      "md5": "7bf1505ac9f0e6ff5f8f3e1da026efeb",
+      "md5": "31d9477e0a2a68323767e5ed655dfd2b",
       "bytes": 1332532
     },
     {
       "name": "firmware-thinknode_m4-2.7.23.5e2ca8a.hex",
-      "md5": "aed3bc5e78f58f40424e3a5b47efddf0",
+      "md5": "7d9ffe3c30277db41d79b5319575dd56",
       "bytes": 2019565
     },
     {
       "name": "firmware-thinknode_m4-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "08bd9bbfa34fe1182bed8f91e7c82490",
+      "md5": "cfa055956b60427718a21129f45eb653",
       "bytes": 1436160
     },
     {
       "name": "firmware-thinknode_m4-2.7.23.5e2ca8a-ota.zip",
-      "md5": "468f08fd24d073d48283317b5f2dc43f",
+      "md5": "0bc77e10d5e3dadc79388453707c768c",
       "bytes": 718947
     }
   ],

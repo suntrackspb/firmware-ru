@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tlora-v2-1-1_6",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tlora-v2-1-1_6-2.7.23.5e2ca8a.elf",
-      "md5": "e836a8ed4d6ffb7de2b2a5af6eaefec5",
+      "md5": "8284674b39d367eed25c2aa6b6ddc743",
       "bytes": 19864640
     },
     {
       "name": "firmware-tlora-v2-1-1_6-2.7.23.5e2ca8a-RU.bin",
-      "md5": "ab8b823b59962918a263e7eb97eb157d",
+      "md5": "f617cc0b24b098d160632d7c8661af1c",
       "bytes": 2125376,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-v2-1-1_6-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "031bcbec8bb8725eae62d57d2005fc5d",
+      "md5": "4be0c90726a67983e5364de3c5c11554",
       "bytes": 2190912
     },
     {
       "name": "littlefs-tlora-v2-1-1_6-2.7.23.5e2ca8a-RU.bin",
-      "md5": "9f6d3e47c3f05c7db79354a754d1618f",
+      "md5": "b963dd89cc1dc99d63e342082b8de836",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

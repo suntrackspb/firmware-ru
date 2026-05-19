@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tracksenger",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tracksenger-2.7.23.5e2ca8a.elf",
-      "md5": "3cd122c26ed17f277a8e3239d88f7356",
+      "md5": "63bb08df8abd235f66f69d1412809bd7",
       "bytes": 23143528
     },
     {
       "name": "firmware-tracksenger-2.7.23.5e2ca8a-RU.bin",
-      "md5": "53524cf6c5d68960b2b885fe3c9f1344",
+      "md5": "42a85727046b51987fde504016079b49",
       "bytes": 2192320,
       "part_name": "app0"
     },
     {
       "name": "firmware-tracksenger-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "da402faedf63f0c92313b006598c98f1",
+      "md5": "7f6c950083d4444ad69c36d6e3f3a262",
       "bytes": 2257856
     },
     {
       "name": "littlefs-tracksenger-2.7.23.5e2ca8a-RU.bin",
-      "md5": "97a927e43959c64fc93d909578286ee7",
+      "md5": "b08429f66bffe900d50c16570266cd3f",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

@@ -1,28 +1,28 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-mesh-pocket-10000",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-mesh-pocket-10000-2.7.23.5e2ca8a.elf",
-      "md5": "ea1f58c43ad14429da93743fe9927454",
+      "md5": "b1bbd165fd7e79556236c4920972e501",
       "bytes": 1328824
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-2.7.23.5e2ca8a.hex",
-      "md5": "ac7eaf0dcf3db2c714cefe785fe2c737",
+      "md5": "237d03daa9720a03944f3e90dedb9c1e",
       "bytes": 1960136
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "672da71ef6a0a60d34049cb8019c3346",
+      "md5": "61e9a5c61f1ef2b8b9fffe94a3250bc0",
       "bytes": 1394176
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-2.7.23.5e2ca8a-ota.zip",
-      "md5": "34fc767ef10d7a36356412fa8263488b",
+      "md5": "a630f1c9f15597d4a8ad2d271726b577",
       "bytes": 697890
     }
   ],

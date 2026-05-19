@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "m5stack-unitc6l",
   "mcu": "esp32c6",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-m5stack-unitc6l-2.7.23.5e2ca8a.elf",
-      "md5": "12ddb35d9c47968d7b205384f41ef928",
+      "md5": "d95540dcbddf6e3fa9fe281ef583abd4",
       "bytes": 33032812
     },
     {
       "name": "firmware-m5stack-unitc6l-2.7.23.5e2ca8a-RU.bin",
-      "md5": "ba60c265d1f5087a02ef6a04942a4765",
+      "md5": "85c9495f2e7e34381e42bdb229dc304d",
       "bytes": 1943536,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-unitc6l-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "c1f9b0465e4a72ee421935204b0a4be1",
+      "md5": "a04e4fd1d56394c4eb9d3c466ba4305d",
       "bytes": 2009072
     },
     {
       "name": "littlefs-m5stack-unitc6l-2.7.23.5e2ca8a-RU.bin",
-      "md5": "cfaa10aa246d18f0893c929660f03a5c",
+      "md5": "eb437947673f656f7acb123b87b78448",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-vision-master-e213",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-vision-master-e213-2.7.23.5e2ca8a.elf",
-      "md5": "7b6add0ba0f161891fc7caba063f56fe",
+      "md5": "1daf30c1c6374ab2e0fc5d31c3027396",
       "bytes": 22835868
     },
     {
       "name": "firmware-heltec-vision-master-e213-2.7.23.5e2ca8a-RU.bin",
-      "md5": "3d416933670bac724a63ddc716814996",
+      "md5": "2402b35d68793e75e171534b4722c613",
       "bytes": 2153776,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-e213-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "270f12a2e2467b1bd3203bcbd922ed72",
+      "md5": "2609d56cc386d3672feae624de5b2b9b",
       "bytes": 2219312
     },
     {
       "name": "littlefs-heltec-vision-master-e213-2.7.23.5e2ca8a-RU.bin",
-      "md5": "5b53bac91860a05540ee83486b6e7b69",
+      "md5": "ce2092832e7f907fce1ea9859c3eeea6",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

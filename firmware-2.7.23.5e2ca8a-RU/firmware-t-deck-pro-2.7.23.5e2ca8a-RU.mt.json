@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "t-deck-pro",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t-deck-pro-2.7.23.5e2ca8a.elf",
-      "md5": "2d54f8defb7b4859e64bb4cdf4205bac",
+      "md5": "faa99265a1ccb6faa6948a84be7b6fa1",
       "bytes": 22364452
     },
     {
       "name": "firmware-t-deck-pro-2.7.23.5e2ca8a-RU.bin",
-      "md5": "51ff173421bdcb9a761b081bd3a1f667",
+      "md5": "65506b5eb54370b926bf40174702c13a",
       "bytes": 2152160,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-deck-pro-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "ea406390b96ad8630a5393df6afc968e",
+      "md5": "81f7e88eabe9c5a5339748f806c83689",
       "bytes": 2217696
     },
     {
       "name": "littlefs-t-deck-pro-2.7.23.5e2ca8a-RU.bin",
-      "md5": "2a4ba5ba279772743bc7f75c2f281ae6",
+      "md5": "84af6fda6a350fa13446718789617d20",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

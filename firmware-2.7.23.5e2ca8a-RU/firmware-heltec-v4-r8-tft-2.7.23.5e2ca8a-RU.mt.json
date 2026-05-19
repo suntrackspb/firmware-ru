@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-v4-r8-tft",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-v4-r8-tft-2.7.23.5e2ca8a.elf",
-      "md5": "e39d1476d4195f2608930fcd245d2b0d",
+      "md5": "1347eeb199b1e9e26f954c79ae6b387e",
       "bytes": 25146144
     },
     {
       "name": "firmware-heltec-v4-r8-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "42fcbd65dbf053530148792ec7fc998f",
+      "md5": "121b3d03fa688c0f6f7640a79904bb04",
       "bytes": 3553344,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-v4-r8-tft-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "7f75c06bbb34be3e86b1c156654d8949",
+      "md5": "a307e91fd70f6dbdf610578cd0a3e1c7",
       "bytes": 3618880
     },
     {
       "name": "littlefs-heltec-v4-r8-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "37d137b49f6a21c0d57e7de534b50f7d",
+      "md5": "78e023043098e83f4fab5291269e063a",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

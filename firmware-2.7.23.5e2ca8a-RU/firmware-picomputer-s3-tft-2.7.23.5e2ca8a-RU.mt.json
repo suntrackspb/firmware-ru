@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "picomputer-s3-tft",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-picomputer-s3-tft-2.7.23.5e2ca8a.elf",
-      "md5": "8daa35d7f3500d5dafc2a9e251caffa9",
+      "md5": "1e974b6dc16911781c3b3d144b093c17",
       "bytes": 24640208
     },
     {
       "name": "firmware-picomputer-s3-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "d2af72586ea0dcf928ca9e1f52b58e9a",
+      "md5": "a50ceebcc0c3dc3999037baab16b6e29",
       "bytes": 3441856,
       "part_name": "app0"
     },
     {
       "name": "firmware-picomputer-s3-tft-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "72311713b4906531525a83ca9484cfcc",
+      "md5": "2fe1e8ceb014f14d542846efdaca7441",
       "bytes": 3507392
     },
     {
       "name": "littlefs-picomputer-s3-tft-2.7.23.5e2ca8a-RU.bin",
-      "md5": "fecf854a6ed9fad40042dd62b5352278",
+      "md5": "52b23cf026055d18dd68950e6ec3b95e",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

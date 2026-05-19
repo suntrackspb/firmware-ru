@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "m5stack-core",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-m5stack-core-2.7.23.5e2ca8a.elf",
-      "md5": "d82eecb9c7fa54651522a30b17a40f29",
+      "md5": "85b9991cfccb48043d2f55dfe8e79daf",
       "bytes": 20018980
     },
     {
       "name": "firmware-m5stack-core-2.7.23.5e2ca8a-RU.bin",
-      "md5": "d17c63acd1208af62153091850c0fefc",
+      "md5": "a6989f0874de717f4d4d4185cefac809",
       "bytes": 2175984,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-core-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "6a5f816e5e341859051d944c752bb2ff",
+      "md5": "836e23025b2735626e99b07177a0f5a4",
       "bytes": 2241520
     },
     {
       "name": "littlefs-m5stack-core-2.7.23.5e2ca8a-RU.bin",
-      "md5": "fb23d16baaba861ae12dffb45a26cbe1",
+      "md5": "e3047018fd324e98f59d91d2ae43adab",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

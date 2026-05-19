@@ -1,29 +1,29 @@
 {
   "version": "2.7.23.5e2ca8a-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "meshtastic-diy-v1",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-meshtastic-diy-v1-2.7.23.5e2ca8a.elf",
-      "md5": "c8f66318412e4412b50edb1f920b6e4a",
+      "md5": "45f16c0ca4f5900f93a25e4608f1d33c",
       "bytes": 19936484
     },
     {
       "name": "firmware-meshtastic-diy-v1-2.7.23.5e2ca8a-RU.bin",
-      "md5": "9928b4642147fa52d8de03116a99a299",
+      "md5": "c050f44d3f6ae4683c7c6d4bde4b58e2",
       "bytes": 2163296,
       "part_name": "app0"
     },
     {
       "name": "firmware-meshtastic-diy-v1-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "2c7aed52001b4c6d78ea96daf1a5cedf",
+      "md5": "6e93658502e4a6449013e028918b8e96",
       "bytes": 2228832
     },
     {
       "name": "littlefs-meshtastic-diy-v1-2.7.23.5e2ca8a-RU.bin",
-      "md5": "0ccc4713e07ca83065875c6a591410fd",
+      "md5": "8b2cfa4094714eb0c2f24bf02a82ef5c",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
