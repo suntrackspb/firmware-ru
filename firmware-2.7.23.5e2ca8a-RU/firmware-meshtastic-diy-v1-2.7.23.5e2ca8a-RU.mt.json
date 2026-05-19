@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-meshtastic-diy-v1-2.7.23.5e2ca8a.elf",
-      "md5": "45f16c0ca4f5900f93a25e4608f1d33c",
+      "md5": "93403decba5ef33d548ab7f39b9d83a9",
       "bytes": 19936484
     },
     {
       "name": "firmware-meshtastic-diy-v1-2.7.23.5e2ca8a-RU.bin",
-      "md5": "c050f44d3f6ae4683c7c6d4bde4b58e2",
+      "md5": "76f25f635da8be6770f76a7e207c8adf",
       "bytes": 2163296,
       "part_name": "app0"
     },
     {
       "name": "firmware-meshtastic-diy-v1-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "6e93658502e4a6449013e028918b8e96",
+      "md5": "77d756e766cdd406f64ca0b10a8c59c0",
       "bytes": 2228832
     },
     {
       "name": "littlefs-meshtastic-diy-v1-2.7.23.5e2ca8a-RU.bin",
-      "md5": "8b2cfa4094714eb0c2f24bf02a82ef5c",
+      "md5": "29874e715731d402e7379724a43f4c7a",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

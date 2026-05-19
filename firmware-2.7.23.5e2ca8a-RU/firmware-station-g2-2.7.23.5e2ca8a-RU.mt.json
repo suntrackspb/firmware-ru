@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-station-g2-2.7.23.5e2ca8a.elf",
-      "md5": "280fade7b8249acaa199e413ea14c1d8",
+      "md5": "9a7882f14611f86d711c7cfcf6321bd7",
       "bytes": 22103512
     },
     {
       "name": "firmware-station-g2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "d3260fd0ff89ec00892572d1a678a25b",
+      "md5": "3684a25db94a7b842e8485a181e455c8",
       "bytes": 2112672,
       "part_name": "app0"
     },
     {
       "name": "firmware-station-g2-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "2218bbc6127001c7849c56cb6045035c",
+      "md5": "e086f88089db3e6ee7c253600e639255",
       "bytes": 2178208
     },
     {
       "name": "littlefs-station-g2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "3bc2e192d6f59c4736b58ebdcb05f034",
+      "md5": "717676e197a4a351426b2482988012bf",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

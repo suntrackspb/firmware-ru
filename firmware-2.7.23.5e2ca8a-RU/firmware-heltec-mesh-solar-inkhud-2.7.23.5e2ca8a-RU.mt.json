@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-heltec-mesh-solar-inkhud-2.7.23.5e2ca8a.elf",
-      "md5": "4a9022d30d65d67e1027737421d0b271",
+      "md5": "5553288a1fbf90e87f328bd35a0636ce",
       "bytes": 1306056
     },
     {
       "name": "firmware-heltec-mesh-solar-inkhud-2.7.23.5e2ca8a.hex",
-      "md5": "d107b83b8ae34145a2ded9e1906eebd2",
+      "md5": "7693fa459f10ff1308264ca6af628bfa",
       "bytes": 1977993
     },
     {
       "name": "firmware-heltec-mesh-solar-inkhud-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "47aadedbd804bdae0d9d17121d841735",
+      "md5": "85aad3dc47a8a8219d249a7d60b766de",
       "bytes": 1406464
     },
     {
       "name": "firmware-heltec-mesh-solar-inkhud-2.7.23.5e2ca8a-ota.zip",
-      "md5": "19ccee1b7bf8f08386b70561bc71a8f2",
+      "md5": "e6ebd578fd458b815d837552b13d18a4",
       "bytes": 704239
     }
   ],

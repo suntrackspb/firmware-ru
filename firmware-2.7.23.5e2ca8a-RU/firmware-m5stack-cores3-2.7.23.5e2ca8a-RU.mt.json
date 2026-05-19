@@ -23,7 +23,7 @@
     },
     {
       "name": "littlefs-m5stack-cores3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "8ee21ccbec2239d0442aa0c029850858",
+      "md5": "1a3c638ef8c80db5171cb26452aae71a",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

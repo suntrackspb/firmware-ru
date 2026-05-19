@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-vision-master-t190-2.7.23.5e2ca8a.elf",
-      "md5": "663e9977af15edd284d978778437354f",
+      "md5": "353f815a7c6f92ad2ae0ab77800f85d2",
       "bytes": 22820824
     },
     {
       "name": "firmware-heltec-vision-master-t190-2.7.23.5e2ca8a-RU.bin",
-      "md5": "94da3aaea08817c8b5fbca9b54be90d4",
+      "md5": "6ce9c3e3d9c2928d460a2a7d532c2cbe",
       "bytes": 2145024,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-t190-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "273e3d333f429119aaa72692f0300d80",
+      "md5": "f8101cc0dcf092cfd4bfff8b4850dbda",
       "bytes": 2210560
     },
     {
       "name": "littlefs-heltec-vision-master-t190-2.7.23.5e2ca8a-RU.bin",
-      "md5": "dabc13f3bb53f452bc5a45af60b07996",
+      "md5": "af35c49266bad369e348497bd7919cf2",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

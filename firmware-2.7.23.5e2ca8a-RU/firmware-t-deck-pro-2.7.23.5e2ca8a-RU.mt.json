@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-t-deck-pro-2.7.23.5e2ca8a.elf",
-      "md5": "faa99265a1ccb6faa6948a84be7b6fa1",
+      "md5": "723e5007c789b12b6dedd557303f85ac",
       "bytes": 22364452
     },
     {
       "name": "firmware-t-deck-pro-2.7.23.5e2ca8a-RU.bin",
-      "md5": "65506b5eb54370b926bf40174702c13a",
+      "md5": "c4050c25167466a36dd60219da60fb2d",
       "bytes": 2152160,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-deck-pro-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "81f7e88eabe9c5a5339748f806c83689",
+      "md5": "827e2ccc20d7fb2897efbfb7437cf85c",
       "bytes": 2217696
     },
     {
       "name": "littlefs-t-deck-pro-2.7.23.5e2ca8a-RU.bin",
-      "md5": "84af6fda6a350fa13446718789617d20",
+      "md5": "451c99c31c6c004cb666212ae36f1d09",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

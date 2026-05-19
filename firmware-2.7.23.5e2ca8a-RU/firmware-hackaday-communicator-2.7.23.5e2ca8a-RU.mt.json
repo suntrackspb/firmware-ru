@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-hackaday-communicator-2.7.23.5e2ca8a.elf",
-      "md5": "9b2afbe61cfa239a6125c3231189ac73",
+      "md5": "071ad9752db716ae6322e624ba874d3d",
       "bytes": 22610380
     },
     {
       "name": "firmware-hackaday-communicator-2.7.23.5e2ca8a-RU.bin",
-      "md5": "3f89f7c4a643e42182608c484613e55b",
+      "md5": "3026ee2117cdf6f71c8c41be43abc906",
       "bytes": 2159104,
       "part_name": "app0"
     },
     {
       "name": "firmware-hackaday-communicator-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "7a9528462f8cd6b06b368b5a776858a9",
+      "md5": "0efdda3ffb5d3c36bc265597276ba5b7",
       "bytes": 2224640
     },
     {
       "name": "littlefs-hackaday-communicator-2.7.23.5e2ca8a-RU.bin",
-      "md5": "bed94621ba84dad6b27d100b483b469e",
+      "md5": "8687c914bb8f1a75fe462110149c7166",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

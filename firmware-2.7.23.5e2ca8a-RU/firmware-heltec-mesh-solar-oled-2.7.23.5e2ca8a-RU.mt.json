@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-heltec-mesh-solar-oled-2.7.23.5e2ca8a.elf",
-      "md5": "84cb3e4f87e3350e5a83731a8c1d0f5b",
+      "md5": "84d115e77e8a44849491816eae45cab3",
       "bytes": 1412580
     },
     {
       "name": "firmware-heltec-mesh-solar-oled-2.7.23.5e2ca8a.hex",
-      "md5": "466d331a3a2dab091d83c8c1df090dc5",
+      "md5": "d8d270c05cf930c84e17e93d4eeb1e6c",
       "bytes": 2078253
     },
     {
       "name": "firmware-heltec-mesh-solar-oled-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "c02bf91325918569a61bb852bc66324d",
+      "md5": "572934e5e2fd72feb3ab008122c97ad7",
       "bytes": 1478144
     },
     {
       "name": "firmware-heltec-mesh-solar-oled-2.7.23.5e2ca8a-ota.zip",
-      "md5": "aa8fb6ef4025a4cb19d7786c8f553d2b",
+      "md5": "f41d366c1cbed10252ba39fc265c9315",
       "bytes": 739875
     }
   ],

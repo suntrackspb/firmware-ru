@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-mini-epaper-s3-2.7.23.5e2ca8a.elf",
-      "md5": "821177b87c54b37660d05307b6547b35",
+      "md5": "65e95fb8c9c2820a1036f579a2b7dd65",
       "bytes": 22599352
     },
     {
       "name": "firmware-mini-epaper-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "f0f78ed6fa91a6f45da5821722ecdbae",
+      "md5": "611d14214963de0fc6fbe4855ac5d6ee",
       "bytes": 2154160,
       "part_name": "app0"
     },
     {
       "name": "firmware-mini-epaper-s3-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "f5dab550c4045f5c655db99871e74c75",
+      "md5": "953e3b269cc20d2d169baa56e3cacf93",
       "bytes": 2219696
     },
     {
       "name": "littlefs-mini-epaper-s3-2.7.23.5e2ca8a-RU.bin",
-      "md5": "98b83d88dae9695012a99c9e080b6c54",
+      "md5": "5b84dd194942175a62e7114bffd36b8a",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

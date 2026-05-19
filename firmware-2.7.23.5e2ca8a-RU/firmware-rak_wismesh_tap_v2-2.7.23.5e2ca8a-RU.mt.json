@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-rak_wismesh_tap_v2-2.7.23.5e2ca8a.elf",
-      "md5": "b0b0b56e0040a2bb9d2abeaf89222e7f",
+      "md5": "611768c81a6c35b92c802cd36e550cce",
       "bytes": 22584068
     },
     {
       "name": "firmware-rak_wismesh_tap_v2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "a176132ec95c2280ff2218dc420c63dd",
+      "md5": "1920ff9a4faec7568451f4f1550c8ab1",
       "bytes": 2144336,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak_wismesh_tap_v2-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "b2ba8e6f53f6a1c45b8bdc03a3eb9195",
+      "md5": "52e5f028aaae816bc71ad3305b72492b",
       "bytes": 2209872
     },
     {
       "name": "littlefs-rak_wismesh_tap_v2-2.7.23.5e2ca8a-RU.bin",
-      "md5": "9839ce1dc5dd9bff9ac0e847dab21fc5",
+      "md5": "a13272be598ee3fbd44752cfde8ebd73",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

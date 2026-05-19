@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-radiomaster_900_bandit_nano-2.7.23.5e2ca8a.elf",
-      "md5": "8e8d4ac46120bca89985efd20bdd41dc",
+      "md5": "ba88757340c3e920fbdbb8ab337210e2",
       "bytes": 19918784
     },
     {
       "name": "firmware-radiomaster_900_bandit_nano-2.7.23.5e2ca8a-RU.bin",
-      "md5": "15f3a6ec8aa2fc193d8b0bfcd1e59801",
+      "md5": "7b4e6eabeeed83afe7edf6ca4d7ecfa9",
       "bytes": 2123648,
       "part_name": "app0"
     },
     {
       "name": "firmware-radiomaster_900_bandit_nano-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "56cf4e831218c15da4f61df2c1dbeac3",
+      "md5": "af09d637c65c221921c5f862a66c76a8",
       "bytes": 2189184
     },
     {
       "name": "littlefs-radiomaster_900_bandit_nano-2.7.23.5e2ca8a-RU.bin",
-      "md5": "62e1023bc9a99266f26eeb9c5bae375f",
+      "md5": "841cafc3acf1304e7a8dd092ed08ef38",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tlora-pager-2.7.23.5e2ca8a.elf",
-      "md5": "3996456aa9cebc5fab67b606d06a3d0f",
+      "md5": "8bc28421de81d8ae767201f99276913c",
       "bytes": 23505516
     },
     {
       "name": "firmware-tlora-pager-2.7.23.5e2ca8a-RU.bin",
-      "md5": "1dcaf9963a4524d83676e20ea961501c",
+      "md5": "3dbb325a56543691753a7a689cb11289",
       "bytes": 2405824,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-pager-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "c48c73028fe4c511174b5f3a834579af",
+      "md5": "312397ed52627567eb97847ba4fff192",
       "bytes": 2471360
     },
     {
       "name": "littlefs-tlora-pager-2.7.23.5e2ca8a-RU.bin",
-      "md5": "362f642012fa5189216a325319fc1410",
+      "md5": "b2226c8d1715465fe9ccbfa9b3e01a62",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

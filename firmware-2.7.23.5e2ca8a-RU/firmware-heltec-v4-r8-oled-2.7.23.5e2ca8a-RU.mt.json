@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-v4-r8-oled-2.7.23.5e2ca8a.elf",
-      "md5": "84f74043e84777d85d4ca3109817886e",
+      "md5": "997eb5a25b2c1f5cd9ad4f5cff46e89a",
       "bytes": 22355680
     },
     {
       "name": "firmware-heltec-v4-r8-oled-2.7.23.5e2ca8a-RU.bin",
-      "md5": "10030f620556c9279a5de8c6787c1c0a",
+      "md5": "e81bccc04d99d0633329f62b84761e61",
       "bytes": 2123232,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-v4-r8-oled-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "d35ff7410519e5927a92ee6033fbc5c1",
+      "md5": "fad38e3404acc577ce19f70d54285eb4",
       "bytes": 2188768
     },
     {
       "name": "littlefs-heltec-v4-r8-oled-2.7.23.5e2ca8a-RU.bin",
-      "md5": "b6243ed446f1559823b6ef0cab33f126",
+      "md5": "457899fdfd74c7019794bb28ddd28bcc",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

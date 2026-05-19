@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-heltec-mesh-solar-tft-2.7.23.5e2ca8a.elf",
-      "md5": "098f1becbcf13b9a68eef8deec4b769b",
+      "md5": "d993289dea9e621212a8e64fe15931b3",
       "bytes": 1414880
     },
     {
       "name": "firmware-heltec-mesh-solar-tft-2.7.23.5e2ca8a.hex",
-      "md5": "3c610f4de8991a51fdffd2164aa109a2",
+      "md5": "088ffb4cfc4bedccb845bba22d0387b4",
       "bytes": 2086893
     },
     {
       "name": "firmware-heltec-mesh-solar-tft-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "23ce8d1e59652dbaed160e696a1a0be4",
+      "md5": "7fdcd6474b27ee780aadb0e45932a694",
       "bytes": 1484288
     },
     {
       "name": "firmware-heltec-mesh-solar-tft-2.7.23.5e2ca8a-ota.zip",
-      "md5": "21ff1e2904030dfcc4a3323e97cac32e",
+      "md5": "baa5b7d258943aebc5235cee59b9ab3e",
       "bytes": 742941
     }
   ],

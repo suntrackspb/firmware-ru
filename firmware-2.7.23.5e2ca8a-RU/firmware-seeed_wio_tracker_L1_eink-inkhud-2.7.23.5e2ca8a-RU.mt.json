@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.7.23.5e2ca8a.elf",
-      "md5": "9ffc34da5675ac2959cf2be87319f04c",
+      "md5": "a37b5bff2faf76dbde3434b580b76ea8",
       "bytes": 1295952
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.7.23.5e2ca8a.hex",
-      "md5": "377a0e09d8b8ddf75d1337c0e1fdfa60",
+      "md5": "abe83e19ebe1c66e2439aee26b9f46c6",
       "bytes": 1933974
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.7.23.5e2ca8a-RU.uf2",
-      "md5": "162099a65e5234807e3f292c8c7be1a9",
+      "md5": "c8f21a6610106829227a5bc3a89a84cd",
       "bytes": 1375232
     },
     {
       "name": "firmware-seeed_wio_tracker_L1_eink-inkhud-2.7.23.5e2ca8a-ota.zip",
-      "md5": "6b3499fcaf9de0f51057ff85615c1b2b",
+      "md5": "d27c07c462de60015be258a2a1cfd9d3",
       "bytes": 688643
     }
   ],
