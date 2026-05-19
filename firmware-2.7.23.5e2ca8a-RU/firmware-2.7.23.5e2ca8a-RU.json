@@ -62,6 +62,10 @@
       "platform": "nrf52840"
     },
     {
+      "board": "heltec-mesh-pocket-5000-inkhud",
+      "platform": "nrf52840"
+    },
+    {
       "board": "heltec-mesh-solar",
       "platform": "nrf52840"
     },
@@ -119,6 +123,10 @@
     },
     {
       "board": "heltec-vision-master-t190",
+      "platform": "esp32s3"
+    },
+    {
+      "board": "heltec-wireless-paper",
       "platform": "esp32s3"
     },
     {
@@ -262,6 +270,10 @@
       "platform": "stm32wle5ccu"
     },
     {
+      "board": "rak3312",
+      "platform": "esp32s3"
+    },
+    {
       "board": "rak3401-1watt",
       "platform": "nrf52840"
     },
@@ -383,6 +395,10 @@
     },
     {
       "board": "t-watch-s3",
+      "platform": "esp32s3"
+    },
+    {
+      "board": "t5s3-epaper-v1",
       "platform": "esp32s3"
     },
     {

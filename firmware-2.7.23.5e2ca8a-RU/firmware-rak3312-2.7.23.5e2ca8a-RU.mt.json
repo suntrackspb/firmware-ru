@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-rak3312-2.7.23.5e2ca8a.elf",
-      "md5": "945758c9d18cf80ab925528e6d195c08",
+      "md5": "f6d5e4448ff2ff1ea443a2cc101f7015",
       "bytes": 22334616
     },
     {
       "name": "firmware-rak3312-2.7.23.5e2ca8a-RU.bin",
-      "md5": "fdd592fcc03a9bb5c2b6bee1ec399d75",
+      "md5": "e51a893ec6cbb0d3ab226e05aee1925d",
       "bytes": 2108624,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak3312-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "d8fc822bb18a99f1baa8be46adb35f9d",
+      "md5": "c46ec34bf35978d2ac6187082f9e7e11",
       "bytes": 2174160
     },
     {
       "name": "littlefs-rak3312-2.7.23.5e2ca8a-RU.bin",
-      "md5": "9969e7d5897b0ac25e60bd49505e11c7",
+      "md5": "663102f1a18c529cfe32bd721b35a13b",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

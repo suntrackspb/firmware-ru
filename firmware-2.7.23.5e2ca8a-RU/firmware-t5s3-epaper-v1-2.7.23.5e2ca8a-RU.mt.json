@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-t5s3-epaper-v1-2.7.23.5e2ca8a.elf",
-      "md5": "592db52c629e99a04f4d1c1a6efbc99d",
+      "md5": "ef1cbe95f37b80a97c92223c45f6bffa",
       "bytes": 22532036
     },
     {
       "name": "firmware-t5s3-epaper-v1-2.7.23.5e2ca8a-RU.bin",
-      "md5": "3c6faf91642c0d1a88e530def3751afb",
+      "md5": "9e2d6a5ca6b8efdd2cb1dd15a5d70f20",
       "bytes": 2190496,
       "part_name": "app0"
     },
     {
       "name": "firmware-t5s3-epaper-v1-2.7.23.5e2ca8a-RU.factory.bin",
-      "md5": "ebc6f73f323df00af7dead9ba108d1fa",
+      "md5": "fac83d4f2fc69059b6ed73f2db993046",
       "bytes": 2256032
     },
     {
       "name": "littlefs-t5s3-epaper-v1-2.7.23.5e2ca8a-RU.bin",
-      "md5": "3eb161ec7a5dfa3f91b67315b2bff4c9",
+      "md5": "1d5cce43239a748f082fff2c76751078",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
