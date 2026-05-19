@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-mesh-pocket-10000-inkhud",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.7.22.01bd4cf.elf",
-      "md5": "3beadf905a4ed71352737b45762b8e0c",
+      "md5": "b19ca23d51d568c80b9777f1d91d76b7",
       "bytes": 1204436
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.7.22.01bd4cf.hex",
-      "md5": "65f56e49931b28fff9ab84260c1d4397",
+      "md5": "34cdbb8ef87657ae59808646dc9fe835",
       "bytes": 1797661
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.7.22.01bd4cf-RU.uf2",
-      "md5": "15721c71a837008c68cf5da3a575967f",
+      "md5": "31f81330bf8055c49bde0edcbe19b9ac",
       "bytes": 1278464
     },
     {
       "name": "firmware-heltec-mesh-pocket-10000-inkhud-2.7.22.01bd4cf-ota.zip",
-      "md5": "646ff5610d90834f7ad592e9b4120236",
-      "bytes": 640168
+      "md5": "13ca08c298c8d025c41a50f6c0fcdee1",
+      "bytes": 640169
     }
   ],
   "has_mui": false,

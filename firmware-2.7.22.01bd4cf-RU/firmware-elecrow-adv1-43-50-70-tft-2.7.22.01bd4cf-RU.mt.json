@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "elecrow-adv1-43-50-70-tft",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.7.22.01bd4cf.elf",
-      "md5": "6d842741b9b697fc6b9d13cde796656e",
+      "md5": "514b4121644415b4292e765d8706cf89",
       "bytes": 23399284
     },
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.7.22.01bd4cf-RU.bin",
-      "md5": "a9bf52a3d8f3e019225b703b9de9c963",
+      "md5": "79bd73e53c80dd3c3b9aab410f61c7c8",
       "bytes": 3211504,
       "part_name": "app0"
     },
     {
       "name": "firmware-elecrow-adv1-43-50-70-tft-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "829d11178471765254a49a2aa5dcbd9a",
+      "md5": "eebfe8ce65b4190f7d309c6adf171f6a",
       "bytes": 3277040
     },
     {
       "name": "littlefs-elecrow-adv1-43-50-70-tft-2.7.22.01bd4cf-RU.bin",
-      "md5": "c80cc7b314dac5708e8ed7d5a13cdf7b",
+      "md5": "79cb773f8a19bf7d9d0aa58c91dd8ca0",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

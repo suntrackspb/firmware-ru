@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "seeed_solar_node",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-seeed_solar_node-2.7.22.01bd4cf.elf",
-      "md5": "44e532519463910e08b27a03d4c31ffc",
+      "md5": "ab3abb77c3e15ad799c8996106b9e9d8",
       "bytes": 1329604
     },
     {
       "name": "firmware-seeed_solar_node-2.7.22.01bd4cf.hex",
-      "md5": "851a479a9d068b1f4bbb04371ecd1c04",
+      "md5": "a7269f7e1ded95423525afb0ac6ed915",
       "bytes": 2015552
     },
     {
       "name": "firmware-seeed_solar_node-2.7.22.01bd4cf-RU.uf2",
-      "md5": "eca354ada491280ea6457ce381bd09b9",
+      "md5": "3f90a35cf4ab8559255dfb49e4dc08f3",
       "bytes": 1433600
     },
     {
       "name": "firmware-seeed_solar_node-2.7.22.01bd4cf-ota.zip",
-      "md5": "ecaee9e372d911bbeead05ab0bcf1165",
-      "bytes": 717543
+      "md5": "65a848a685d3f0372d324a5f0f776e12",
+      "bytes": 717542
     }
   ],
   "has_mui": false,

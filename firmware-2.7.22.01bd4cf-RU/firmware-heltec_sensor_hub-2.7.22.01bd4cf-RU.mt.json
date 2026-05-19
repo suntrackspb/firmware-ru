@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec_sensor_hub",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec_sensor_hub-2.7.22.01bd4cf.elf",
-      "md5": "35b81527edcf8ccf3566a33f9033ca88",
+      "md5": "000378dd6d75303ff68bd065bb475e48",
       "bytes": 21854144
     },
     {
       "name": "firmware-heltec_sensor_hub-2.7.22.01bd4cf-RU.bin",
-      "md5": "22b2f15de7b9a9984ee5a74099202401",
+      "md5": "2dbb14cc23bb8571ae540927e3184bec",
       "bytes": 1915488,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec_sensor_hub-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "60d0e7d510242b827ef51b07e0cd0118",
+      "md5": "ce0cfe419e76633c74c70a8fae19b41d",
       "bytes": 1981024
     },
     {
       "name": "littlefs-heltec_sensor_hub-2.7.22.01bd4cf-RU.bin",
-      "md5": "3264e844c41991403f12ecc5a02da63f",
+      "md5": "1e8f3ed236c5aa558e9ffdfcff603ddb",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

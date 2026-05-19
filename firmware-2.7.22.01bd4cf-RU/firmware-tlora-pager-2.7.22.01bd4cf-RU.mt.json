@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tlora-pager",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tlora-pager-2.7.22.01bd4cf.elf",
-      "md5": "84edc5785fa4553609b76a40d8e110a9",
+      "md5": "c544a0302345d31f872a573ae73b31df",
       "bytes": 23481412
     },
     {
       "name": "firmware-tlora-pager-2.7.22.01bd4cf-RU.bin",
-      "md5": "c2d69c97af658f5df35691c945b65234",
+      "md5": "c9e73dce456e60b97feec3eeec7531e7",
       "bytes": 2392176,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-pager-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "d29704098f039c6754760eaebd10f106",
+      "md5": "6479aae09dfd0900b78d51071e1e08ec",
       "bytes": 2457712
     },
     {
       "name": "littlefs-tlora-pager-2.7.22.01bd4cf-RU.bin",
-      "md5": "26d3daf505d76e4275612010afaba048",
+      "md5": "effd0d279e5438dac8ee4ebcbe84a60c",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

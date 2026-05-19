@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-vision-master-e213-2.7.22.01bd4cf.elf",
-      "md5": "1a6536bc38b8b4763e0023d875fefb11",
+      "md5": "afd16464c8ad95533fb0c657825c468c",
       "bytes": 22825144
     },
     {
       "name": "firmware-heltec-vision-master-e213-2.7.22.01bd4cf-RU.bin",
-      "md5": "23f69df9a9b16c34f1df6a1c35846fe1",
+      "md5": "718fceb606fee9f3bd497d18d09f020e",
       "bytes": 2146320,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-e213-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "df72f3500c626ca1a94805f240eb77b2",
+      "md5": "56eebcc9411235750f17423e1b0566d5",
       "bytes": 2211856
     },
     {
       "name": "littlefs-heltec-vision-master-e213-2.7.22.01bd4cf-RU.bin",
-      "md5": "537b4c05b34be466f0307050060a33e9",
+      "md5": "625917a1bea9dc61a6df0979ddef6879",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

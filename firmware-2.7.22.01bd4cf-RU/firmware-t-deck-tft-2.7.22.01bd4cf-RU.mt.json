@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "t-deck-tft",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t-deck-tft-2.7.22.01bd4cf.elf",
-      "md5": "164a7feccf3c5ad674abccceb3f245be",
+      "md5": "99167ccdbc9757fa2d48f6d51352ccf4",
       "bytes": 25878600
     },
     {
       "name": "firmware-t-deck-tft-2.7.22.01bd4cf-RU.bin",
-      "md5": "fcbdb8f5f3003a64758c9711937c6fe2",
+      "md5": "650b2eea9010d0fcaae62f71d60751f6",
       "bytes": 3609504,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-deck-tft-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "de5c4dcd7cfd6b845e2ae2f4c50774e7",
+      "md5": "15990a11a14270154db2459fd2177497",
       "bytes": 3675040
     },
     {
       "name": "littlefs-t-deck-tft-2.7.22.01bd4cf-RU.bin",
-      "md5": "ec0bc10a072719a1c249579390e7ca78",
+      "md5": "8814a261ce72e87dc76d6761ecedf371",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

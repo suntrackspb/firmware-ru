@@ -1,28 +1,28 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "rak4631_eth_gw",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak4631_eth_gw-2.7.22.01bd4cf.elf",
-      "md5": "84977aabfbc07587bbe9f72e7d0fa12c",
+      "md5": "b256d79aaafff77c89b99f78a3ae66ab",
       "bytes": 1256412
     },
     {
       "name": "firmware-rak4631_eth_gw-2.7.22.01bd4cf-RU.hex",
-      "md5": "a71c41c229ef91c86ff750b9fc52c773",
+      "md5": "0577358bd9226dde4b3654421b09d537",
       "bytes": 1750034
     },
     {
       "name": "firmware-rak4631_eth_gw-2.7.22.01bd4cf-RU.uf2",
-      "md5": "0e06e8cb3d0de9860971cb95baeee32f",
+      "md5": "875adb67b47f2fd07c68ba1907194b97",
       "bytes": 1244672
     },
     {
       "name": "firmware-rak4631_eth_gw-2.7.22.01bd4cf-ota.zip",
-      "md5": "2835d1aff38892a483d6b575cf1e7dca",
+      "md5": "f200069ed9e780dc9478e873f9cc05fe",
       "bytes": 623139
     }
   ],

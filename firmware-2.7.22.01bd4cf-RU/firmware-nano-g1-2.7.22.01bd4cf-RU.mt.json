@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "nano-g1",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-nano-g1-2.7.22.01bd4cf.elf",
-      "md5": "02479d93dafed26effb1158127cff404",
+      "md5": "e338c1d84d3c0c469fe3e32f29efa8fe",
       "bytes": 19816872
     },
     {
       "name": "firmware-nano-g1-2.7.22.01bd4cf-RU.bin",
-      "md5": "e8b800c74b7f9f9749a5fdbf973bc50c",
+      "md5": "d81161f52b508a78800127df221c6374",
       "bytes": 2140016,
       "part_name": "app0"
     },
     {
       "name": "firmware-nano-g1-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "8ed9648ee2853884367ea98f27e1f3fe",
+      "md5": "c7de6ca205996fe2f8acfc3dc26afd1a",
       "bytes": 2205552
     },
     {
       "name": "littlefs-nano-g1-2.7.22.01bd4cf-RU.bin",
-      "md5": "2177f9d5861b591b1277e79ce32b69d2",
+      "md5": "fa6bea3894a42d99cff616f0e2dfe9eb",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

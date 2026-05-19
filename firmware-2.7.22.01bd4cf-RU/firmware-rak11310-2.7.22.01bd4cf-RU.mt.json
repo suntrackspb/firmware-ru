@@ -1,24 +1,24 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "rak11310",
   "mcu": "rp2040",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak11310-2.7.22.01bd4cf.elf",
-      "md5": "072789c6ca6d4f5f7b86d1f714b8f18d",
+      "md5": "76723dc9dac37c238d2fe68edc9c7f91",
       "bytes": 10074376
     },
     {
       "name": "firmware-rak11310-2.7.22.01bd4cf.bin",
-      "md5": "4b325b77e953b2c882b65cda39afe998",
+      "md5": "e49f7d3f1ab29fb97659bd5c42453c9e",
       "bytes": 1000900,
       "part_name": "app0"
     },
     {
       "name": "firmware-rak11310-2.7.22.01bd4cf-RU.uf2",
-      "md5": "9965421e4995a3347e637e6d4c788009",
+      "md5": "ebc3a9325b970447ee49d3a1341e6494",
       "bytes": 2001920
     }
   ],

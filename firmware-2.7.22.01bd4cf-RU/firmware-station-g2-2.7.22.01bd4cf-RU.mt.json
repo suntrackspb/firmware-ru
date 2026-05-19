@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "station-g2",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-station-g2-2.7.22.01bd4cf.elf",
-      "md5": "33a98341282365055acf4b283ecb9962",
+      "md5": "4ecf98cea994eb22760681320028f141",
       "bytes": 22093236
     },
     {
       "name": "firmware-station-g2-2.7.22.01bd4cf-RU.bin",
-      "md5": "137909467b27d760486a1f5a9ea6537d",
+      "md5": "c942fc1f584bde3e37553e251e8a7993",
       "bytes": 2106352,
       "part_name": "app0"
     },
     {
       "name": "firmware-station-g2-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "1a1377abfab6ed3ab57e87dac8b0c5e1",
+      "md5": "ada71c8c76631bb96b0748abd54806fd",
       "bytes": 2171888
     },
     {
       "name": "littlefs-station-g2-2.7.22.01bd4cf-RU.bin",
-      "md5": "b465dd6423149c729f5a0f30d74699b6",
+      "md5": "1dde4180ea4b2f9a139ba3d823d9fca1",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

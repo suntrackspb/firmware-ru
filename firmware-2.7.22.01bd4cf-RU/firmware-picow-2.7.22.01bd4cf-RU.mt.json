@@ -1,24 +1,24 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "picow",
   "mcu": "rp2040",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-picow-2.7.22.01bd4cf.elf",
-      "md5": "d9330e7df47bca94e6fa7bd4ed6637ac",
+      "md5": "426ef45e7c85a76f70e5c0775bbf2a45",
       "bytes": 11576564
     },
     {
       "name": "firmware-picow-2.7.22.01bd4cf.bin",
-      "md5": "b6746c59bf90473105b73f9ca714c092",
+      "md5": "27dc98e1b38cb0c4c6117dfe234b0e0f",
       "bytes": 1437680,
       "part_name": "app0"
     },
     {
       "name": "firmware-picow-2.7.22.01bd4cf-RU.uf2",
-      "md5": "bfbe578f89495f1e62256e01292833f6",
+      "md5": "bb9c4b4b943f59614afb4955536c85c3",
       "bytes": 2875392
     }
   ],

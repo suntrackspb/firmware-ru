@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "mini-epaper-s3",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-mini-epaper-s3-2.7.22.01bd4cf.elf",
-      "md5": "8ad0e69bd855e12046fe6529cf0ac10f",
+      "md5": "9cc591d6d3fb3bd73375b5810f15b364",
       "bytes": 22584264
     },
     {
       "name": "firmware-mini-epaper-s3-2.7.22.01bd4cf-RU.bin",
-      "md5": "3728bf2182cc444ef8135aca971ba38f",
+      "md5": "ffca08092d04c48257d8b36b4eb26d7a",
       "bytes": 2146976,
       "part_name": "app0"
     },
     {
       "name": "firmware-mini-epaper-s3-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "460ec25b870c56ae74b7261b8a07813e",
+      "md5": "6bc07fc65c7d213bd6d821a12eaa2dfe",
       "bytes": 2212512
     },
     {
       "name": "littlefs-mini-epaper-s3-2.7.22.01bd4cf-RU.bin",
-      "md5": "052bd3c0be8191579f9d7a92ef32164c",
+      "md5": "c684d2b61f7e8cbb96189e024631b465",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

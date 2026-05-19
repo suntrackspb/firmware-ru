@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tlora-c6",
   "mcu": "esp32c6",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tlora-c6-2.7.22.01bd4cf.elf",
-      "md5": "358e1643c9a57ca9c93d4c6288a2ee1c",
+      "md5": "7788d5bf28be73d3aaa9c3a91671f975",
       "bytes": 28698364
     },
     {
       "name": "firmware-tlora-c6-2.7.22.01bd4cf-RU.bin",
-      "md5": "383edebe210d879dc4fa907a94a32e16",
+      "md5": "372bf1269faecbc0096fbe6b0155dd2e",
       "bytes": 1626240,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-c6-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "1caa6553e428e9dc8d7db919337974da",
+      "md5": "ed08972497904429bd0e908eaef3f01d",
       "bytes": 1691776
     },
     {
       "name": "littlefs-tlora-c6-2.7.22.01bd4cf-RU.bin",
-      "md5": "0990aed283b98ec68386e585e2063e2f",
+      "md5": "3d3e788df30c2bde0e16cfd96c6081cd",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

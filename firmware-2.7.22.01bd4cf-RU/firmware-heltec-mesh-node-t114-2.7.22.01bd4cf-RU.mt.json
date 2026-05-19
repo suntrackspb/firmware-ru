@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-mesh-node-t114",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-mesh-node-t114-2.7.22.01bd4cf.elf",
-      "md5": "9e4527e6fc9d7ee156f2f4b7eef6cc4b",
+      "md5": "5969fae8e6c8539318c5672bec9e0ec2",
       "bytes": 1335404
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.7.22.01bd4cf.hex",
-      "md5": "5927ebdbb8fa65e286a9d77d1a2a8594",
+      "md5": "ee914cc58c37fd7069835991512db69c",
       "bytes": 2028287
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.7.22.01bd4cf-RU.uf2",
-      "md5": "ec6afef00c6da5f37f0f1301558600b5",
+      "md5": "ba80d465337e49c8f994d0c4e37c0545",
       "bytes": 1442304
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.7.22.01bd4cf-ota.zip",
-      "md5": "e0a1d825c6a013b72b4c64f4e5495df9",
-      "bytes": 722100
+      "md5": "4dd10c292812b9515d6c3d2b69b7a1ec",
+      "bytes": 722101
     }
   ],
   "has_mui": false,

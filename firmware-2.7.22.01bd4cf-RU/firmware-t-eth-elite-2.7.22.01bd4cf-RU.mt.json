@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "t-eth-elite",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t-eth-elite-2.7.22.01bd4cf.elf",
-      "md5": "a5ed26f1fe5102f820c9ddcea0a91c5b",
+      "md5": "331bb512595baed25bce0632885c81fe",
       "bytes": 23165580
     },
     {
       "name": "firmware-t-eth-elite-2.7.22.01bd4cf-RU.bin",
-      "md5": "2aaa63a49cded680504ce96c08a0b9bf",
+      "md5": "2715015e22a40a97486086f2a898c781",
       "bytes": 2302640,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-eth-elite-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "3a48403fec637e5853d08a042e9892a0",
+      "md5": "1f68db775723a58ebabc54228914675a",
       "bytes": 2368176
     },
     {
       "name": "littlefs-t-eth-elite-2.7.22.01bd4cf-RU.bin",
-      "md5": "f53a4b14ebed120d1392dbe9aa832329",
+      "md5": "7ef179e355f3e5c21e3eaffb752a0b34",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

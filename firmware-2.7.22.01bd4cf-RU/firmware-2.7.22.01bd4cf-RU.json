@@ -202,6 +202,10 @@
       "platform": "nrf52840"
     },
     {
+      "board": "nrf52_promicro_diy_tcxo_cn",
+      "platform": "nrf52840"
+    },
+    {
       "board": "pico",
       "platform": "rp2040"
     },
@@ -463,10 +467,6 @@
     },
     {
       "board": "tracksenger-lcd",
-      "platform": "esp32s3"
-    },
-    {
-      "board": "tracksenger-oled",
       "platform": "esp32s3"
     },
     {

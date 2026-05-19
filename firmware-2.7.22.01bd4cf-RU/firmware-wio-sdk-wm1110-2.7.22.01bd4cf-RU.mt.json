@@ -1,33 +1,33 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "wio-sdk-wm1110",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-wio-sdk-wm1110-2.7.22.01bd4cf.elf",
-      "md5": "32c3b8d7ce4370d9ec3e20fddae73092",
+      "md5": "06174726f71db91088f47268332cf648",
       "bytes": 1311896
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.7.22.01bd4cf.hex",
-      "md5": "5f1f7e3c93c5538a3883163c0ccb1c2e",
+      "md5": "7e0443c0c1ad717bd9dd2f41c061832c",
       "bytes": 1937394
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.7.22.01bd4cf-RU.merged.hex",
-      "md5": "6e2af194c863ed10648c3f305042b856",
+      "md5": "93817dec5a27fc82cf46b900b4c8259a",
       "bytes": 2374868
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.7.22.01bd4cf-RU.uf2",
-      "md5": "fe4125b97fa05685b32a9306928904ab",
+      "md5": "830e08e4a51ce4320e19c77de4f6dabd",
       "bytes": 1689088
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.7.22.01bd4cf-ota.zip",
-      "md5": "5a21ef706045a5408d81591ec66a3d8a",
+      "md5": "5ba636d75a1dcf2356d353bd59feb293",
       "bytes": 689751
     }
   ],

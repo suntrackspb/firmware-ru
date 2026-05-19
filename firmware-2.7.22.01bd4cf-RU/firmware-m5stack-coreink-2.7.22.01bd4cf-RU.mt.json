@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "m5stack-coreink",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-m5stack-coreink-2.7.22.01bd4cf.elf",
-      "md5": "55e095c45fc0eff007f40cdaf72b077a",
+      "md5": "941a45c965557954bb74c63030d8000b",
       "bytes": 19899908
     },
     {
       "name": "firmware-m5stack-coreink-2.7.22.01bd4cf-RU.bin",
-      "md5": "77c27c34c2e035523eda3a3965aac313",
+      "md5": "75c8fe920341e78032111fc21216a338",
       "bytes": 2135856,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-coreink-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "1eb13d7af886e8017df6c5cbad3df7b8",
+      "md5": "3d2355e58927daed31c4f4af8432c639",
       "bytes": 2201392
     },
     {
       "name": "littlefs-m5stack-coreink-2.7.22.01bd4cf-RU.bin",
-      "md5": "e093deefd25006bc677829ecf814b359",
+      "md5": "037257d180e26e7635f3699d197aa563",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tracksenger-lcd",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tracksenger-lcd-2.7.22.01bd4cf.elf",
-      "md5": "28bd03fa96d7b991fb5a84e72df4802c",
+      "md5": "91aa585e16e81b722b7e1d6934f47a90",
       "bytes": 23046812
     },
     {
       "name": "firmware-tracksenger-lcd-2.7.22.01bd4cf-RU.bin",
-      "md5": "bd0cd9dd28afdc434c93e8293c17619b",
+      "md5": "22bf4bec6b0c4ca82751f7712ceafc89",
       "bytes": 2174880,
       "part_name": "app0"
     },
     {
       "name": "firmware-tracksenger-lcd-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "a00a47e89acc7cbee82d7bbec00d9930",
+      "md5": "02eeef1cf202a2ecc6d9dbc41b0096b8",
       "bytes": 2240416
     },
     {
       "name": "littlefs-tracksenger-lcd-2.7.22.01bd4cf-RU.bin",
-      "md5": "7503c8a6b15a457770e254fe19dc17f9",
+      "md5": "4c87086444c38f9b011086ad76524cf5",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

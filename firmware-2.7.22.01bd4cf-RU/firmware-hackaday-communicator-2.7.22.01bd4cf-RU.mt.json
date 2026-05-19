@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "hackaday-communicator",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-hackaday-communicator-2.7.22.01bd4cf.elf",
-      "md5": "5079d6db1deefa49a9880a707a93516c",
+      "md5": "b039b1501ea1f2d37327f92c38f8d1e6",
       "bytes": 22583984
     },
     {
       "name": "firmware-hackaday-communicator-2.7.22.01bd4cf-RU.bin",
-      "md5": "5765eb7f2986ca8b8617b18c0944dd6c",
+      "md5": "a52c97891df65339458a9d021fdbb5d4",
       "bytes": 2146880,
       "part_name": "app0"
     },
     {
       "name": "firmware-hackaday-communicator-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "c84092125dab6b059ae2ef9abcd73ca6",
+      "md5": "6df504c2dd460d8628d6aa0048de2fcf",
       "bytes": 2212416
     },
     {
       "name": "littlefs-hackaday-communicator-2.7.22.01bd4cf-RU.bin",
-      "md5": "d07d943852f86ac57514f6b7f5b9d53c",
+      "md5": "e5372df3c8eafbe360a5eb850b1232ff",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

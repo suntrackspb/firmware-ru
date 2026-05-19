@@ -1,28 +1,28 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "wio-tracker-wm1110",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-wio-tracker-wm1110-2.7.22.01bd4cf.elf",
-      "md5": "97b439729b1fcdabd69fd0ffccd8fbdd",
+      "md5": "94972a577c8d75740985492ba63ee61c",
       "bytes": 1327616
     },
     {
       "name": "firmware-wio-tracker-wm1110-2.7.22.01bd4cf.hex",
-      "md5": "372955813437433b7b07bfaa4e6f95db",
+      "md5": "e0d9c38811e580f9473338e16ad317ed",
       "bytes": 1996877
     },
     {
       "name": "firmware-wio-tracker-wm1110-2.7.22.01bd4cf-RU.uf2",
-      "md5": "460a55a9a3ee440986a37897a5d24903",
+      "md5": "d3016e0f4301cf969e859f195731efde",
       "bytes": 1420288
     },
     {
       "name": "firmware-wio-tracker-wm1110-2.7.22.01bd4cf-ota.zip",
-      "md5": "b687400e662f715940a1123ec71cfd4e",
+      "md5": "b91bc6ea7b10dd39169300d1d050fa98",
       "bytes": 710915
     }
   ],

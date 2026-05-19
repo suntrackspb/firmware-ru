@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tracker-t1000-e",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tracker-t1000-e-2.7.22.01bd4cf.elf",
-      "md5": "dc02bb489fc5120053288d3cda317889",
+      "md5": "cd5eb12d366dde7aaa19d6e5ba3f2cbf",
       "bytes": 957232
     },
     {
       "name": "firmware-tracker-t1000-e-2.7.22.01bd4cf.hex",
-      "md5": "cd31ce61f8f5a790186e0f563d2a5ea6",
+      "md5": "cf05054b4c06dec538bd25c2881a03e0",
       "bytes": 1345217
     },
     {
       "name": "firmware-tracker-t1000-e-2.7.22.01bd4cf-RU.uf2",
-      "md5": "43a348ef9b0566546a464bf220fa3275",
+      "md5": "3e800d5e96570a053fb227143e583c19",
       "bytes": 956928
     },
     {
       "name": "firmware-tracker-t1000-e-2.7.22.01bd4cf-ota.zip",
-      "md5": "c42a63b47db1a57806b3d8cf304b5102",
-      "bytes": 479221
+      "md5": "6d06d0bff74ebfd57898226d617f443b",
+      "bytes": 479220
     }
   ],
   "has_mui": false,

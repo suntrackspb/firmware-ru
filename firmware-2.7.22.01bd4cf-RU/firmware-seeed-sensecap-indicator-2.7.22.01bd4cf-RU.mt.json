@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "seeed-sensecap-indicator",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-seeed-sensecap-indicator-2.7.22.01bd4cf.elf",
-      "md5": "63494c15ff9d387680cce99d74c34e9d",
+      "md5": "cf144ec84aee8ef9ad62010277a46994",
       "bytes": 22267696
     },
     {
       "name": "firmware-seeed-sensecap-indicator-2.7.22.01bd4cf-RU.bin",
-      "md5": "bce7e361fc664b54ca3f4b0f86fffb1b",
+      "md5": "4fafa00d78aab5dc767b7f3c3e5df0a7",
       "bytes": 2148704,
       "part_name": "app0"
     },
     {
       "name": "firmware-seeed-sensecap-indicator-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "6529af09370b7ceb3d4e5d8bb9048690",
+      "md5": "8e599afe29209bb211041570d12f3d4e",
       "bytes": 2214240
     },
     {
       "name": "littlefs-seeed-sensecap-indicator-2.7.22.01bd4cf-RU.bin",
-      "md5": "8dee25455f2fe5262bbfc482b2da7aa8",
+      "md5": "27a37e6304a7e882ec8d5c21e75bced7",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

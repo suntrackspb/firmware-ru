@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-vision-master-e290-inkhud",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-vision-master-e290-inkhud-2.7.22.01bd4cf.elf",
-      "md5": "a7a1898f934b92961865291f7ec4607f",
+      "md5": "ec73d7c75f1c72d4bbb4eafb60f94bbc",
       "bytes": 22623880
     },
     {
       "name": "firmware-heltec-vision-master-e290-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "149f7a7e0afa36fc617c31bdf773ffd2",
+      "md5": "167ce6a966dba489bf232ba89c41cf8f",
       "bytes": 2069008,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-vision-master-e290-inkhud-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "e08ad4610e1274564f2f720870dbe233",
+      "md5": "e2354fee91be935ddb437a4f6f3ec1ba",
       "bytes": 2134544
     },
     {
       "name": "littlefs-heltec-vision-master-e290-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "14b9f5314132775a664bace9fba963fa",
+      "md5": "712503dfd5079890a8ed379204dd0df5",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

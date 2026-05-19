@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "mini-epaper-s3-inkhud",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.7.22.01bd4cf.elf",
-      "md5": "e75248b17aa3c7341d3b330170c9064a",
+      "md5": "d59265b68a045e92b90d0ac9ceaebf3c",
       "bytes": 22387396
     },
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "fd5e39f4a643b62738323644ce6bbcad",
+      "md5": "74c1ad5d06065da3b7bf158c82d226d1",
       "bytes": 2067104,
       "part_name": "app0"
     },
     {
       "name": "firmware-mini-epaper-s3-inkhud-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "da2ab51812a13ea32647468a345dfe95",
+      "md5": "2e223f8ff7db38547a64ce2b3afc742e",
       "bytes": 2132640
     },
     {
       "name": "littlefs-mini-epaper-s3-inkhud-2.7.22.01bd4cf-RU.bin",
-      "md5": "fcddc132b1c369e5bd2f83dff73c3e12",
+      "md5": "c1ccd44fd8eba73f1c5747e09d2148df",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "hydra",
   "mcu": "esp32",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-hydra-2.7.22.01bd4cf.elf",
-      "md5": "dd8feb17e420749452b3d99250fa73d0",
+      "md5": "b3424916278eb9912f70c38f39d3cd7c",
       "bytes": 19899388
     },
     {
       "name": "firmware-hydra-2.7.22.01bd4cf-RU.bin",
-      "md5": "f5d912be6f2375509d2580f81434cc91",
+      "md5": "d8f5c729347171ebd6378c8a973a0845",
       "bytes": 2134944,
       "part_name": "app0"
     },
     {
       "name": "firmware-hydra-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "525e2e15bbe37a59f2f1cd8892d5986b",
+      "md5": "94d6275b20aee1e16426b4f1c2f37a7f",
       "bytes": 2200480
     },
     {
       "name": "littlefs-hydra-2.7.22.01bd4cf-RU.bin",
-      "md5": "53ac55f1876a434af89801864eb996ff",
+      "md5": "961e45d260fe25389088063aeb45d3e1",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

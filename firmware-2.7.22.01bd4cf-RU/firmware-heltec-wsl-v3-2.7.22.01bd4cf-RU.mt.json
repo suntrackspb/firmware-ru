@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-wsl-v3",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-wsl-v3-2.7.22.01bd4cf.elf",
-      "md5": "65cf22c196460a7d16d72574042fb516",
+      "md5": "d1db9b2af4a30c0f7c75b5b4236869d2",
       "bytes": 22182116
     },
     {
       "name": "firmware-heltec-wsl-v3-2.7.22.01bd4cf-RU.bin",
-      "md5": "29bd68d04587b23f2d46226b2bc63f45",
+      "md5": "2b1c13e25394aceef2b2d76d57a48f80",
       "bytes": 2098336,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wsl-v3-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "fa798b07c2a4ae33ede503e20bac80bc",
+      "md5": "57bb4e4ad08fa9fe410ff28df55cacfd",
       "bytes": 2163872
     },
     {
       "name": "littlefs-heltec-wsl-v3-2.7.22.01bd4cf-RU.bin",
-      "md5": "059d0c9c0f4f1579b2d56074f0e2c737",
+      "md5": "5b21a233bf1c6c902b5ca448dd09dfe0",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

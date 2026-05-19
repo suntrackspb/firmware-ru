@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "heltec-mesh-node-t096",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-heltec-mesh-node-t096-2.7.22.01bd4cf.elf",
-      "md5": "f045045089c313751fadd1284ccbf737",
+      "md5": "7fdd9b8c583516c1bddc2b3fbfd043e3",
       "bytes": 1402780
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.7.22.01bd4cf.hex",
-      "md5": "ef0e019a3d2fb9a5fa88f5a6ea0b9d84",
+      "md5": "e9d01c7d9e9d27d0b8cc206024c75e37",
       "bytes": 2040040
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.7.22.01bd4cf-RU.uf2",
-      "md5": "892e1ad5ed1ad1ad1d3e7f1b170a7782",
+      "md5": "658d77693b8ad6e15672140404ace044",
       "bytes": 1451008
     },
     {
       "name": "firmware-heltec-mesh-node-t096-2.7.22.01bd4cf-ota.zip",
-      "md5": "847d2e0b81da1a691e45bd5bb4b90ee8",
-      "bytes": 726281
+      "md5": "cebd1e6b75ee2762b04565b4c761a6e1",
+      "bytes": 726280
     }
   ],
   "has_mui": false,

@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "tlora-t3s3-v1",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-tlora-t3s3-v1-2.7.22.01bd4cf.elf",
-      "md5": "729b97f60c4f272c2ec0148bf11fdc90",
+      "md5": "c59af0c4c6f4266d7e50fe7409653a89",
       "bytes": 23459668
     },
     {
       "name": "firmware-tlora-t3s3-v1-2.7.22.01bd4cf-RU.bin",
-      "md5": "f5dc2e5bdb181de425fd6446945b94f4",
+      "md5": "de154b299b1e046e4d1719e9ad2d5418",
       "bytes": 2301504,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-t3s3-v1-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "c405dd118257a2fffa81c8d1c92f8845",
+      "md5": "6aa13b843cfc7a1cc0f724bce3d477eb",
       "bytes": 2367040
     },
     {
       "name": "littlefs-tlora-t3s3-v1-2.7.22.01bd4cf-RU.bin",
-      "md5": "a0f84fcae23bce6e891465cc26b62d20",
+      "md5": "ac315bab51d6059c818076e523a70227",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

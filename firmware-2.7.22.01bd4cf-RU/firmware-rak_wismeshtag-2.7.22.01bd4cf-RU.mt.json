@@ -1,28 +1,28 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "rak_wismeshtag",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-rak_wismeshtag-2.7.22.01bd4cf.elf",
-      "md5": "3fbf08e5cf86e64cdb4abd0995c016c4",
+      "md5": "a9f8a3d0a47079c37e6b88410cd3b0f9",
       "bytes": 1084236
     },
     {
       "name": "firmware-rak_wismeshtag-2.7.22.01bd4cf.hex",
-      "md5": "83f652a86d87ef2284b96e09beff3936",
+      "md5": "b9a73773c2d6dffa3e50cd9c0bef703b",
       "bytes": 1602082
     },
     {
       "name": "firmware-rak_wismeshtag-2.7.22.01bd4cf-RU.uf2",
-      "md5": "7be49aecf143c02fc75c26dbc2827021",
+      "md5": "326d2b2d065b0eebb09bf87ab12fe6fa",
       "bytes": 1139200
     },
     {
       "name": "firmware-rak_wismeshtag-2.7.22.01bd4cf-ota.zip",
-      "md5": "1d9a0c54f36ac011a7e1c74b32e88ceb",
+      "md5": "a317eac846d16f113b08ecf581232aa5",
       "bytes": 570535
     }
   ],

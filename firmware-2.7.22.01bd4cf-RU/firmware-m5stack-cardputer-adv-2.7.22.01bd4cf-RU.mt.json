@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "m5stack-cardputer-adv",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-m5stack-cardputer-adv-2.7.22.01bd4cf.elf",
-      "md5": "decd62b75bbfb619b221a266f5ba09f4",
+      "md5": "6269cd14e571ad0ecee722984c18ead9",
       "bytes": 22821148
     },
     {
       "name": "firmware-m5stack-cardputer-adv-2.7.22.01bd4cf-RU.bin",
-      "md5": "1f05283f82067987d1009c483cf434ff",
+      "md5": "aaa173f3d7f05319ad0a181274644382",
       "bytes": 2214928,
       "part_name": "app0"
     },
     {
       "name": "firmware-m5stack-cardputer-adv-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "3024e7a35cb53dfe1c9f2a705485e320",
+      "md5": "7799f111062a981220e24cdaa406d790",
       "bytes": 2280464
     },
     {
       "name": "littlefs-m5stack-cardputer-adv-2.7.22.01bd4cf-RU.bin",
-      "md5": "b430d0ef8b43df95d0da953995a82bf2",
+      "md5": "7c607b6ad034eb3c73a5b5d7e847a784",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

@@ -1,28 +1,28 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "canaryone",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-canaryone-2.7.22.01bd4cf.elf",
-      "md5": "9cf4f033f222d0b4aa3badbfb4efb48c",
+      "md5": "020cfe76ff63ced943d344191396a3cc",
       "bytes": 1326168
     },
     {
       "name": "firmware-canaryone-2.7.22.01bd4cf.hex",
-      "md5": "416c3a6f8eae477e60e5d9e66c7bf1c1",
+      "md5": "4764ef24518d4fc88aa40be227b66713",
       "bytes": 1958610
     },
     {
       "name": "firmware-canaryone-2.7.22.01bd4cf-RU.uf2",
-      "md5": "6639ac5e972a162a83596ae5cab0c7f5",
+      "md5": "37a1c6bac7d7889b71b822cf76523d6f",
       "bytes": 1392640
     },
     {
       "name": "firmware-canaryone-2.7.22.01bd4cf-ota.zip",
-      "md5": "ef1f985b3bc9446464f6b1adc3f8d565",
+      "md5": "88e40f4840c46524a68b5f28784148bc",
       "bytes": 697261
     }
   ],

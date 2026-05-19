@@ -1,28 +1,28 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "t-echo-lite",
   "mcu": "nrf52840",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t-echo-lite-2.7.22.01bd4cf.elf",
-      "md5": "70b2d7252d042d0bd94d8591fc950108",
+      "md5": "d901ac4137fef9277dfe8fd815f148dc",
       "bytes": 1336068
     },
     {
       "name": "firmware-t-echo-lite-2.7.22.01bd4cf.hex",
-      "md5": "ae3b5681f297fe3d12900d19c7095bfa",
+      "md5": "601f4f2dff72176fd7b92fa2fcff0213",
       "bytes": 2032382
     },
     {
       "name": "firmware-t-echo-lite-2.7.22.01bd4cf-RU.uf2",
-      "md5": "fc6335b104bf637f942c83d1df3b0696",
+      "md5": "0aad8ce69f4b9f891fcfec9ae12755d5",
       "bytes": 1445376
     },
     {
       "name": "firmware-t-echo-lite-2.7.22.01bd4cf-ota.zip",
-      "md5": "f244870f6bfde7673237083923be0b4e",
+      "md5": "f1d74c4476af52e56d1ccca4ceea15e3",
       "bytes": 723497
     }
   ],

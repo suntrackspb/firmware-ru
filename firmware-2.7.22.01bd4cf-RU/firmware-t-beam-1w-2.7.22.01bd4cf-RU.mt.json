@@ -1,29 +1,29 @@
 {
   "version": "2.7.22.01bd4cf-RU",
-  "build_epoch": 1779062400,
+  "build_epoch": 1779148800,
   "platformioTarget": "t-beam-1w",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
       "name": "firmware-t-beam-1w-2.7.22.01bd4cf.elf",
-      "md5": "6f80b8cc3e93553494c679521429e405",
+      "md5": "7d63f0957b23b2653b69c7c13073699f",
       "bytes": 23039704
     },
     {
       "name": "firmware-t-beam-1w-2.7.22.01bd4cf-RU.bin",
-      "md5": "60fd04aca47cdf125a78646bd5a74fff",
+      "md5": "825687890e70a55bd95189ecfb009407",
       "bytes": 2160976,
       "part_name": "app0"
     },
     {
       "name": "firmware-t-beam-1w-2.7.22.01bd4cf-RU.factory.bin",
-      "md5": "3c3b0e9b237ad8655a06886db4d9f433",
+      "md5": "4d10aabf947d3f56890976a0adfef087",
       "bytes": 2226512
     },
     {
       "name": "littlefs-t-beam-1w-2.7.22.01bd4cf-RU.bin",
-      "md5": "93f0719aa6c092b16a83f2f034b03edb",
+      "md5": "49bc4302dac8b32947a93fce4bf19830",
       "bytes": 1572864,
       "part_name": "spiffs"
     },
