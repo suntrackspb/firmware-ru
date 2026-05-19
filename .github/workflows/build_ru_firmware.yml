@@ -44,6 +44,11 @@ jobs:
 
       - run: pip install -U platformio
 
+      - name: Apply custom board variants from develop
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/${{ github.repository }}/develop/bin/sync_custom_variants.sh" -o /tmp/sync_custom_variants.sh
+          bash /tmp/sync_custom_variants.sh "${{ github.repository }}"
+
       - name: Generate release-level build matrix
         id: gen-matrix
         run: |
@@ -73,6 +78,11 @@ jobs:
         with:
           ref: ${{ inputs.base_version }}
           submodules: recursive
+
+      - name: Apply custom board variants from develop
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/${{ github.repository }}/develop/bin/sync_custom_variants.sh" -o /tmp/sync_custom_variants.sh
+          bash /tmp/sync_custom_variants.sh "${{ github.repository }}"
 
       - name: Apply RU InkHUD e-ink font patches
         run: |
