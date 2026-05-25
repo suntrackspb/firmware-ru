@@ -1,0 +1,44 @@
+{
+  "version": "2.7.24.472b14c-RU",
+  "build_epoch": 1779667200,
+  "platformioTarget": "thinknode_m3",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-thinknode_m3-2.7.24.472b14c.elf",
+      "md5": "c28afd42c1e8394b637250662d42cc20",
+      "bytes": 1332204
+    },
+    {
+      "name": "firmware-thinknode_m3-2.7.24.472b14c.hex",
+      "md5": "6042ec39bce8d283dee97d854252c136",
+      "bytes": 2009358
+    },
+    {
+      "name": "firmware-thinknode_m3-2.7.24.472b14c-RU.uf2",
+      "md5": "75b3cfe8357a7ef5cd114988a273197d",
+      "bytes": 1428992
+    },
+    {
+      "name": "firmware-thinknode_m3-2.7.24.472b14c-ota.zip",
+      "md5": "ae238b7323ab633cdff0333e2a3f50f5",
+      "bytes": 715319
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "hwModel": 115,
+  "hwModelSlug": "THINKNODE_M3",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "Elecrow ThinkNode M3",
+  "supportLevel": 1,
+  "images": [
+    "thinknode_m3.svg"
+  ],
+  "tags": [
+    "Elecrow"
+  ],
+  "requiresDfu": true
+}

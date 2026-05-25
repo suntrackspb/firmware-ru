@@ -1,0 +1,44 @@
+{
+  "version": "2.7.24.472b14c-RU",
+  "build_epoch": 1779667200,
+  "platformioTarget": "r1-neo",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-r1-neo-2.7.24.472b14c.elf",
+      "md5": "d03eca798247ca5d05162a08d57866a7",
+      "bytes": 1088260
+    },
+    {
+      "name": "firmware-r1-neo-2.7.24.472b14c.hex",
+      "md5": "316a83706cd399310982103be982199c",
+      "bytes": 1614862
+    },
+    {
+      "name": "firmware-r1-neo-2.7.24.472b14c-RU.uf2",
+      "md5": "4451a1bc7ab13e15246492dee5631981",
+      "bytes": 1148416
+    },
+    {
+      "name": "firmware-r1-neo-2.7.24.472b14c-ota.zip",
+      "md5": "2d877de4938967c62d181f2438a86f48",
+      "bytes": 575031
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "hwModel": 101,
+  "hwModelSlug": "MUZI_R1_NEO",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "muzi R1 Neo",
+  "supportLevel": 1,
+  "images": [
+    "muzi_r1_neo.svg"
+  ],
+  "tags": [
+    "muzi"
+  ],
+  "requiresDfu": true
+}
