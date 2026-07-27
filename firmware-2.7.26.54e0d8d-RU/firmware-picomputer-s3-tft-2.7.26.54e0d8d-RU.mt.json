@@ -1,0 +1,88 @@
+{
+  "version": "2.7.26.54e0d8d-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "picomputer-s3-tft",
+  "mcu": "esp32s3",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-picomputer-s3-tft-2.7.26.54e0d8d.elf",
+      "md5": "757869c23b3151253b552e682890da77",
+      "bytes": 24647640
+    },
+    {
+      "name": "firmware-picomputer-s3-tft-2.7.26.54e0d8d-RU.bin",
+      "md5": "910b703e80f27b7c8fd90f82119c7d03",
+      "bytes": 3444400,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-picomputer-s3-tft-2.7.26.54e0d8d-RU.factory.bin",
+      "md5": "69e0c013d146f88082170fb594151235",
+      "bytes": 3509936
+    },
+    {
+      "name": "littlefs-picomputer-s3-tft-2.7.26.54e0d8d-RU.bin",
+      "md5": "e11c5e8dc4be0cf033ca0c59c627ae28",
+      "bytes": 1572864,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": true,
+  "has_inkhud": false,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x5C0000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x5D0000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": null
+    }
+  ],
+  "hwModel": 52,
+  "hwModelSlug": "PICOMPUTER_S3",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "Pi Computer S3",
+  "supportLevel": 3,
+  "partitionScheme": "8MB"
+}

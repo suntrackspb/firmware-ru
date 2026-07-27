@@ -1,0 +1,90 @@
+{
+  "version": "2.7.26.54e0d8d-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "nano-g1",
+  "mcu": "esp32",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-nano-g1-2.7.26.54e0d8d.elf",
+      "md5": "add1dd31c9f26e1a17873987bf1e2592",
+      "bytes": 19838548
+    },
+    {
+      "name": "firmware-nano-g1-2.7.26.54e0d8d-RU.bin",
+      "md5": "e0b487a2a709561057e7e3536131c88e",
+      "bytes": 2151440,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-nano-g1-2.7.26.54e0d8d-RU.factory.bin",
+      "md5": "cbc03a87d41e1fb843b2831001f9908e",
+      "bytes": 2216976
+    },
+    {
+      "name": "littlefs-nano-g1-2.7.26.54e0d8d-RU.bin",
+      "md5": "2b023436410b9cbafd2fb4fa20f1b5bb",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 14,
+  "hwModelSlug": "NANO_G1",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "Nano G1",
+  "supportLevel": 3,
+  "tags": [
+    "B&Q"
+  ]
+}

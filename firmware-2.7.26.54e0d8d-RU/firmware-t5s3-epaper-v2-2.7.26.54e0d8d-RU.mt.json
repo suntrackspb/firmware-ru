@@ -1,0 +1,84 @@
+{
+  "version": "2.7.26.54e0d8d-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "t5s3-epaper-v2",
+  "mcu": "esp32s3",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-t5s3-epaper-v2-2.7.26.54e0d8d.elf",
+      "md5": "d3d9f7d8b4f6f4e38bca4420b304fc86",
+      "bytes": 21795428
+    },
+    {
+      "name": "firmware-t5s3-epaper-v2-2.7.26.54e0d8d-RU.bin",
+      "md5": "d2b34877f0c18a5961311d4635e1d305",
+      "bytes": 2075568,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-t5s3-epaper-v2-2.7.26.54e0d8d-RU.factory.bin",
+      "md5": "7a152d4ae91875c6809697ccee6144e3",
+      "bytes": 2141104
+    },
+    {
+      "name": "littlefs-t5s3-epaper-v2-2.7.26.54e0d8d-RU.bin",
+      "md5": "eb7c20a8e63e30cbfbd9990b2fc8a602",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "architecture": "esp32-s3",
+  "displayName": "t5s3-epaper-v2",
+  "activelySupported": false
+}

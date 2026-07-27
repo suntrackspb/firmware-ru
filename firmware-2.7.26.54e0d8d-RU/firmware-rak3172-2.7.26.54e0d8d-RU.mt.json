@@ -1,0 +1,30 @@
+{
+  "version": "2.7.26.54e0d8d-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "rak3172",
+  "mcu": "stm32wle5ccu",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-rak3172-2.7.26.54e0d8d.elf",
+      "md5": "a271c3ec1094908b4697854191f17ab3",
+      "bytes": 7473416
+    },
+    {
+      "name": "firmware-rak3172-2.7.26.54e0d8d-RU.bin",
+      "md5": "6a7c0fdda78aa6df13f5c1d234517253",
+      "bytes": 173448,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-rak3172-2.7.26.54e0d8d.hex",
+      "md5": "fecaed3f5ece8a4515a941131c6e90ae",
+      "bytes": 487924
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "architecture": "stm32",
+  "displayName": "rak3172",
+  "activelySupported": false
+}
