@@ -1,0 +1,96 @@
+{
+  "version": "2.8.0.6be7d9c-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "thinknode_m5",
+  "mcu": "esp32s3",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-thinknode_m5-2.8.0.6be7d9c.elf",
+      "md5": "909e674ea9d991b4377feea363ee31f6",
+      "bytes": 46662476
+    },
+    {
+      "name": "firmware-thinknode_m5-2.8.0.6be7d9c-RU.bin",
+      "md5": "eb0731cc8278230fbee6e2932cb33e06",
+      "bytes": 2310768,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-thinknode_m5-2.8.0.6be7d9c-RU.factory.bin",
+      "md5": "c198425ff734f5a6ba495d3f02d0fbd8",
+      "bytes": 2376304
+    },
+    {
+      "name": "littlefs-thinknode_m5-2.8.0.6be7d9c-RU.bin",
+      "md5": "d70470937b5dc1d3ff85f982d842e96c",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 130144,
+  "flash_bytes": 2334024,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 107,
+  "hwModelSlug": "THINKNODE_M5",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "ThinkNode M5",
+  "supportLevel": 1,
+  "images": [
+    "thinknode_m1.svg"
+  ],
+  "tags": [
+    "Elecrow"
+  ],
+  "requiresDfu": false
+}

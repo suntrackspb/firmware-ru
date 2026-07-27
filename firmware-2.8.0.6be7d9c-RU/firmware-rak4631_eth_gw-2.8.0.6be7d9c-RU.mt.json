@@ -1,0 +1,37 @@
+{
+  "version": "2.8.0.6be7d9c-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "rak4631_eth_gw",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-rak4631_eth_gw-2.8.0.6be7d9c.elf",
+      "md5": "015d78d380197d5126d48c60ea5eac8e",
+      "bytes": 1075628
+    },
+    {
+      "name": "firmware-rak4631_eth_gw-2.8.0.6be7d9c-RU.hex",
+      "md5": "f3bf098a607929aa352de6fb8dd652ec",
+      "bytes": 1760707
+    },
+    {
+      "name": "firmware-rak4631_eth_gw-2.8.0.6be7d9c-RU.uf2",
+      "md5": "a5fb53e26ee65882a01bb152adf18a95",
+      "bytes": 1252352
+    },
+    {
+      "name": "firmware-rak4631_eth_gw-2.8.0.6be7d9c-ota.zip",
+      "md5": "472333af9314729acc055937dfc25bf2",
+      "bytes": 626928
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 95732,
+  "flash_bytes": 625952,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "rak4631_eth_gw",
+  "activelySupported": false
+}

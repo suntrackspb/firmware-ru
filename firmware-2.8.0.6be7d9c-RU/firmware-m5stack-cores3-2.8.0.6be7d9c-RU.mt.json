@@ -1,0 +1,94 @@
+{
+  "version": "2.8.0.6be7d9c-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "m5stack-cores3",
+  "mcu": "esp32s3",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-m5stack-cores3-2.8.0.6be7d9c.elf",
+      "md5": "24ea2cb8cb4a8cff30f4655bd340e600",
+      "bytes": 46741532
+    },
+    {
+      "name": "firmware-m5stack-cores3-2.8.0.6be7d9c-RU.bin",
+      "md5": "7712db81a7283ef8ae914bb9abea9335",
+      "bytes": 2333888,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-m5stack-cores3-2.8.0.6be7d9c-RU.factory.bin",
+      "md5": "0f5f378de9d91ce85403753ea3f50e8b",
+      "bytes": 2399424
+    },
+    {
+      "name": "littlefs-m5stack-cores3-2.8.0.6be7d9c-RU.bin",
+      "md5": "96774bc72860c8f06f8ba1794efcfa54",
+      "bytes": 3538944,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 101552,
+  "flash_bytes": 2357152,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "architecture": "esp32-s3",
+  "displayName": "m5stack-cores3",
+  "activelySupported": false
+}

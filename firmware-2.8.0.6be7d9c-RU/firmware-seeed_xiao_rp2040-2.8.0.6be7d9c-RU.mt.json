@@ -1,0 +1,32 @@
+{
+  "version": "2.8.0.6be7d9c-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "seeed_xiao_rp2040",
+  "mcu": "rp2040",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-seeed_xiao_rp2040-2.8.0.6be7d9c.elf",
+      "md5": "b116be638862886f3605ba83d05b9f48",
+      "bytes": 3051248
+    },
+    {
+      "name": "firmware-seeed_xiao_rp2040-2.8.0.6be7d9c.bin",
+      "md5": "79981d97b1d08762771316470a0fd53f",
+      "bytes": 826176,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-seeed_xiao_rp2040-2.8.0.6be7d9c-RU.uf2",
+      "md5": "085ea256f76e14d19ff79ce91b93fc6a",
+      "bytes": 1652736
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 86656,
+  "flash_bytes": 1003476,
+  "architecture": "rp2040",
+  "displayName": "seeed_xiao_rp2040",
+  "activelySupported": false
+}

@@ -1,0 +1,95 @@
+{
+  "version": "2.8.0.6be7d9c-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "meshtastic-diy-v1",
+  "mcu": "esp32",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-meshtastic-diy-v1-2.8.0.6be7d9c.elf",
+      "md5": "72fadc31669024012012d9b309db09f9",
+      "bytes": 39081576
+    },
+    {
+      "name": "firmware-meshtastic-diy-v1-2.8.0.6be7d9c-RU.bin",
+      "md5": "09ce94d4507b453d221b676358c71fbc",
+      "bytes": 2053216,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-meshtastic-diy-v1-2.8.0.6be7d9c-RU.factory.bin",
+      "md5": "e37b991ec4e667b78b6afcb8aa98fe80",
+      "bytes": 2118752
+    },
+    {
+      "name": "littlefs-meshtastic-diy-v1-2.8.0.6be7d9c-RU.bin",
+      "md5": "c7810a8f69bd6a7b94adcb6f931504a6",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 108532,
+  "flash_bytes": 2076330,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 39,
+  "hwModelSlug": "DIY_V1",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "DIY V1",
+  "supportLevel": 3,
+  "images": [
+    "diy.svg"
+  ],
+  "tags": [
+    "DIY"
+  ]
+}
