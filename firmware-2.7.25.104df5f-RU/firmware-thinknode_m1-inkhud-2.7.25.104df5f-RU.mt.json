@@ -1,0 +1,35 @@
+{
+  "version": "2.7.25.104df5f-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "thinknode_m1-inkhud",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.7.25.104df5f.elf",
+      "md5": "e08aab409c467a29f437b49e81d32604",
+      "bytes": 1290840
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.7.25.104df5f.hex",
+      "md5": "70d47ee5478a20824ae9b808db135623",
+      "bytes": 1905452
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.7.25.104df5f-RU.uf2",
+      "md5": "7d87f09d2e073e42269eda591cf26205",
+      "bytes": 1355264
+    },
+    {
+      "name": "firmware-thinknode_m1-inkhud-2.7.25.104df5f-ota.zip",
+      "md5": "658ff72a1d1a06879bc6c7ffad73cf13",
+      "bytes": 678425
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "thinknode_m1-inkhud",
+  "activelySupported": false
+}

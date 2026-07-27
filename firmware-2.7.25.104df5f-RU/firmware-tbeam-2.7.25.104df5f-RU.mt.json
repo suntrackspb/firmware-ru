@@ -1,0 +1,93 @@
+{
+  "version": "2.7.25.104df5f-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "tbeam",
+  "mcu": "esp32",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-tbeam-2.7.25.104df5f.elf",
+      "md5": "bbc75dcaebefd1c02b98d3a5a010271f",
+      "bytes": 19893572
+    },
+    {
+      "name": "firmware-tbeam-2.7.25.104df5f-RU.bin",
+      "md5": "6801da5c3e7dd6125da67b1d97623c66",
+      "bytes": 2181744,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-tbeam-2.7.25.104df5f-RU.factory.bin",
+      "md5": "792b0d141c6db9d60f5d600266fe3961",
+      "bytes": 2247280
+    },
+    {
+      "name": "littlefs-tbeam-2.7.25.104df5f-RU.bin",
+      "md5": "0a30387752361d4f99b3b3754b5e5d53",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 4,
+  "hwModelSlug": "TBEAM",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "LILYGO T-Beam",
+  "supportLevel": 3,
+  "images": [
+    "tbeam.svg"
+  ],
+  "tags": [
+    "LilyGo"
+  ]
+}

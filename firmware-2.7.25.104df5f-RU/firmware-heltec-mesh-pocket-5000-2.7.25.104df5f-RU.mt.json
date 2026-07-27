@@ -1,0 +1,46 @@
+{
+  "version": "2.7.25.104df5f-RU",
+  "build_epoch": 1785110400,
+  "platformioTarget": "heltec-mesh-pocket-5000",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-heltec-mesh-pocket-5000-2.7.25.104df5f.elf",
+      "md5": "844eaee2008de5ce1ec800209591ff0f",
+      "bytes": 1337428
+    },
+    {
+      "name": "firmware-heltec-mesh-pocket-5000-2.7.25.104df5f.hex",
+      "md5": "12dcce0b156682f64f1c11f7c8fea604",
+      "bytes": 1976508
+    },
+    {
+      "name": "firmware-heltec-mesh-pocket-5000-2.7.25.104df5f-RU.uf2",
+      "md5": "a4ff3c3a783fad803261e8143f0de87f",
+      "bytes": 1405440
+    },
+    {
+      "name": "firmware-heltec-mesh-pocket-5000-2.7.25.104df5f-ota.zip",
+      "md5": "9db15f2170dd27541f02e6cc4abd686a",
+      "bytes": 703705
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "hwModel": 94,
+  "hwModelSlug": "HELTEC_MESH_POCKET",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "Heltec Mesh Pocket",
+  "supportLevel": 1,
+  "images": [
+    "heltec_mesh_pocket.svg"
+  ],
+  "tags": [
+    "Heltec"
+  ],
+  "key": "heltec_mesh_pocket",
+  "variant": "5000mAh",
+  "requiresDfu": true
+}
