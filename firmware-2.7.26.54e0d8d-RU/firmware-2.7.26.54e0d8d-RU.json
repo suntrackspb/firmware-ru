@@ -182,6 +182,10 @@
       "platform": "esp32c6"
     },
     {
+      "board": "meshtastic-diy-v1",
+      "platform": "esp32"
+    },
+    {
       "board": "mini-epaper-s3",
       "platform": "esp32s3"
     },
