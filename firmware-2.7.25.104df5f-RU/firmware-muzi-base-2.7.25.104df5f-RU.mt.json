@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-muzi-base-2.7.25.104df5f.elf",
-      "md5": "bf31db4f4443e8ca2a1629c7ff964014",
+      "md5": "89b3cdc88fbe966f8342c9b016291172",
       "bytes": 1425088
     },
     {
       "name": "firmware-muzi-base-2.7.25.104df5f.hex",
-      "md5": "a94e31b7f9fb3a25931c5e1b7673cfaf",
+      "md5": "3c619da8cb1825f2d33ab45a1524f038",
       "bytes": 2104742
     },
     {
       "name": "firmware-muzi-base-2.7.25.104df5f-RU.uf2",
-      "md5": "551d3ff7e3d998595057db90e8a83274",
+      "md5": "c6c20f3e398745b04633c1c5912cc38e",
       "bytes": 1496576
     },
     {
       "name": "firmware-muzi-base-2.7.25.104df5f-ota.zip",
-      "md5": "de534844639d23107167eb5b74ba739f",
+      "md5": "1e7d6d151f18b2dd4fdabc56d8ffd477",
       "bytes": 749212
     }
   ],

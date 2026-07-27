@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-chatter2-2.7.25.104df5f.elf",
-      "md5": "f900054940740797f10b377b5ee40b97",
+      "md5": "f3a309259a83d0f343be7727410e82b3",
       "bytes": 20159132
     },
     {
       "name": "firmware-chatter2-2.7.25.104df5f-RU.bin",
-      "md5": "6bfd7ee20272e2eb718b7b49412713ae",
+      "md5": "a0877c0b5824a7c8ba3ba47ec651bd4a",
       "bytes": 2194208,
       "part_name": "app0"
     },
     {
       "name": "firmware-chatter2-2.7.25.104df5f-RU.factory.bin",
-      "md5": "6f393d4047647b3da6eb6f05d21ff4be",
+      "md5": "4e7418aead1fe6a394785e4553367e4b",
       "bytes": 2259744
     },
     {
       "name": "littlefs-chatter2-2.7.25.104df5f-RU.bin",
-      "md5": "28d873d7e29c8412997ff5abec82e0a8",
+      "md5": "8de489fa10d726291ea6dab4624d910e",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

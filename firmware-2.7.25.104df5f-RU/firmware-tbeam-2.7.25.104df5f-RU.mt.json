@@ -23,7 +23,7 @@
     },
     {
       "name": "littlefs-tbeam-2.7.25.104df5f-RU.bin",
-      "md5": "0a30387752361d4f99b3b3754b5e5d53",
+      "md5": "050127f951d1d7566cce6df6cdbf2867",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

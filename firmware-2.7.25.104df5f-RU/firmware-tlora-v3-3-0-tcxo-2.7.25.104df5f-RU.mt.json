@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tlora-v3-3-0-tcxo-2.7.25.104df5f.elf",
-      "md5": "a746dce8e93781328dc660b257d380e4",
+      "md5": "db3980001fbab8e84517bbafab0ec53f",
       "bytes": 19897124
     },
     {
       "name": "firmware-tlora-v3-3-0-tcxo-2.7.25.104df5f-RU.bin",
-      "md5": "1fee392bfc87d94a3c8f3d2250a078fd",
+      "md5": "69cbc04dab4db99128fd155683d9d4fa",
       "bytes": 2133776,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-v3-3-0-tcxo-2.7.25.104df5f-RU.factory.bin",
-      "md5": "b22a9d87bf974cb032d97eee1a2e10e1",
+      "md5": "ece09185a13d34f619c66c345d629e0c",
       "bytes": 2199312
     },
     {
       "name": "littlefs-tlora-v3-3-0-tcxo-2.7.25.104df5f-RU.bin",
-      "md5": "00d605baaf3b603bc56e69d33aaa5783",
+      "md5": "055e5176715d57bfabc70964bce706cf",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

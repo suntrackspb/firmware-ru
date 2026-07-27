@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-mesh-node-t114-2.7.25.104df5f.elf",
-      "md5": "49f2a2f0c51b0fdb62a3cfe15265e092",
+      "md5": "8d3d69da656e178888802fc97026dc91",
       "bytes": 1413176
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.7.25.104df5f.hex",
-      "md5": "0cf745d40382da8daabb071703dfafd5",
+      "md5": "1989f351d35a120e9edb8447ea9a8098",
       "bytes": 2066373
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.7.25.104df5f-RU.uf2",
-      "md5": "441b9cf39d04f9f5738d10a0bec4caa4",
+      "md5": "4b8810b09110de70b65dddc4e6727b48",
       "bytes": 1469440
     },
     {
       "name": "firmware-heltec-mesh-node-t114-2.7.25.104df5f-ota.zip",
-      "md5": "53286f458a4e669d92903110820e08fc",
-      "bytes": 735644
+      "md5": "622e6ed2d142c5d53fd70f968963fd0c",
+      "bytes": 735645
     }
   ],
   "has_mui": false,

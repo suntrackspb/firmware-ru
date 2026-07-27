@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tlora-t3s3-epaper-2.7.25.104df5f.elf",
-      "md5": "c22fdfd8af7e06700518954ec52452fa",
+      "md5": "730811231a7f7203e29c17cd8d4b1400",
       "bytes": 23469004
     },
     {
       "name": "firmware-tlora-t3s3-epaper-2.7.25.104df5f-RU.bin",
-      "md5": "779c5d993353504b15c734640c4af6b6",
+      "md5": "5b9744339d8875c5bff5694ca9614f60",
       "bytes": 2306896,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-t3s3-epaper-2.7.25.104df5f-RU.factory.bin",
-      "md5": "524466ccf10b8ff588134b0cdd1a6df4",
+      "md5": "23f910cdf3d3f76beeca797775801d52",
       "bytes": 2372432
     },
     {
       "name": "littlefs-tlora-t3s3-epaper-2.7.25.104df5f-RU.bin",
-      "md5": "c9331dd165cd322aa64bc063906f18bb",
+      "md5": "555814bd56316474030f1a136f6ef46d",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

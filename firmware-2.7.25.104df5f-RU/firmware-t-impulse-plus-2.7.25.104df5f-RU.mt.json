@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-t-impulse-plus-2.7.25.104df5f.elf",
-      "md5": "ab413cc1a080df99aabe4b3aa8539552",
+      "md5": "5b9a235f7d8e930b311769acbb198dfc",
       "bytes": 1343828
     },
     {
       "name": "firmware-t-impulse-plus-2.7.25.104df5f.hex",
-      "md5": "d7781389951559755ceaeec665a2433b",
+      "md5": "7fe7ff3506b55f16451f9f09e0d6ea0b",
       "bytes": 1991837
     },
     {
       "name": "firmware-t-impulse-plus-2.7.25.104df5f-RU.uf2",
-      "md5": "38af0878338074cc827f175da8602944",
+      "md5": "ef963ad49be3f3b314300c1dc3b9e33a",
       "bytes": 1416704
     },
     {
       "name": "firmware-t-impulse-plus-2.7.25.104df5f-ota.zip",
-      "md5": "33666ea706f5ae7cf5c0cdb10886ce21",
+      "md5": "87df1ff1cda426f89ff2ff6003b0737f",
       "bytes": 709099
     }
   ],

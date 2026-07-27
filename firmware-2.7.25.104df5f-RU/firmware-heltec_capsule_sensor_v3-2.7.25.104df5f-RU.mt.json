@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.7.25.104df5f.elf",
-      "md5": "a0032ba3a90235841207abe5fec189e3",
+      "md5": "d508031c551a887726edcf15ed3e55cb",
       "bytes": 21769932
     },
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.7.25.104df5f-RU.bin",
-      "md5": "20f52b9f062b3e72975b3b44f247fd85",
+      "md5": "928e1e41990c3e42fd0f106b1026256b",
       "bytes": 1918128,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec_capsule_sensor_v3-2.7.25.104df5f-RU.factory.bin",
-      "md5": "e7f37d6ff12b558b00b3a990884220f1",
+      "md5": "0303726df26bb78fde94a85b34c9baf4",
       "bytes": 1983664
     },
     {
       "name": "littlefs-heltec_capsule_sensor_v3-2.7.25.104df5f-RU.bin",
-      "md5": "4420c9ccb67dc1d11610d79a48568965",
+      "md5": "5fb2e8ba239b722e22f43b2c4ac3e4e6",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

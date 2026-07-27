@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tlora-t3s3-v1-2.7.25.104df5f.elf",
-      "md5": "b88988469d91175acd030d72f99167bf",
+      "md5": "99f9efb75a4b20764bc4d89768d2a19b",
       "bytes": 23480704
     },
     {
       "name": "firmware-tlora-t3s3-v1-2.7.25.104df5f-RU.bin",
-      "md5": "1d2b57e25fe77bdaec11e8abf802780a",
+      "md5": "f30f07f9a2fe019ca045e3b53d4ca9fe",
       "bytes": 2315168,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-t3s3-v1-2.7.25.104df5f-RU.factory.bin",
-      "md5": "04ae3c74adb82acae2acba1a3e5ae633",
+      "md5": "daf5adbec24b96880b00558a1a4831b1",
       "bytes": 2380704
     },
     {
       "name": "littlefs-tlora-t3s3-v1-2.7.25.104df5f-RU.bin",
-      "md5": "0f7e76026462a789bdf5f6ad2ca4c2e3",
+      "md5": "65439ba89812af0ad35433af54e553e3",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

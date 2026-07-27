@@ -7,18 +7,18 @@
   "files": [
     {
       "name": "firmware-picow-2.7.25.104df5f.elf",
-      "md5": "856f1ebafd99e5a8887a70e2395ed068",
+      "md5": "f6dba78482e5ecc60854b9571dac017d",
       "bytes": 11608320
     },
     {
       "name": "firmware-picow-2.7.25.104df5f.bin",
-      "md5": "4fb4c9cbefddf283f7f0b1c345ab31c5",
+      "md5": "07b3eebcc7bf1ca7409eb98edd2b724c",
       "bytes": 1452160,
       "part_name": "app0"
     },
     {
       "name": "firmware-picow-2.7.25.104df5f-RU.uf2",
-      "md5": "3f0fb29939d2094375895476ff78b93b",
+      "md5": "d7824d88a773d2650ecf6b7d6be56117",
       "bytes": 2904576
     }
   ],

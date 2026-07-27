@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-seeed-sensecap-indicator-tft-2.7.25.104df5f.elf",
-      "md5": "edbaacfdfb14cf6ccf19121c5243e64f",
+      "md5": "8c0c48a09e83610e128c23209c3e2957",
       "bytes": 24405020
     },
     {
       "name": "firmware-seeed-sensecap-indicator-tft-2.7.25.104df5f-RU.bin",
-      "md5": "d273586e7d4d744871468fde595fb79a",
+      "md5": "c29f65835f6241106d62f4a08c540905",
       "bytes": 3487952,
       "part_name": "app0"
     },
     {
       "name": "firmware-seeed-sensecap-indicator-tft-2.7.25.104df5f-RU.factory.bin",
-      "md5": "d26ba2e643c31dd5f301c8e3393f4d5c",
+      "md5": "9bb1ee486947808a54cc7facd5be994d",
       "bytes": 3553488
     },
     {
       "name": "littlefs-seeed-sensecap-indicator-tft-2.7.25.104df5f-RU.bin",
-      "md5": "e1ca5e8c5e466aa6f43bf3fe9498aa69",
+      "md5": "384fd62223e22623245d9428c165b2e9",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

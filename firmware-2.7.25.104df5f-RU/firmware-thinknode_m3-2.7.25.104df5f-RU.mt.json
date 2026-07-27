@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-thinknode_m3-2.7.25.104df5f.elf",
-      "md5": "5a689a3f30e698efa7a32973436ff047",
+      "md5": "1d7d7bc235ee6981a0cada358a45e65f",
       "bytes": 1406748
     },
     {
       "name": "firmware-thinknode_m3-2.7.25.104df5f.hex",
-      "md5": "7d8f829cad21c1d07303d0d7bf59c7e1",
+      "md5": "9e9c4d9654652177759b5a3123a4d150",
       "bytes": 2038277
     },
     {
       "name": "firmware-thinknode_m3-2.7.25.104df5f-RU.uf2",
-      "md5": "9c857684a33ed47ae1b8b2623303ed50",
+      "md5": "34eee6122550640ebaf33d4bee02b4d1",
       "bytes": 1449472
     },
     {
       "name": "firmware-thinknode_m3-2.7.25.104df5f-ota.zip",
-      "md5": "886d983d8fe5b77baeddcc010bd23a65",
+      "md5": "c1517e66d945535b6698578d27d04ffe",
       "bytes": 725599
     }
   ],

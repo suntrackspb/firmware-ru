@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-hydra-2.7.25.104df5f.elf",
-      "md5": "fec420af653f92eebd6ba8a853435938",
+      "md5": "56e372b40e858082968c742f0e3f0cb4",
       "bytes": 19920996
     },
     {
       "name": "firmware-hydra-2.7.25.104df5f-RU.bin",
-      "md5": "24628f05fcf1c0870354ea41faa51021",
+      "md5": "cf8d86bde9d6eefaa5e07de793e24182",
       "bytes": 2146000,
       "part_name": "app0"
     },
     {
       "name": "firmware-hydra-2.7.25.104df5f-RU.factory.bin",
-      "md5": "fb87322b156f0f263d8adc08864e2e46",
+      "md5": "2b4dbbf757c66e5e2acfe4448e473444",
       "bytes": 2211536
     },
     {
       "name": "littlefs-hydra-2.7.25.104df5f-RU.bin",
-      "md5": "edee9b848bf42d4c6e855ccd27213653",
+      "md5": "dc59371cf9c5046280ecd8b8c040bfb3",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

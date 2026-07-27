@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-wsl-v3-2.7.25.104df5f.elf",
-      "md5": "a5b31a3f8d63e99f6773666137a50c24",
+      "md5": "ba59a0968465884623b960f2e0cc0b53",
       "bytes": 22271696
     },
     {
       "name": "firmware-heltec-wsl-v3-2.7.25.104df5f-RU.bin",
-      "md5": "b8501da3f58d2abe34b3d47a8e26273e",
+      "md5": "cd503dd06734dc5a3d735ea032109115",
       "bytes": 2110752,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-wsl-v3-2.7.25.104df5f-RU.factory.bin",
-      "md5": "451cfae4f51d4996dbcc0250cda7c865",
+      "md5": "db2f0c257b7ed4dad13cc9f91f1753b4",
       "bytes": 2176288
     },
     {
       "name": "littlefs-heltec-wsl-v3-2.7.25.104df5f-RU.bin",
-      "md5": "b00f75107096f92f6de4ea4d65b510a1",
+      "md5": "009ee26134e918002e4c2a546ad6f5ac",
       "bytes": 1572864,
       "part_name": "spiffs"
     },

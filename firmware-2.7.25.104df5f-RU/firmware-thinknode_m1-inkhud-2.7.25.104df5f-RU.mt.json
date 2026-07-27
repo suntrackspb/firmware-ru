@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-thinknode_m1-inkhud-2.7.25.104df5f.elf",
-      "md5": "e08aab409c467a29f437b49e81d32604",
+      "md5": "fcb57afe7b67302793e360e84eabc55b",
       "bytes": 1290840
     },
     {
       "name": "firmware-thinknode_m1-inkhud-2.7.25.104df5f.hex",
-      "md5": "70d47ee5478a20824ae9b808db135623",
+      "md5": "1ebb7478f5f296a3856d65ea010efac0",
       "bytes": 1905452
     },
     {
       "name": "firmware-thinknode_m1-inkhud-2.7.25.104df5f-RU.uf2",
-      "md5": "7d87f09d2e073e42269eda591cf26205",
+      "md5": "1e7beb4fb646f140b9e4cbcd357a1dfd",
       "bytes": 1355264
     },
     {
       "name": "firmware-thinknode_m1-inkhud-2.7.25.104df5f-ota.zip",
-      "md5": "658ff72a1d1a06879bc6c7ffad73cf13",
+      "md5": "f4f54c6cea642bd010c7651cb544b48b",
       "bytes": 678425
     }
   ],

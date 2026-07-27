@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-mesh-solar-eink-2.7.25.104df5f.elf",
-      "md5": "7a5a9a4e7ee3a7e467869104db273e3f",
+      "md5": "46ed262e651ced232af0fe1c6cf71485",
       "bytes": 1414792
     },
     {
       "name": "firmware-heltec-mesh-solar-eink-2.7.25.104df5f.hex",
-      "md5": "fbf16bbdbdbf6a782fa72b762b51c9aa",
+      "md5": "6f7b2b44e29591de3b94a0e3e7e5b5b8",
       "bytes": 2061955
     },
     {
       "name": "firmware-heltec-mesh-solar-eink-2.7.25.104df5f-RU.uf2",
-      "md5": "3e4b2041012482d7d2191d731a4327fc",
+      "md5": "d23746f7ba58e32cb9da95c20d88ef78",
       "bytes": 1466368
     },
     {
       "name": "firmware-heltec-mesh-solar-eink-2.7.25.104df5f-ota.zip",
-      "md5": "1678a237271f336e68894a5409323839",
-      "bytes": 734078
+      "md5": "c96130d06de3cc15a891c3fd1642f800",
+      "bytes": 734079
     }
   ],
   "has_mui": false,

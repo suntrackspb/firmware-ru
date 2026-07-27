@@ -98,6 +98,10 @@
       "platform": "esp32s3"
     },
     {
+      "board": "heltec-v4-r8-oled",
+      "platform": "esp32s3"
+    },
+    {
       "board": "heltec-v4-r8-tft",
       "platform": "esp32s3"
     },
@@ -195,6 +199,10 @@
     },
     {
       "board": "nano-g1",
+      "platform": "esp32"
+    },
+    {
+      "board": "nano-g1-explorer",
       "platform": "esp32"
     },
     {

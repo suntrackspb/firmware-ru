@@ -23,7 +23,7 @@
     },
     {
       "name": "littlefs-heltec-hru-3601-2.7.25.104df5f-RU.bin",
-      "md5": "95a25c9834d560e452c9621407f02806",
+      "md5": "4076ca63be87256b83ee1db12018bdce",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

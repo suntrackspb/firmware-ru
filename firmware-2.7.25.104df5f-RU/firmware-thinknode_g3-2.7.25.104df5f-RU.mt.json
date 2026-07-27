@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-thinknode_g3-2.7.25.104df5f.elf",
-      "md5": "e9df775f35890c113efb650e53797ecb",
+      "md5": "685b5f0bb3b6bcaed3903eb1548b8797",
       "bytes": 22377456
     },
     {
       "name": "firmware-thinknode_g3-2.7.25.104df5f-RU.bin",
-      "md5": "9af513a8638f139b322c6aabe39ef788",
+      "md5": "86b45bef5d8ac7fad0890c3e82e24e3e",
       "bytes": 2137328,
       "part_name": "app0"
     },
     {
       "name": "firmware-thinknode_g3-2.7.25.104df5f-RU.factory.bin",
-      "md5": "61080f989826c42f11ce8b34e8862627",
+      "md5": "133beeb235c2421f990e86b58240d17c",
       "bytes": 2202864
     },
     {
       "name": "littlefs-thinknode_g3-2.7.25.104df5f-RU.bin",
-      "md5": "405b79c3c5056bff7df090baafa14dfc",
+      "md5": "716d14e2a1527bd547808c54e94f7630",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

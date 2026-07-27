@@ -7,22 +7,22 @@
   "files": [
     {
       "name": "firmware-nano-g2-ultra-2.7.25.104df5f.elf",
-      "md5": "6071a1a91a4fe27f616bc8a871cd4593",
+      "md5": "f32155427faaa7df9b82a8fed292adcf",
       "bytes": 1410104
     },
     {
       "name": "firmware-nano-g2-ultra-2.7.25.104df5f.hex",
-      "md5": "d1ce46d718de3a4c36ac9d350bcd9cef",
+      "md5": "32eee1289397a8695d8a1bc5d12718e9",
       "bytes": 2058212
     },
     {
       "name": "firmware-nano-g2-ultra-2.7.25.104df5f-RU.uf2",
-      "md5": "ba6aeff9d50c7865a105268287267141",
+      "md5": "b7c931c0fe08f48c10d97c1037d9470f",
       "bytes": 1463808
     },
     {
       "name": "firmware-nano-g2-ultra-2.7.25.104df5f-ota.zip",
-      "md5": "7f2c5b6c64545ae08745e2e6346e6134",
+      "md5": "777dd53009891445b5ea4f868545fd3d",
       "bytes": 732693
     }
   ],

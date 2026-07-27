@@ -7,27 +7,27 @@
   "files": [
     {
       "name": "firmware-wio-sdk-wm1110-2.7.25.104df5f.elf",
-      "md5": "9f8fd02635209b8d2bdfa3635e7ce156",
+      "md5": "37e733a51741643a76d9779558f2aa7f",
       "bytes": 1324120
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.7.25.104df5f.hex",
-      "md5": "0c6d639d2f7ccfd25f6310e4c6190faf",
+      "md5": "3236f37827ec66625b0c0f140db9aa56",
       "bytes": 1973845
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.7.25.104df5f-RU.merged.hex",
-      "md5": "9be1f630325a8ef96cd207dfede430cd",
+      "md5": "bde67a23b17b35af08f3dd0606210867",
       "bytes": 2411319
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.7.25.104df5f-RU.uf2",
-      "md5": "0167ae16e0ea265ee0675df6b3905fb2",
+      "md5": "187c0a084acc16f41ba22720ee9bbf51",
       "bytes": 1715200
     },
     {
       "name": "firmware-wio-sdk-wm1110-2.7.25.104df5f-ota.zip",
-      "md5": "574c0c6ff563966b7b562708264d0776",
+      "md5": "e5f64188540b95afbcf02fe1a1fba4e9",
       "bytes": 702703
     }
   ],

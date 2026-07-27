@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-heltec-v4-2.7.25.104df5f.elf",
-      "md5": "66c01b998f29b46e7c373dabf61f3767",
+      "md5": "65d8d871b78185c0d6d6ad9c15f2aba6",
       "bytes": 22347868
     },
     {
       "name": "firmware-heltec-v4-2.7.25.104df5f-RU.bin",
-      "md5": "1d87cd9d2478ab6218e1e2d49b4ae978",
+      "md5": "7c2ac9e82e2b1a748c9f47612812af72",
       "bytes": 2121088,
       "part_name": "app0"
     },
     {
       "name": "firmware-heltec-v4-2.7.25.104df5f-RU.factory.bin",
-      "md5": "be72586d2a93be1ad4552b145642be26",
+      "md5": "07dece7e7ff9c8aff99fc5fdadeb51bd",
       "bytes": 2186624
     },
     {
       "name": "littlefs-heltec-v4-2.7.25.104df5f-RU.bin",
-      "md5": "38a1cdd777e22893a011503f6f1d7b14",
+      "md5": "774611620edb2321160d6b76be72eafc",
       "bytes": 3538944,
       "part_name": "spiffs"
     },

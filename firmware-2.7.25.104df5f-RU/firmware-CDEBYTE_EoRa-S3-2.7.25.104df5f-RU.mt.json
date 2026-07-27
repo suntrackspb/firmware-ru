@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.7.25.104df5f.elf",
-      "md5": "d2649824f776148e11e5b7b4a74b1757",
+      "md5": "a152c2b958d923f51360ca82881d80a6",
       "bytes": 23071448
     },
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.7.25.104df5f-RU.bin",
-      "md5": "55e4ec04d29e4867210200df155d8359",
+      "md5": "1e0eadc5d8b3d7a0db718102f177653d",
       "bytes": 2179728,
       "part_name": "app0"
     },
     {
       "name": "firmware-CDEBYTE_EoRa-S3-2.7.25.104df5f-RU.factory.bin",
-      "md5": "23fd477944939fec2f4348f98461bc2e",
+      "md5": "036f85c5b4e9620b92caf1ad23e571d9",
       "bytes": 2245264
     },
     {
       "name": "littlefs-CDEBYTE_EoRa-S3-2.7.25.104df5f-RU.bin",
-      "md5": "cb2e6fc8dc3c5586e59d2abde80c0a78",
+      "md5": "5224910352eeb274a76129ecd7d235a8",
       "bytes": 1048576,
       "part_name": "spiffs"
     },

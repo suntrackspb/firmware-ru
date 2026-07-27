@@ -7,23 +7,23 @@
   "files": [
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.25.104df5f.elf",
-      "md5": "10038738c4b62fb1e8cc50644595b624",
+      "md5": "998015eeceaca13351625ae15e300229",
       "bytes": 23268504
     },
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.25.104df5f-RU.bin",
-      "md5": "f3f1d57af9c924b17aa80e2ecafeb301",
+      "md5": "7834fd16626294b6fe4b28014c80b9e7",
       "bytes": 2230032,
       "part_name": "app0"
     },
     {
       "name": "firmware-tlora-t3s3-epaper-inkhud-2.7.25.104df5f-RU.factory.bin",
-      "md5": "56a9c6a9a901637c14a65b7d4c9405f9",
+      "md5": "d4ef4e6b607cf95a05048a2bbbd9cb1d",
       "bytes": 2295568
     },
     {
       "name": "littlefs-tlora-t3s3-epaper-inkhud-2.7.25.104df5f-RU.bin",
-      "md5": "fb3b5264bc4aaf92d38abf0952e8dc5f",
+      "md5": "70bdbb187bb64935a665c34479024ae4",
       "bytes": 1048576,
       "part_name": "spiffs"
     },
