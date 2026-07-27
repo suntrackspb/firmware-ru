@@ -45,6 +45,8 @@ jobs:
       - run: pip install -U platformio
 
       - name: Apply custom board variants from develop
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           curl -fsSL "https://raw.githubusercontent.com/${{ github.repository }}/develop/bin/sync_custom_variants.sh" -o /tmp/sync_custom_variants.sh
           bash /tmp/sync_custom_variants.sh "${{ github.repository }}"
@@ -80,6 +82,8 @@ jobs:
           submodules: recursive
 
       - name: Apply custom board variants from develop
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           curl -fsSL "https://raw.githubusercontent.com/${{ github.repository }}/develop/bin/sync_custom_variants.sh" -o /tmp/sync_custom_variants.sh
           bash /tmp/sync_custom_variants.sh "${{ github.repository }}"

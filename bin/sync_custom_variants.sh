@@ -9,6 +9,14 @@ BRANCH="develop"
 API_BASE="https://api.github.com/repos/${REPO}/contents"
 RAW_BASE="https://raw.githubusercontent.com/${REPO}/${BRANCH}"
 
+# Authenticate API requests when a token is available (CI matrix runs ~130
+# concurrent jobs; unauthenticated api.github.com rate limit is 60 req/hour
+# per IP and gets exhausted, causing sporadic 403s).
+AUTH_HEADER=()
+if [[ -n "${GH_TOKEN:-}" ]]; then
+  AUTH_HEADER=(-H "Authorization: Bearer ${GH_TOKEN}")
+fi
+
 # List of custom variant paths to sync (relative to repo root).
 # Add new entries here when a new custom board is added to develop.
 CUSTOM_VARIANTS=(
@@ -20,7 +28,7 @@ for variant_dir in "${CUSTOM_VARIANTS[@]}"; do
   mkdir -p "${variant_dir}"
 
   # Get list of files in the directory via GitHub API
-  files=$(curl -fsSL "${API_BASE}/${variant_dir}?ref=${BRANCH}" \
+  files=$(curl -fsSL "${AUTH_HEADER[@]}" "${API_BASE}/${variant_dir}?ref=${BRANCH}" \
     | python3 -c "import json,sys; [print(f['name']) for f in json.load(sys.stdin) if f['type']=='file']")
 
   for file in $files; do
