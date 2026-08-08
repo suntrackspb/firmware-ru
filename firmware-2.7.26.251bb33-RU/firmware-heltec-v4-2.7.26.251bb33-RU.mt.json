@@ -1,18 +1,18 @@
 {
   "version": "2.7.26.251bb33-RU",
   "build_epoch": 1786136400,
-  "platformioTarget": "heltec-v4-unlock",
+  "platformioTarget": "heltec-v4",
   "mcu": "esp32s3",
   "repo": "suntrackspb/firmware-ru",
   "files": [
     {
-      "name": "firmware-heltec-v4-unlock-2.7.26.251bb33-RU.bin",
+      "name": "firmware-heltec-v4-2.7.26.251bb33-RU.bin",
       "md5": "7e0996f4e081adfaec591b59e2c31518",
       "bytes": 2123168,
       "part_name": "app0"
     },
     {
-      "name": "firmware-heltec-v4-unlock-2.7.26.251bb33-RU.factory.bin",
+      "name": "firmware-heltec-v4-2.7.26.251bb33-RU.factory.bin",
       "md5": "caeb13f70d0951b40e2d537b18ccf01b",
       "bytes": 2188704
     }
