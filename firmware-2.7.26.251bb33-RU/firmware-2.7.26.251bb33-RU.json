@@ -1,0 +1,9 @@
+{
+  "version": "2.7.26.251bb33-RU",
+  "targets": [
+    {
+      "board": "heltec-v4-unlock",
+      "platform": "esp32s3"
+    }
+  ]
+}

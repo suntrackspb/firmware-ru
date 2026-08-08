@@ -141,6 +141,14 @@
     ],
     "ru_alpha": [
       {
+        "id": "v2.7.26.251bb33-RU",
+        "title": "Meshtastic Firmware 2.7.26.251bb33 — Heltec V4 Unlock (Кириллица / Cyrillic)",
+        "release_notes": "Кастомная сборка одной платы heltec-v4-unlock (разблокированный бутлоадер), собрана вручную вне обычного RU-пайплайна.",
+        "targets": [
+          "heltec-v4-unlock"
+        ]
+      },
+      {
         "id": "v2.8.0.6be7d9c-RU",
         "title": "Meshtastic Firmware 2.8.0.6be7d9c (Кириллица / Cyrillic)",
         "release_notes": "Поддержка кириллицы на экране устройства (-D OLED_RU=1). Меню остаётся на английском, входящие сообщения отображаются на русском.",
