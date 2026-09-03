@@ -1,0 +1,105 @@
+{
+  "version": "2.8.1.d5873ea-RU",
+  "build_epoch": 1788393600,
+  "platformioTarget": "t-watch-ultra",
+  "mcu": "esp32s3",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-t-watch-ultra-2.8.1.d5873ea.elf",
+      "md5": "378a9f006749069cf82d789333ef7941",
+      "bytes": 53565760
+    },
+    {
+      "name": "firmware-t-watch-ultra-2.8.1.d5873ea-RU.bin",
+      "md5": "ced3aa149a149a3b99a6d7cfa41c2b51",
+      "bytes": 2608288,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-t-watch-ultra-2.8.1.d5873ea-RU.factory.bin",
+      "md5": "890a6b9925fa421de068599a6648d5a6",
+      "bytes": 2673824
+    },
+    {
+      "name": "littlefs-t-watch-ultra-2.8.1.d5873ea-RU.bin",
+      "md5": "4791c176ab4ca8c6a2ef470e835a9e25",
+      "bytes": 3538944,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 100328,
+  "flash_bytes": 2633115,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 114,
+  "hwModelSlug": "T_WATCH_ULTRA",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "T-Watch Ultra",
+  "supportLevel": 1,
+  "images": [
+    "t-watch-ultra.svg"
+  ],
+  "tags": [
+    "LilyGo"
+  ],
+  "requiresDfu": false,
+  "partitionScheme": "16MB"
+}

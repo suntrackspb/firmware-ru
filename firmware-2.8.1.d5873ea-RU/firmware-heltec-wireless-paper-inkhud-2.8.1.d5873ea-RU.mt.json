@@ -1,0 +1,94 @@
+{
+  "version": "2.8.1.d5873ea-RU",
+  "build_epoch": 1788393600,
+  "platformioTarget": "heltec-wireless-paper-inkhud",
+  "mcu": "esp32s3",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-heltec-wireless-paper-inkhud-2.8.1.d5873ea.elf",
+      "md5": "872d6ac5be6924ac6d817f0a39f688c4",
+      "bytes": 51459176
+    },
+    {
+      "name": "firmware-heltec-wireless-paper-inkhud-2.8.1.d5873ea-RU.bin",
+      "md5": "6c8e94ca58038303a9866bb46f368d53",
+      "bytes": 2239712,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-heltec-wireless-paper-inkhud-2.8.1.d5873ea-RU.factory.bin",
+      "md5": "7a297456cdab89b1f2e60b29db33b430",
+      "bytes": 2305248
+    },
+    {
+      "name": "littlefs-heltec-wireless-paper-inkhud-2.8.1.d5873ea-RU.bin",
+      "md5": "66b6b2a60088f337ad30f9e6137e0bad",
+      "bytes": 1572864,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true,
+  "ram_bytes": 116440,
+  "flash_bytes": 2264527,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x340000",
+      "size": "0x330000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x670000",
+      "size": "0x180000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0x7F0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "architecture": "esp32-s3",
+  "displayName": "heltec-wireless-paper-inkhud",
+  "activelySupported": false
+}
