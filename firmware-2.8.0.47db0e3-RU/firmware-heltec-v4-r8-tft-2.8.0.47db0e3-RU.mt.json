@@ -1,0 +1,105 @@
+{
+  "version": "2.8.0.47db0e3-RU",
+  "build_epoch": 1788393600,
+  "platformioTarget": "heltec-v4-r8-tft",
+  "mcu": "esp32s3",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-heltec-v4-r8-tft-2.8.0.47db0e3.elf",
+      "md5": "2fd2ef7f50932a0bae4982dd90549a57",
+      "bytes": 61240592
+    },
+    {
+      "name": "firmware-heltec-v4-r8-tft-2.8.0.47db0e3-RU.bin",
+      "md5": "f5f2d77c5b6c855afb3a23c4164cee75",
+      "bytes": 3832800,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-heltec-v4-r8-tft-2.8.0.47db0e3-RU.factory.bin",
+      "md5": "5baf4fd394fecb3d3cfb4d97239d76dc",
+      "bytes": 3898336
+    },
+    {
+      "name": "littlefs-heltec-v4-r8-tft-2.8.0.47db0e3-RU.bin",
+      "md5": "ce29ac25916f88b278afd9bb708b94a5",
+      "bytes": 3538944,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32s3-ota.bin",
+      "md5": "497d3108c038f8a6b5f4e234a1156c8a",
+      "bytes": 636544,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": true,
+  "has_inkhud": false,
+  "ram_bytes": 113672,
+  "flash_bytes": 3857615,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x9000",
+      "size": "0x5000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0xe000",
+      "size": "0x2000",
+      "flags": ""
+    },
+    {
+      "name": "app0",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x10000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "app1",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x650000",
+      "size": "0x640000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0xc90000",
+      "size": "0x360000",
+      "flags": ""
+    },
+    {
+      "name": "coredump",
+      "type": "data",
+      "subtype": "coredump",
+      "offset": "0xFF0000",
+      "size": "0x10000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 132,
+  "hwModelSlug": "HELTEC_V4_R8",
+  "architecture": "esp32-s3",
+  "activelySupported": true,
+  "displayName": "Heltec V4 R8 TFT",
+  "supportLevel": 1,
+  "images": [
+    "heltec_v4_r8_tft.svg"
+  ],
+  "tags": [
+    "Heltec"
+  ],
+  "requiresDfu": true,
+  "partitionScheme": "16MB"
+}

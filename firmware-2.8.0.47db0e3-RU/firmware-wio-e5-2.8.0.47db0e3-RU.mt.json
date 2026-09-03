@@ -1,0 +1,32 @@
+{
+  "version": "2.8.0.47db0e3-RU",
+  "build_epoch": 1788393600,
+  "platformioTarget": "wio-e5",
+  "mcu": "stm32wle5jc",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-wio-e5-2.8.0.47db0e3.elf",
+      "md5": "004ad9a8e2eb525db2c6d7a789857069",
+      "bytes": 9050124
+    },
+    {
+      "name": "firmware-wio-e5-2.8.0.47db0e3-RU.bin",
+      "md5": "993450717f3f6656c7e1a831f3946ef0",
+      "bytes": 230252,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-wio-e5-2.8.0.47db0e3.hex",
+      "md5": "5be91951a3b07bb48c39fafdce0f731e",
+      "bytes": 647691
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 26872,
+  "flash_bytes": 230240,
+  "architecture": "stm32",
+  "displayName": "wio-e5",
+  "activelySupported": false
+}

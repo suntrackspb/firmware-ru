@@ -1,0 +1,46 @@
+{
+  "version": "2.8.0.47db0e3-RU",
+  "build_epoch": 1788393600,
+  "platformioTarget": "t-echo",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-t-echo-2.8.0.47db0e3.elf",
+      "md5": "44b00fc7a7c354d39d2938cb31db0ae5",
+      "bytes": 1309140
+    },
+    {
+      "name": "firmware-t-echo-2.8.0.47db0e3.hex",
+      "md5": "272dc2003c96d5d9c21c141dfecae300",
+      "bytes": 2115100
+    },
+    {
+      "name": "firmware-t-echo-2.8.0.47db0e3-RU.uf2",
+      "md5": "b6542d24c262f594eeef689fbccafb2a",
+      "bytes": 1504256
+    },
+    {
+      "name": "firmware-t-echo-2.8.0.47db0e3-ota.zip",
+      "md5": "2665facbbf34d899c48355de896718fa",
+      "bytes": 752872
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 89956,
+  "flash_bytes": 751944,
+  "hwModel": 7,
+  "hwModelSlug": "T_ECHO",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "LILYGO T-Echo",
+  "supportLevel": 1,
+  "images": [
+    "t-echo.svg"
+  ],
+  "tags": [
+    "LilyGo"
+  ],
+  "requiresDfu": true
+}

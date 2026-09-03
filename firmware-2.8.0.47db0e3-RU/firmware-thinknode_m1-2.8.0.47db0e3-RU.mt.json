@@ -1,0 +1,46 @@
+{
+  "version": "2.8.0.47db0e3-RU",
+  "build_epoch": 1788393600,
+  "platformioTarget": "thinknode_m1",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-thinknode_m1-2.8.0.47db0e3.elf",
+      "md5": "a1a984d63e08228d5672b925b4c0fb5c",
+      "bytes": 1300640
+    },
+    {
+      "name": "firmware-thinknode_m1-2.8.0.47db0e3.hex",
+      "md5": "9f714c7980e23809f009adcd6b9ac41b",
+      "bytes": 2090231
+    },
+    {
+      "name": "firmware-thinknode_m1-2.8.0.47db0e3-RU.uf2",
+      "md5": "72b7064429856b06936dc8c05f6a29a0",
+      "bytes": 1486336
+    },
+    {
+      "name": "firmware-thinknode_m1-2.8.0.47db0e3-ota.zip",
+      "md5": "40c42eb6332f624d0cd7dd5eebeb4420",
+      "bytes": 744068
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 89956,
+  "flash_bytes": 743104,
+  "hwModel": 89,
+  "hwModelSlug": "THINKNODE_M1",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "ThinkNode M1",
+  "supportLevel": 1,
+  "images": [
+    "thinknode_m1.svg"
+  ],
+  "tags": [
+    "Elecrow"
+  ],
+  "requiresDfu": true
+}

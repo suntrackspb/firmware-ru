@@ -1,0 +1,46 @@
+{
+  "version": "2.8.0.47db0e3-RU",
+  "build_epoch": 1788393600,
+  "platformioTarget": "seeed_wio_tracker_L1_Pro_1W",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-seeed_wio_tracker_L1_Pro_1W-2.8.0.47db0e3.elf",
+      "md5": "f42da8bdf423cfd79b3f7bd2c9ab5733",
+      "bytes": 1298384
+    },
+    {
+      "name": "firmware-seeed_wio_tracker_L1_Pro_1W-2.8.0.47db0e3.hex",
+      "md5": "de6c4df1b7226f5ac02e7e30c0045d02",
+      "bytes": 2083825
+    },
+    {
+      "name": "firmware-seeed_wio_tracker_L1_Pro_1W-2.8.0.47db0e3-RU.uf2",
+      "md5": "0fb5ffee5402864d896a60c1f1878794",
+      "bytes": 1481728
+    },
+    {
+      "name": "firmware-seeed_wio_tracker_L1_Pro_1W-2.8.0.47db0e3-ota.zip",
+      "md5": "52fa518654efdb55628ead7cfd130290",
+      "bytes": 741878
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 107044,
+  "flash_bytes": 740824,
+  "hwModel": 144,
+  "hwModelSlug": "SEEED_WIO_TRACKER_L1_PRO_1W",
+  "architecture": "nrf52840",
+  "activelySupported": true,
+  "displayName": "Seeed Wio Tracker L1 Pro 1W",
+  "supportLevel": 1,
+  "images": [
+    "wio_tracker_l1_case.svg"
+  ],
+  "tags": [
+    "Seeed"
+  ],
+  "requiresDfu": true
+}

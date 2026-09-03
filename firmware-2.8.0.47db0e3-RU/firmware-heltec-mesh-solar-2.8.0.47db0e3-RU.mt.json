@@ -1,0 +1,46 @@
+{
+  "version": "2.8.0.47db0e3-RU",
+  "build_epoch": 1788393600,
+  "platformioTarget": "heltec-mesh-solar",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-heltec-mesh-solar-2.8.0.47db0e3.elf",
+      "md5": "e466c0808b580fa313769221452afbb2",
+      "bytes": 1302940
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-2.8.0.47db0e3.hex",
+      "md5": "e54af694ad2a7db3861cc65b64625501",
+      "bytes": 2096065
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-2.8.0.47db0e3-RU.uf2",
+      "md5": "f36fbaf344d558f6e0d5e863509fcf87",
+      "bytes": 1490432
+    },
+    {
+      "name": "firmware-heltec-mesh-solar-2.8.0.47db0e3-ota.zip",
+      "md5": "b68d7569367ace72f0f403c65345f851",
+      "bytes": 746170
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 107308,
+  "flash_bytes": 745176,
+  "hwModel": 108,
+  "hwModelSlug": "HELTEC_MESH_SOLAR",
+  "architecture": "nrf52840",
+  "activelySupported": false,
+  "displayName": "Heltec MeshSolar",
+  "supportLevel": 1,
+  "images": [
+    "heltec-mesh-solar.svg"
+  ],
+  "tags": [
+    "Heltec"
+  ],
+  "requiresDfu": true
+}
