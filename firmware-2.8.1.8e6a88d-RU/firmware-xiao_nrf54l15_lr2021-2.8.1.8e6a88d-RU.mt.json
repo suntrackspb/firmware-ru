@@ -1,0 +1,34 @@
+{
+  "version": "2.8.1.8e6a88d-RU",
+  "build_epoch": 1792368000,
+  "platformioTarget": "xiao_nrf54l15_lr2021",
+  "mcu": "nrf54l15",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-xiao_nrf54l15_lr2021-2.8.1.8e6a88d.elf",
+      "md5": "097ec080af1dc2f885e031c15ed58afa",
+      "bytes": 1094668
+    },
+    {
+      "name": "firmware-xiao_nrf54l15_lr2021-2.8.1.8e6a88d-RU.hex",
+      "md5": "8f79975cc21c3160637c76c9ec356f78",
+      "bytes": 2069860
+    },
+    {
+      "name": "firmware-xiao_nrf54l15_lr2021-2.8.1.8e6a88d.zip",
+      "md5": "5b95f2cc90258ba1343d04dbefbcae64",
+      "bytes": 584421
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 68804,
+  "flash_bytes": 583592,
+  "hwModel": 255,
+  "hwModelSlug": "XIAO_NRF54L15_LR2021",
+  "architecture": "nrf54l15",
+  "activelySupported": true,
+  "displayName": "Seeed XIAO nRF54L15 LoRa Plus",
+  "supportLevel": 2
+}

@@ -1,0 +1,37 @@
+{
+  "version": "2.8.1.8e6a88d-RU",
+  "build_epoch": 1792368000,
+  "platformioTarget": "t-echo-inkhud",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-t-echo-inkhud-2.8.1.8e6a88d.elf",
+      "md5": "cfc3d9bd0276dde42d15ff53fc857e59",
+      "bytes": 1185808
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.8.1.8e6a88d.hex",
+      "md5": "ecfc4f941f52636fca1fce07f2d6908c",
+      "bytes": 1891711
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.8.1.8e6a88d-RU.uf2",
+      "md5": "bcf0503c967511eada7640116e374a39",
+      "bytes": 1345536
+    },
+    {
+      "name": "firmware-t-echo-inkhud-2.8.1.8e6a88d-ota.zip",
+      "md5": "41b3ea91356c3d34a7c0cc92636d97b5",
+      "bytes": 673495
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": true,
+  "ram_bytes": 77212,
+  "flash_bytes": 672524,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "t-echo-inkhud",
+  "activelySupported": false
+}

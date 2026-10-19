@@ -1,0 +1,86 @@
+{
+  "version": "2.8.1.8e6a88d-RU",
+  "build_epoch": 1792368000,
+  "platformioTarget": "tlora-v3-3-0-tcxo",
+  "mcu": "esp32",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-tlora-v3-3-0-tcxo-2.8.1.8e6a88d.elf",
+      "md5": "1956d73090f3fba37730ff1ed97c7e55",
+      "bytes": 39798660
+    },
+    {
+      "name": "firmware-tlora-v3-3-0-tcxo-2.8.1.8e6a88d-RU.bin",
+      "md5": "46ce74ac309261c774b573e705583e03",
+      "bytes": 2029392,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-tlora-v3-3-0-tcxo-2.8.1.8e6a88d-RU.factory.bin",
+      "md5": "277b4d24247cbeac1fc7a76d821c9b6c",
+      "bytes": 2094928
+    },
+    {
+      "name": "littlefs-tlora-v3-3-0-tcxo-2.8.1.8e6a88d-RU.bin",
+      "md5": "5a9f7add6ee8e0fc2d97c5d28b2c79bb",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 109324,
+  "flash_bytes": 2054074,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "architecture": "esp32",
+  "displayName": "tlora-v3-3-0-tcxo",
+  "activelySupported": false
+}

@@ -1,0 +1,92 @@
+{
+  "version": "2.8.1.8e6a88d-RU",
+  "build_epoch": 1792368000,
+  "platformioTarget": "hydra",
+  "mcu": "esp32",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-hydra-2.8.1.8e6a88d.elf",
+      "md5": "7efffe03cf5bac813907a7e9738d6552",
+      "bytes": 39969400
+    },
+    {
+      "name": "firmware-hydra-2.8.1.8e6a88d-RU.bin",
+      "md5": "6e41d5de36c13aebbc30d91b06b66abd",
+      "bytes": 2041296,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-hydra-2.8.1.8e6a88d-RU.factory.bin",
+      "md5": "dea8d09085c2f8e0302520dba313ac8e",
+      "bytes": 2106832
+    },
+    {
+      "name": "littlefs-hydra-2.8.1.8e6a88d-RU.bin",
+      "md5": "82b1f9a693ae05bfd0e8e55ae46be58d",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 109340,
+  "flash_bytes": 2065966,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 39,
+  "hwModelSlug": "HYDRA",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "Hydra",
+  "supportLevel": 3,
+  "tags": [
+    "DIY"
+  ]
+}

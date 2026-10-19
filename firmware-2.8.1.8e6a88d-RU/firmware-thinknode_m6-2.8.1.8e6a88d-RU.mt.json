@@ -1,0 +1,46 @@
+{
+  "version": "2.8.1.8e6a88d-RU",
+  "build_epoch": 1792368000,
+  "platformioTarget": "thinknode_m6",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-thinknode_m6-2.8.1.8e6a88d.elf",
+      "md5": "f5655b5d1dd2a44ef1e895b6c9e1a655",
+      "bytes": 1222544
+    },
+    {
+      "name": "firmware-thinknode_m6-2.8.1.8e6a88d.hex",
+      "md5": "d951f6e7d02652c4e7fb7a6ae7dfd7bd",
+      "bytes": 1962153
+    },
+    {
+      "name": "firmware-thinknode_m6-2.8.1.8e6a88d-RU.uf2",
+      "md5": "4981aa0609086f1da0f205ca62d3c96f",
+      "bytes": 1395200
+    },
+    {
+      "name": "firmware-thinknode_m6-2.8.1.8e6a88d-ota.zip",
+      "md5": "a52572d084d4f175799dd46193c8a251",
+      "bytes": 698529
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 96540,
+  "flash_bytes": 697564,
+  "hwModel": 120,
+  "hwModelSlug": "THINKNODE_M6",
+  "architecture": "nrf52840",
+  "activelySupported": false,
+  "displayName": "ThinkNode M6",
+  "supportLevel": 1,
+  "images": [
+    "thinknode_m6.svg"
+  ],
+  "tags": [
+    "Elecrow"
+  ],
+  "requiresDfu": true
+}

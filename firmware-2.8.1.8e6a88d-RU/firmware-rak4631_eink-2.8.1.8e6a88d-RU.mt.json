@@ -1,0 +1,37 @@
+{
+  "version": "2.8.1.8e6a88d-RU",
+  "build_epoch": 1792368000,
+  "platformioTarget": "rak4631_eink",
+  "mcu": "nrf52840",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-rak4631_eink-2.8.1.8e6a88d.elf",
+      "md5": "4d303bf7952ca337aeb92c7cb6a6e36f",
+      "bytes": 1230344
+    },
+    {
+      "name": "firmware-rak4631_eink-2.8.1.8e6a88d-RU.hex",
+      "md5": "65f81c7468f0872a250b3f0e85902f5a",
+      "bytes": 1991943
+    },
+    {
+      "name": "firmware-rak4631_eink-2.8.1.8e6a88d-RU.uf2",
+      "md5": "8658f03a91791c2c67457e929aebd4c9",
+      "bytes": 1416704
+    },
+    {
+      "name": "firmware-rak4631_eink-2.8.1.8e6a88d-ota.zip",
+      "md5": "be255138bce165d1431357cf4d14ff2e",
+      "bytes": 709120
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 96580,
+  "flash_bytes": 708156,
+  "architecture": "nrf52840",
+  "requiresDfu": true,
+  "displayName": "rak4631_eink",
+  "activelySupported": false
+}

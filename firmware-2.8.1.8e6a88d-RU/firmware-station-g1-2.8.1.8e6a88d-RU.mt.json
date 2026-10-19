@@ -1,0 +1,92 @@
+{
+  "version": "2.8.1.8e6a88d-RU",
+  "build_epoch": 1792368000,
+  "platformioTarget": "station-g1",
+  "mcu": "esp32",
+  "repo": "suntrackspb/firmware-ru",
+  "files": [
+    {
+      "name": "firmware-station-g1-2.8.1.8e6a88d.elf",
+      "md5": "afbb13a08162c305ff30304f5c4dcd1a",
+      "bytes": 40176320
+    },
+    {
+      "name": "firmware-station-g1-2.8.1.8e6a88d-RU.bin",
+      "md5": "fd16e1703670cc9b2887a760fa9a440f",
+      "bytes": 2052832,
+      "part_name": "app0"
+    },
+    {
+      "name": "firmware-station-g1-2.8.1.8e6a88d-RU.factory.bin",
+      "md5": "be0396917d01caa3b093f29389511383",
+      "bytes": 2118368
+    },
+    {
+      "name": "littlefs-station-g1-2.8.1.8e6a88d-RU.bin",
+      "md5": "27221fdbf7cbc92c28284d2b42ec0f60",
+      "bytes": 1048576,
+      "part_name": "spiffs"
+    },
+    {
+      "name": "mt-esp32-ota.bin",
+      "md5": "d7376153b9d0034ac5cf534bc0e17fc0",
+      "bytes": 642096,
+      "part_name": "app1"
+    }
+  ],
+  "has_mui": false,
+  "has_inkhud": false,
+  "ram_bytes": 109316,
+  "flash_bytes": 2077510,
+  "part": [
+    {
+      "name": "nvs",
+      "type": "data",
+      "subtype": "nvs",
+      "offset": "0x009000",
+      "size": "0x005000",
+      "flags": ""
+    },
+    {
+      "name": "otadata",
+      "type": "data",
+      "subtype": "ota",
+      "offset": "0x00e000",
+      "size": "0x002000",
+      "flags": ""
+    },
+    {
+      "name": "app",
+      "type": "app",
+      "subtype": "ota_0",
+      "offset": "0x010000",
+      "size": "0x250000",
+      "flags": ""
+    },
+    {
+      "name": "flashApp",
+      "type": "app",
+      "subtype": "ota_1",
+      "offset": "0x260000",
+      "size": "0x0A0000",
+      "flags": ""
+    },
+    {
+      "name": "spiffs",
+      "type": "data",
+      "subtype": "spiffs",
+      "offset": "0x300000",
+      "size": "0x100000",
+      "flags": ""
+    }
+  ],
+  "hwModel": 25,
+  "hwModelSlug": "STATION_G1",
+  "architecture": "esp32",
+  "activelySupported": true,
+  "displayName": "Station G1",
+  "supportLevel": 3,
+  "tags": [
+    "B&Q"
+  ]
+}
