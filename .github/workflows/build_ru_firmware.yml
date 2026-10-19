@@ -111,13 +111,16 @@ jobs:
           fi
 
       - name: Build ${{ matrix.build.board }} (${{ matrix.build.platform }})
-        # Pinned: @main after 2026-10-10 (uv install / scons cache changes) breaks esp32s3
-        # link step on 2.8.1 tag with "No module named 'SCons.Tool.FortranCommon'"
+        # Pinned: tooling after 2026-10-10 (uv install / scons cache changes) breaks esp32*
+        # link step on 2.8.1 tag with "No module named 'SCons.Tool.FortranCommon'".
+        # The build runs in ghcr.io/meshtastic/gh-action-firmware:<branch>-<platform>;
+        # the 'master' image is built from f06a3dc, 'develop' floats. nrf54l15 has no master image.
         uses: meshtastic/gh-action-firmware@f06a3dcfbcd7c55f3373396c4254339d537cfa1f
         with:
           pio_platform: ${{ matrix.build.platform }}
           pio_env: ${{ matrix.build.board }}
           pio_target: build
+          meshtastic_branch: ${{ startsWith(matrix.build.platform, 'esp32') && 'master' || 'develop' }}
 
       - name: Download Unified OTA firmware (esp32 / esp32s3)
         if: matrix.build.platform == 'esp32' || matrix.build.platform == 'esp32s3'
