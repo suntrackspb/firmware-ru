@@ -110,17 +110,25 @@ jobs:
             echo "Patched $INI with vidplace7 mirror"
           fi
 
+      - name: Backport pioarduino 55.03.312-1 (upstream e09cec6ad)
+        # The forked 55.03.311 platform in <=2.8.1 tags fails to link with current SCons:
+        # "No module named 'SCons.Tool.FortranCommon'". Upstream fixed it in develop.
+        if: startsWith(matrix.build.platform, 'esp32')
+        run: |
+          INI="variants/esp32/esp32-common.ini"
+          if grep -q "pioarduino-platform-espressif32/archive/refs/heads/55.03.311.zip" "$INI"; then
+            sed -i 's|^  https://github.com/meshtastic/pioarduino-platform-espressif32/archive/refs/heads/55.03.311.zip|  https://github.com/pioarduino/platform-espressif32/releases/download/55.03.312-1/platform-espressif32.zip|' "$INI"
+            sed -i 's|mverch67/arduino-esp32#6dde0f3b58e32d9f884b94b4685b0f3a267c4624 ; 3.3.11|mverch67/arduino-esp32#046b8ba21c42b1a2fc84f175504f295e17a206d0 ; 3.3.12|' \
+              variants/esp32s3/seeed-sensecap-indicator/platformio.ini
+            echo "Patched:"; grep -n "platform-espressif32" "$INI"
+          fi
+
       - name: Build ${{ matrix.build.board }} (${{ matrix.build.platform }})
-        # Pinned: tooling after 2026-10-10 (uv install / scons cache changes) breaks esp32*
-        # link step on 2.8.1 tag with "No module named 'SCons.Tool.FortranCommon'".
-        # The build runs in ghcr.io/meshtastic/gh-action-firmware:<branch>-<platform>;
-        # the 'master' image is built from f06a3dc, 'develop' floats. nrf54l15 has no master image.
-        uses: meshtastic/gh-action-firmware@f06a3dcfbcd7c55f3373396c4254339d537cfa1f
+        uses: meshtastic/gh-action-firmware@main
         with:
           pio_platform: ${{ matrix.build.platform }}
           pio_env: ${{ matrix.build.board }}
           pio_target: build
-          meshtastic_branch: ${{ startsWith(matrix.build.platform, 'esp32') && 'master' || 'develop' }}
 
       - name: Download Unified OTA firmware (esp32 / esp32s3)
         if: matrix.build.platform == 'esp32' || matrix.build.platform == 'esp32s3'
