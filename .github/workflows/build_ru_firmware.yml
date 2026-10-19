@@ -111,7 +111,9 @@ jobs:
           fi
 
       - name: Build ${{ matrix.build.board }} (${{ matrix.build.platform }})
-        uses: meshtastic/gh-action-firmware@main
+        # Pinned: @main after 2026-10-10 (uv install / scons cache changes) breaks esp32s3
+        # link step on 2.8.1 tag with "No module named 'SCons.Tool.FortranCommon'"
+        uses: meshtastic/gh-action-firmware@f06a3dcfbcd7c55f3373396c4254339d537cfa1f
         with:
           pio_platform: ${{ matrix.build.platform }}
           pio_env: ${{ matrix.build.board }}
